@@ -1,0 +1,4506 @@
+{
+  "app": "DiplomaVino",
+  "version": "1.0",
+  "questions": [
+    {
+      "id": "sommellerie_p1_q1",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Quelle est la température de service idéale recommandée pour un grand cru de Bourgogne rouge élégant et évolué ?",
+      "options": [
+        "14-16°C",
+        "10-12°C",
+        "18-20°C",
+        "8-10°C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Température de fraîcheur de cave pour respecter la délicatesse.",
+      "thematique": "Température de service"
+    },
+    {
+      "id": "sommellerie_p1_q2",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Dans quel cas précis procède-t-on à une décantation (et non un simple carafage) pour un vin rouge âgé ?",
+      "options": [
+        "Pour éliminer les dépôts solides formés avec l'âge",
+        "Pour oxygéner brutalement un vin réduit",
+        "Pour réchauffer un vin trop froid",
+        "Pour éliminer le soufre libre"
+      ],
+      "correct_answer": 0,
+      "explanation": "Il s'agit de séparer physiquement les sédiments.",
+      "thematique": "Décantation"
+    },
+    {
+      "id": "sommellerie_p1_q3",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Que traduisent des larmes (ou jambes) épaisses, lentes et nombreuses le long de la paroi d'un verre ?",
+      "options": [
+        "Une forte teneur en alcool et/ou sucres résiduels",
+        "Une acidité volatile élevée",
+        "Une carence totale en anhydride sulfureux",
+        "Un taux de tanins astringent"
+      ],
+      "correct_answer": 0,
+      "explanation": "C'est lié à l'effet Marangoni et la viscosité.",
+      "thematique": "Analyse visuelle"
+    },
+    {
+      "id": "sommellerie_p1_q4",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Quel est l'unique cépage rouge autorisé dans l'appellation Côte-Rôtie ?",
+      "options": [
+        "La Syrah (avec jusqu'à 20% de Viognier)",
+        "Le Grenache",
+        "Le Cinsault",
+        "Le Mourvèdre"
+      ],
+      "correct_answer": 0,
+      "explanation": "Un mariage septentrional avec un cépage blanc aromatique.",
+      "thematique": "Vallée du Rhône"
+    },
+    {
+      "id": "sommellerie_p1_q5",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "À quelle famille d'arômes rattache-t-on les notes de sous-bois, de cuir et de tabac blond d'un vin vieux ?",
+      "options": [
+        "Les arômes tertiaires",
+        "Les arômes primaires",
+        "Les arômes secondaires",
+        "Les arômes empyreumatiques"
+      ],
+      "correct_answer": 0,
+      "explanation": "Il s'agit du bouquet de vieillissement en bouteille.",
+      "thematique": "Analyse olfactive"
+    },
+    {
+      "id": "sommellerie_p1_q6",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Laquelle de ces affirmations concernant la hiérarchie des appellations en Bourgogne est exacte ?",
+      "options": [
+        "Les climats classés en Premier Cru mentionnent le nom du climat sur l'étiquette",
+        "Les Premiers Crus représentent 50% de la production",
+        "Les Grands Crus comportent toujours le nom du village",
+        "Il n'existe aucune distinction de rendement"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le Premier Cru associe le nom du village à celui du climat.",
+      "thematique": "Bourgogne"
+    },
+    {
+      "id": "sommellerie_p1_q7",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Quel est l'objectif principal d'un carafage énergique pour un vin jeune et très tannique ?",
+      "options": [
+        "Assouplir les tanins et libérer les composés aromatiques",
+        "Précipiter l'acide tartrique",
+        "Réduire le degré alcoolique total",
+        "Éliminer les levures indigènes"
+      ],
+      "correct_answer": 0,
+      "explanation": "L'oxygène polymérise une partie des tanins astringents.",
+      "thematique": "Oxygénation"
+    },
+    {
+      "id": "sommellerie_p1_q8",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Quel cépage noble italien est à la base exclusive des grands vins de Barolo et de Barbaresco ?",
+      "options": [
+        "Le Nebbiolo",
+        "Le Sangiovese",
+        "Le Barbera",
+        "L'Aglianico"
+      ],
+      "correct_answer": 0,
+      "explanation": "Son nom provient de la brume (nebbia) automnale.",
+      "thematique": "Italie"
+    },
+    {
+      "id": "sommellerie_p1_q9",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Quel domaine de Sauternes détient la distinction suprême de Premier Cru Supérieur dans le classement de 1855 ?",
+      "options": [
+        "Le Château d'Yquem",
+        "Le Château Margaux",
+        "Le Château Haut-Brion",
+        "Le Château Cheval Blanc"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le sommet absolu de la hiérarchie des liquoreux de 1855.",
+      "thematique": "Bordeaux"
+    },
+    {
+      "id": "sommellerie_p1_q10",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Pourquoi privilégie-t-on un verre tulipe plutôt qu'une coupe plate pour le Champagne ?",
+      "options": [
+        "Pour préserver le cordon de bulles et concentrer les arômes",
+        "Pour forcer l'évaporation du gaz",
+        "Pour réchauffer rapidement le vin",
+        "Pour faciliter l'empilement du matériel"
+      ],
+      "correct_answer": 0,
+      "explanation": "La forme tulipe resserre le bouquet et guide les bulles.",
+      "thematique": "Effervescents"
+    },
+    {
+      "id": "sommellerie_p1_q11",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "L'odeur caractéristique de carton mouillé ou goût de bouchon est due à quelle molécule ?",
+      "options": [
+        "Le 2,4,6-trichloroanisole (TCA)",
+        "L'éthanoate d'éthyle",
+        "L'acide sorbique",
+        "Le diacétyle"
+      ],
+      "correct_answer": 0,
+      "explanation": "Un composé halogéné formé par le traitement du liège ou du bois.",
+      "thematique": "Défauts du vin"
+    },
+    {
+      "id": "sommellerie_p1_q12",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Quel est l'apport géologique fondamental des sols de type 'Kimméridgien' à Chablis ?",
+      "options": [
+        "Ils confèrent au vin sa pureté minérale, ses notes iodées et sa vibrante acidité",
+        "Ils stimulent une surmaturation rapide",
+        "Ils éliminent l'acidité malolactique",
+        "Ils apportent des tanins structurels aux vins blancs"
+      ],
+      "correct_answer": 0,
+      "explanation": "Un sous-sol marin fossilisé riche en petites huîtres.",
+      "thematique": "Viticulture et Terroirs"
+    },
+    {
+      "id": "sommellerie_p1_q13",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Quel est l'effet physiologique majeur du champignon Botrytis cinerea (pourriture noble) sur le raisin ?",
+      "options": [
+        "Il perfore la pellicule, permettant l'évaporation de l'eau et la concentration des sucres",
+        "Il bloque la photosynthèse",
+        "Il déclenche une fermentation sur la grappe",
+        "Il pigmente le jus en rouge foncé"
+      ],
+      "correct_answer": 0,
+      "explanation": "Un phénomène de passerillage biologique sur souche.",
+      "thematique": "Vins liquoreux"
+    },
+    {
+      "id": "sommellerie_p1_q14",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Quel cépage blanc noble est le seul composant de l'appellation Vouvray ?",
+      "options": [
+        "Le Chenin blanc",
+        "Le Sauvignon blanc",
+        "Le Chardonnay",
+        "Le Melon de Bourgogne"
+      ],
+      "correct_answer": 0,
+      "explanation": "Aussi appelé Pineau de la Loire, très polyvalent.",
+      "thematique": "Vallée de la Loire"
+    },
+    {
+      "id": "sommellerie_p1_q15",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "En France, à quoi correspond précisément la mention 'AOP' (Appellation d'Origine Protégée) ?",
+      "options": [
+        "Un lien fort entre le produit, son terroir et un cahier des charges rigoureux",
+        "L'autorisation d'assembler des vins européens",
+        "L'interdiction absolue d'utiliser du dioxyde de sulfure",
+        "Une classification marketing privée"
+      ],
+      "correct_answer": 0,
+      "explanation": "Un signe officiel de qualité géré par l'INAO.",
+      "thematique": "Législation"
+    },
+    {
+      "id": "sommellerie_p1_q16",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Qu'appelle-t-on un profil de vin ou un défaut dit de 'réduction' lors de l'élevage ?",
+      "options": [
+        "Un manque d'oxygène générant des notes de pierre à fusil ou de caoutchouc brûlé",
+        "Une oxydation rapide par contact avec l'air",
+        "L'évaporation de l'eau à travers les douelles",
+        "La baisse artificielle du taux d'alcool"
+      ],
+      "correct_answer": 0,
+      "explanation": "Se produit en milieu hermétique privé d'oxygène.",
+      "thematique": "Vinification et Cave"
+    },
+    {
+      "id": "sommellerie_p1_q17",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Quel cépage rouge est le pilier des grands vins de Rioja et de Ribera del Duero ?",
+      "options": [
+        "Le Tempranillo",
+        "L'Albariño",
+        "La Garnacha",
+        "Le Monastrell"
+      ],
+      "correct_answer": 0,
+      "explanation": "Son nom fait référence à sa maturité précoce (temprano).",
+      "thematique": "Espagne"
+    },
+    {
+      "id": "sommellerie_p1_q18",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Quel principe régit l'accord classique entre le Roquefort et un Sauternes ?",
+      "options": [
+        "Le sucre résiduel et l'onctuosité enrobent la puissance saline et le piquant du fromage",
+        "L'acidité pure détruit le gras du fromage",
+        "Les tanins marqués se lient aux protéines du lait",
+        "Le sel du fromage annule l'alcool du vin"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le contraste parfait entre le salé/bleu et la douceur du vin.",
+      "thematique": "Accords mets et vins"
+    },
+    {
+      "id": "sommellerie_p1_q19",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Quel cépage alsacien noble développe des notes caractéristiques d'hydrocarbures avec l'âge ?",
+      "options": [
+        "Le Riesling",
+        "Le Sylvaner",
+        "Le Chasselas",
+        "L'Auxerrois"
+      ],
+      "correct_answer": 0,
+      "explanation": "Lié à la formation de la molécule de TDN lors du vieillissement.",
+      "thematique": "Alsace"
+    },
+    {
+      "id": "sommellerie_p1_q20",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Que mesure-t-on précisément lorsque l'on comptabilise les 'caudalies' en dégustation ?",
+      "options": [
+        "La durée en secondes pendant laquelle les arômes persistent en bouche après déglutition",
+        "Le nombre de secondes d'aération nécessaire en carafe",
+        "Le volume restant dans le verre après une gorgée",
+        "Le taux de sucre résiduel converti en longueur"
+      ],
+      "correct_answer": 0,
+      "explanation": "Une caudalie correspond à une seconde de persistance rétro-nasale.",
+      "thematique": "Vocabulaire"
+    },
+    {
+      "id": "sommellerie_p2_q21",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "À quelle température sert-on généralement un vin rouge léger et fruité ?",
+      "options": [
+        "Environ 12 à 14 °C",
+        "Environ 4 à 6 °C",
+        "Environ 20 à 22 °C",
+        "Environ 26 °C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Les rouges légers gagnent à être servis légèrement rafraîchis pour préserver leur fraîcheur.",
+      "thematique": "Service"
+    },
+    {
+      "id": "sommellerie_p2_q22",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quel est l'objectif principal de la décantation d'un vin âgé ?",
+      "options": [
+        "Séparer le vin de son dépôt",
+        "Augmenter son degré alcoolique",
+        "Le rendre pétillant",
+        "Le refroidir rapidement"
+      ],
+      "correct_answer": 0,
+      "explanation": "La décantation permet notamment de séparer le vin du dépôt formé avec l'âge.",
+      "thematique": "Service"
+    },
+    {
+      "id": "sommellerie_p2_q23",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quel verre convient le mieux au service d'un vin effervescent ?",
+      "options": [
+        "Une flûte ou un verre tulipe",
+        "Un verre à digestif très étroit",
+        "Un verre à bière",
+        "Un verre ballon très large"
+      ],
+      "correct_answer": 0,
+      "explanation": "La forme étroite aide à préserver les bulles, tandis qu'un verre tulipe favorise aussi l'expression aromatique.",
+      "thematique": "Service"
+    },
+    {
+      "id": "sommellerie_p2_q24",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quel principe d'accord fonctionne généralement avec un plat très salé ?",
+      "options": [
+        "La fraîcheur du vin peut équilibrer la sensation saline",
+        "Choisir systématiquement un vin plus salé",
+        "Augmenter fortement le degré alcoolique",
+        "Servir uniquement un vin rouge tannique"
+      ],
+      "correct_answer": 0,
+      "explanation": "L'acidité et la fraîcheur peuvent apporter un contrepoint à la salinité.",
+      "thematique": "Accords"
+    },
+    {
+      "id": "sommellerie_p2_q25",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quel type de vin accompagne classiquement un dessert très sucré ?",
+      "options": [
+        "Un vin suffisamment doux pour ne pas paraître sec",
+        "Un vin très tannique et sec",
+        "Un vin sans acidité",
+        "Un vin systématiquement plus sec que le dessert"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le vin doit conserver une douceur suffisante pour ne pas sembler maigre face au dessert.",
+      "thematique": "Accords"
+    },
+    {
+      "id": "sommellerie_p2_q26",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quel élément d'un vin peut atténuer la sensation de gras d'un plat ?",
+      "options": [
+        "L'acidité",
+        "Le sucre uniquement",
+        "La couleur",
+        "Le degré de limpidité"
+      ],
+      "correct_answer": 0,
+      "explanation": "L'acidité stimule la salivation et peut alléger la sensation de gras.",
+      "thematique": "Accords"
+    },
+    {
+      "id": "sommellerie_p2_q27",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Que désigne la robe d'un vin ?",
+      "options": [
+        "Son aspect visuel : couleur, intensité et limpidité",
+        "Son niveau d'acidité",
+        "Son potentiel de garde uniquement",
+        "Son degré alcoolique"
+      ],
+      "correct_answer": 0,
+      "explanation": "La robe décrit l'apparence visuelle du vin.",
+      "thematique": "Dégustation"
+    },
+    {
+      "id": "sommellerie_p2_q28",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quelle famille aromatique évoque le citron et le pamplemousse ?",
+      "options": [
+        "Les agrumes",
+        "Les épices",
+        "Les notes animales",
+        "Les notes torréfiées"
+      ],
+      "correct_answer": 0,
+      "explanation": "Citron et pamplemousse appartiennent à la famille des agrumes.",
+      "thematique": "Dégustation"
+    },
+    {
+      "id": "sommellerie_p2_q29",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Que signifie la longueur en bouche ?",
+      "options": [
+        "La persistance des sensations après avoir avalé ou recraché le vin",
+        "La durée de conservation de la bouteille",
+        "La longueur du bouchon",
+        "Le temps nécessaire pour ouvrir la bouteille"
+      ],
+      "correct_answer": 0,
+      "explanation": "La longueur correspond à la persistance aromatique et gustative en finale.",
+      "thematique": "Dégustation"
+    },
+    {
+      "id": "sommellerie_p2_q30",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quel terme décrit un vin qui provoque beaucoup de salivation ?",
+      "options": [
+        "Frais",
+        "Moelleux",
+        "Tannique",
+        "Oxydé"
+      ],
+      "correct_answer": 0,
+      "explanation": "La fraîcheur est principalement liée à l'acidité et stimule la salivation.",
+      "thematique": "Dégustation"
+    },
+    {
+      "id": "sommellerie_p2_q31",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quelle région est principalement associée au cépage Sauvignon blanc à Sancerre ?",
+      "options": [
+        "Le Centre-Loire",
+        "La Provence",
+        "L'Alsace",
+        "Le Beaujolais"
+      ],
+      "correct_answer": 0,
+      "explanation": "Sancerre est une appellation du Centre-Loire, fondée notamment sur le Sauvignon blanc pour les blancs.",
+      "thematique": "Vins de France"
+    },
+    {
+      "id": "sommellerie_p2_q32",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quel cépage domine les grands vins rouges de la Côte de Nuits ?",
+      "options": [
+        "Pinot noir",
+        "Merlot",
+        "Syrah",
+        "Malbec"
+      ],
+      "correct_answer": 0,
+      "explanation": "La Côte de Nuits en Bourgogne est particulièrement réputée pour ses grands Pinot noir.",
+      "thematique": "Vins de France"
+    },
+    {
+      "id": "sommellerie_p2_q33",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quel cépage est emblématique de la vallée du Rhône septentrionale en rouge ?",
+      "options": [
+        "Syrah",
+        "Cabernet franc",
+        "Gamay",
+        "Pinot gris"
+      ],
+      "correct_answer": 0,
+      "explanation": "La Syrah est le cépage rouge majeur du Rhône septentrional.",
+      "thematique": "Vins de France"
+    },
+    {
+      "id": "sommellerie_p2_q34",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quel cépage est traditionnellement associé au Muscadet ?",
+      "options": [
+        "Melon de Bourgogne",
+        "Chardonnay",
+        "Viognier",
+        "Riesling"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le Muscadet est élaboré principalement à partir du Melon de Bourgogne.",
+      "thematique": "Vins de France"
+    },
+    {
+      "id": "sommellerie_p2_q35",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quel cépage est central dans les rouges du Beaujolais ?",
+      "options": [
+        "Gamay",
+        "Cabernet sauvignon",
+        "Pinotage",
+        "Grenache blanc"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le Gamay est le cépage emblématique des crus et appellations du Beaujolais.",
+      "thematique": "Vins de France"
+    },
+    {
+      "id": "sommellerie_p2_q36",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quelle appellation est particulièrement connue pour les vins liquoreux issus du Botrytis cinerea ?",
+      "options": [
+        "Sauternes",
+        "Morgon",
+        "Chablis",
+        "Menetou-Salon"
+      ],
+      "correct_answer": 0,
+      "explanation": "Sauternes est réputée pour ses vins liquoreux, souvent issus de raisins atteints de pourriture noble.",
+      "thematique": "Vins de France"
+    },
+    {
+      "id": "sommellerie_p2_q37",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quelle région italienne est réputée pour le Barolo ?",
+      "options": [
+        "Piémont",
+        "Toscane",
+        "Vénétie",
+        "Sicile"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le Barolo est produit dans le Piémont à partir de Nebbiolo.",
+      "thematique": "Vins du monde"
+    },
+    {
+      "id": "sommellerie_p2_q38",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quel cépage est emblématique du Barolo ?",
+      "options": [
+        "Nebbiolo",
+        "Sangiovese",
+        "Corvina",
+        "Montepulciano"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le Barolo est élaboré à partir du Nebbiolo.",
+      "thematique": "Vins du monde"
+    },
+    {
+      "id": "sommellerie_p2_q39",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quelle région espagnole est associée au Tempranillo et au Rioja ?",
+      "options": [
+        "La Rioja",
+        "La Galice",
+        "La Catalogne",
+        "La Castille-et-León uniquement"
+      ],
+      "correct_answer": 0,
+      "explanation": "La Rioja est l'une des grandes régions viticoles espagnoles et utilise largement le Tempranillo.",
+      "thematique": "Vins du monde"
+    },
+    {
+      "id": "sommellerie_p2_q40",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quel cépage est emblématique du Marlborough en Nouvelle-Zélande ?",
+      "options": [
+        "Sauvignon blanc",
+        "Nebbiolo",
+        "Gamay",
+        "Tannat"
+      ],
+      "correct_answer": 0,
+      "explanation": "Marlborough est mondialement connue pour ses Sauvignon blancs très aromatiques.",
+      "thematique": "Vins du monde"
+    },
+    {
+      "id": "sommellerie_p3_q41",
+      "domain": "sommellerie",
+      "level": 3,
+      "question": "Question de test pour Sommellerie P3 numéro 41 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 41 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q41"
+    },
+    {
+      "id": "sommellerie_p3_q42",
+      "domain": "sommellerie",
+      "level": 3,
+      "question": "Question de test pour Sommellerie P3 numéro 42 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 42 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q42"
+    },
+    {
+      "id": "sommellerie_p3_q43",
+      "domain": "sommellerie",
+      "level": 3,
+      "question": "Question de test pour Sommellerie P3 numéro 43 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 43 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q43"
+    },
+    {
+      "id": "sommellerie_p3_q44",
+      "domain": "sommellerie",
+      "level": 3,
+      "question": "Question de test pour Sommellerie P3 numéro 44 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 44 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q44"
+    },
+    {
+      "id": "sommellerie_p3_q45",
+      "domain": "sommellerie",
+      "level": 3,
+      "question": "Question de test pour Sommellerie P3 numéro 45 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 45 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q45"
+    },
+    {
+      "id": "sommellerie_p3_q46",
+      "domain": "sommellerie",
+      "level": 3,
+      "question": "Question de test pour Sommellerie P3 numéro 46 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 46 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q46"
+    },
+    {
+      "id": "sommellerie_p3_q47",
+      "domain": "sommellerie",
+      "level": 3,
+      "question": "Question de test pour Sommellerie P3 numéro 47 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 47 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q47"
+    },
+    {
+      "id": "sommellerie_p3_q48",
+      "domain": "sommellerie",
+      "level": 3,
+      "question": "Question de test pour Sommellerie P3 numéro 48 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 48 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q48"
+    },
+    {
+      "id": "sommellerie_p3_q49",
+      "domain": "sommellerie",
+      "level": 3,
+      "question": "Question de test pour Sommellerie P3 numéro 49 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 49 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q49"
+    },
+    {
+      "id": "sommellerie_p3_q50",
+      "domain": "sommellerie",
+      "level": 3,
+      "question": "Question de test pour Sommellerie P3 numéro 50 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 50 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q50"
+    },
+    {
+      "id": "sommellerie_p3_q51",
+      "domain": "sommellerie",
+      "level": 3,
+      "question": "Question de test pour Sommellerie P3 numéro 51 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 51 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q51"
+    },
+    {
+      "id": "sommellerie_p3_q52",
+      "domain": "sommellerie",
+      "level": 3,
+      "question": "Question de test pour Sommellerie P3 numéro 52 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 52 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q52"
+    },
+    {
+      "id": "sommellerie_p3_q53",
+      "domain": "sommellerie",
+      "level": 3,
+      "question": "Question de test pour Sommellerie P3 numéro 53 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 53 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q53"
+    },
+    {
+      "id": "sommellerie_p3_q54",
+      "domain": "sommellerie",
+      "level": 3,
+      "question": "Question de test pour Sommellerie P3 numéro 54 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 54 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q54"
+    },
+    {
+      "id": "sommellerie_p3_q55",
+      "domain": "sommellerie",
+      "level": 3,
+      "question": "Question de test pour Sommellerie P3 numéro 55 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 55 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q55"
+    },
+    {
+      "id": "sommellerie_p3_q56",
+      "domain": "sommellerie",
+      "level": 3,
+      "question": "Question de test pour Sommellerie P3 numéro 56 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 56 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q56"
+    },
+    {
+      "id": "sommellerie_p3_q57",
+      "domain": "sommellerie",
+      "level": 3,
+      "question": "Question de test pour Sommellerie P3 numéro 57 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 57 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q57"
+    },
+    {
+      "id": "sommellerie_p3_q58",
+      "domain": "sommellerie",
+      "level": 3,
+      "question": "Question de test pour Sommellerie P3 numéro 58 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 58 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q58"
+    },
+    {
+      "id": "sommellerie_p3_q59",
+      "domain": "sommellerie",
+      "level": 3,
+      "question": "Question de test pour Sommellerie P3 numéro 59 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 59 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q59"
+    },
+    {
+      "id": "sommellerie_p3_q60",
+      "domain": "sommellerie",
+      "level": 3,
+      "question": "Question de test pour Sommellerie P3 numéro 60 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 60 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q60"
+    },
+    {
+      "id": "sommellerie_p4_q61",
+      "domain": "sommellerie",
+      "level": 4,
+      "question": "Question de test pour Sommellerie P4 numéro 61 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 61 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q61"
+    },
+    {
+      "id": "sommellerie_p4_q62",
+      "domain": "sommellerie",
+      "level": 4,
+      "question": "Question de test pour Sommellerie P4 numéro 62 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 62 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q62"
+    },
+    {
+      "id": "sommellerie_p4_q63",
+      "domain": "sommellerie",
+      "level": 4,
+      "question": "Question de test pour Sommellerie P4 numéro 63 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 63 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q63"
+    },
+    {
+      "id": "sommellerie_p4_q64",
+      "domain": "sommellerie",
+      "level": 4,
+      "question": "Question de test pour Sommellerie P4 numéro 64 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 64 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q64"
+    },
+    {
+      "id": "sommellerie_p4_q65",
+      "domain": "sommellerie",
+      "level": 4,
+      "question": "Question de test pour Sommellerie P4 numéro 65 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 65 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q65"
+    },
+    {
+      "id": "sommellerie_p4_q66",
+      "domain": "sommellerie",
+      "level": 4,
+      "question": "Question de test pour Sommellerie P4 numéro 66 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 66 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q66"
+    },
+    {
+      "id": "sommellerie_p4_q67",
+      "domain": "sommellerie",
+      "level": 4,
+      "question": "Question de test pour Sommellerie P4 numéro 67 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 67 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q67"
+    },
+    {
+      "id": "sommellerie_p4_q68",
+      "domain": "sommellerie",
+      "level": 4,
+      "question": "Question de test pour Sommellerie P4 numéro 68 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 68 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q68"
+    },
+    {
+      "id": "sommellerie_p4_q69",
+      "domain": "sommellerie",
+      "level": 4,
+      "question": "Question de test pour Sommellerie P4 numéro 69 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 69 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q69"
+    },
+    {
+      "id": "sommellerie_p4_q70",
+      "domain": "sommellerie",
+      "level": 4,
+      "question": "Question de test pour Sommellerie P4 numéro 70 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 70 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q70"
+    },
+    {
+      "id": "sommellerie_p4_q71",
+      "domain": "sommellerie",
+      "level": 4,
+      "question": "Question de test pour Sommellerie P4 numéro 71 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 71 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q71"
+    },
+    {
+      "id": "sommellerie_p4_q72",
+      "domain": "sommellerie",
+      "level": 4,
+      "question": "Question de test pour Sommellerie P4 numéro 72 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 72 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q72"
+    },
+    {
+      "id": "sommellerie_p4_q73",
+      "domain": "sommellerie",
+      "level": 4,
+      "question": "Question de test pour Sommellerie P4 numéro 73 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 73 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q73"
+    },
+    {
+      "id": "sommellerie_p4_q74",
+      "domain": "sommellerie",
+      "level": 4,
+      "question": "Question de test pour Sommellerie P4 numéro 74 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 74 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q74"
+    },
+    {
+      "id": "sommellerie_p4_q75",
+      "domain": "sommellerie",
+      "level": 4,
+      "question": "Question de test pour Sommellerie P4 numéro 75 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 75 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q75"
+    },
+    {
+      "id": "sommellerie_p4_q76",
+      "domain": "sommellerie",
+      "level": 4,
+      "question": "Question de test pour Sommellerie P4 numéro 76 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 76 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q76"
+    },
+    {
+      "id": "sommellerie_p4_q77",
+      "domain": "sommellerie",
+      "level": 4,
+      "question": "Question de test pour Sommellerie P4 numéro 77 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 77 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q77"
+    },
+    {
+      "id": "sommellerie_p4_q78",
+      "domain": "sommellerie",
+      "level": 4,
+      "question": "Question de test pour Sommellerie P4 numéro 78 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 78 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q78"
+    },
+    {
+      "id": "sommellerie_p4_q79",
+      "domain": "sommellerie",
+      "level": 4,
+      "question": "Question de test pour Sommellerie P4 numéro 79 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 79 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q79"
+    },
+    {
+      "id": "sommellerie_p4_q80",
+      "domain": "sommellerie",
+      "level": 4,
+      "question": "Question de test pour Sommellerie P4 numéro 80 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 80 de Sommellerie.",
+      "thematique": "Sujet Spécifique Q80"
+    },
+    {
+      "id": "sommellerie_p5_q81",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Pourquoi conserver les bouteilles de vin tranquille couchées lorsqu'elles ont un bouchon de liège ?",
+      "options": [
+        "Pour maintenir le bouchon humide",
+        "Pour augmenter le degré alcoolique",
+        "Pour accélérer l'oxydation",
+        "Pour empêcher tout dépôt"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le contact avec le vin aide à éviter le dessèchement du bouchon.",
+      "thematique": "Gestion de cave"
+    },
+    {
+      "id": "sommellerie_p5_q82",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Quelle condition est particulièrement importante pour une cave de garde ?",
+      "options": [
+        "Une température relativement stable",
+        "Des variations quotidiennes importantes",
+        "Une lumière forte",
+        "Une humidité nulle"
+      ],
+      "correct_answer": 0,
+      "explanation": "La stabilité thermique est importante pour limiter les évolutions défavorables du vin.",
+      "thematique": "Gestion de cave"
+    },
+    {
+      "id": "sommellerie_p5_q83",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Pourquoi faut-il éviter la lumière directe pour les vins sensibles ?",
+      "options": [
+        "Elle peut accélérer des altérations du vin",
+        "Elle augmente toujours l'acidité",
+        "Elle empêche la fermentation",
+        "Elle supprime les tanins"
+      ],
+      "correct_answer": 0,
+      "explanation": "La lumière peut favoriser des réactions d'altération, notamment sur certains vins blancs et effervescents.",
+      "thematique": "Gestion de cave"
+    },
+    {
+      "id": "sommellerie_p5_q84",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "À quoi sert principalement un seau à glace lors du service d'un vin blanc ?",
+      "options": [
+        "À maintenir sa température de service",
+        "À filtrer le vin",
+        "À augmenter son acidité",
+        "À éliminer le dépôt"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le seau permet de maintenir le vin à une température fraîche pendant le service.",
+      "thematique": "Service"
+    },
+    {
+      "id": "sommellerie_p5_q85",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Lors d'un service à table, qui goûte généralement le vin présenté pour validation ?",
+      "options": [
+        "La personne qui a commandé le vin",
+        "Le sommelier uniquement",
+        "Le serveur uniquement",
+        "Tous les convives simultanément"
+      ],
+      "correct_answer": 0,
+      "explanation": "La personne qui a choisi le vin valide généralement son état avant le service aux autres convives.",
+      "thematique": "Service"
+    },
+    {
+      "id": "sommellerie_p5_q86",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Quel défaut est souvent associé à une odeur de carton mouillé ?",
+      "options": [
+        "Le goût de bouchon",
+        "L'oxydation",
+        "La réduction",
+        "L'acidité volatile"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le TCA, responsable du goût de bouchon, peut donner des notes de carton mouillé ou de moisi.",
+      "thematique": "Service"
+    },
+    {
+      "id": "sommellerie_p5_q87",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Quel ordre est généralement logique pour servir plusieurs vins au cours d'un repas ?",
+      "options": [
+        "Du plus léger au plus puissant",
+        "Du plus puissant au plus léger systématiquement",
+        "Du plus doux au plus acide uniquement",
+        "Selon la couleur de l'étiquette"
+      ],
+      "correct_answer": 0,
+      "explanation": "L'ordre cherche généralement à préserver la perception des vins, en progressant vers davantage d'intensité.",
+      "thematique": "Service"
+    },
+    {
+      "id": "sommellerie_p5_q88",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Quel élément peut renforcer la perception de chaleur alcoolique dans un vin ?",
+      "options": [
+        "Un plat très épicé",
+        "Un plat très acide uniquement",
+        "Un plat peu assaisonné",
+        "Un plat froid sans épices"
+      ],
+      "correct_answer": 0,
+      "explanation": "Les plats épicés peuvent accentuer la sensation de chaleur liée à l'alcool.",
+      "thematique": "Accords"
+    },
+    {
+      "id": "sommellerie_p5_q89",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Quel type de vin peut accompagner harmonieusement un fromage persillé puissant ?",
+      "options": [
+        "Un vin doux et aromatique",
+        "Un vin rouge très tannique et sec uniquement",
+        "Un vin sans acidité",
+        "Un vin totalement neutre"
+      ],
+      "correct_answer": 0,
+      "explanation": "La douceur et l'aromatique peuvent équilibrer la puissance et le sel des fromages persillés.",
+      "thematique": "Accords"
+    },
+    {
+      "id": "sommellerie_p5_q90",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Quel cépage est l'un des trois cépages majeurs autorisés pour le Champagne ?",
+      "options": [
+        "Pinot meunier",
+        "Syrah",
+        "Gamay",
+        "Tannat"
+      ],
+      "correct_answer": 0,
+      "explanation": "Les trois cépages majeurs sont Chardonnay, Pinot noir et Pinot meunier.",
+      "thematique": "Champagne"
+    },
+    {
+      "id": "sommellerie_p5_q91",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Que signifie 'Brut' sur une bouteille de Champagne ?",
+      "options": [
+        "Une catégorie de dosage relativement peu sucrée",
+        "Un vin sans fermentation",
+        "Un vin rouge",
+        "Un vin sans prise de mousse"
+      ],
+      "correct_answer": 0,
+      "explanation": "Brut désigne une catégorie de dosage avec une faible quantité de sucre résiduel ajoutée à l'expédition.",
+      "thematique": "Champagne"
+    },
+    {
+      "id": "sommellerie_p5_q92",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Quelle méthode est utilisée pour l'élaboration traditionnelle du Champagne ?",
+      "options": [
+        "La seconde fermentation en bouteille",
+        "La gazéification directe uniquement",
+        "La fermentation uniquement en cuve close",
+        "La concentration par congélation"
+      ],
+      "correct_answer": 0,
+      "explanation": "La méthode champenoise/traditionnelle comprend une seconde fermentation en bouteille.",
+      "thematique": "Effervescents"
+    },
+    {
+      "id": "sommellerie_p5_q93",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Quel spiritueux est élaboré à partir de vin distillé ?",
+      "options": [
+        "Le cognac",
+        "Le rhum",
+        "Le gin",
+        "La tequila"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le Cognac est un spiritueux de vin produit par distillation puis vieillissement selon les règles de l'appellation.",
+      "thematique": "Spiritueux"
+    },
+    {
+      "id": "sommellerie_p5_q94",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Quelle matière première est principalement utilisée pour le rhum ?",
+      "options": [
+        "La canne à sucre",
+        "Le raisin frais",
+        "L'orge maltée uniquement",
+        "La pomme"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le rhum est produit à partir de produits de la canne à sucre, notamment mélasse ou jus selon les styles.",
+      "thematique": "Spiritueux"
+    },
+    {
+      "id": "sommellerie_p5_q95",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Quel botanique est indispensable à la définition du gin ?",
+      "options": [
+        "Le genièvre",
+        "La vanille",
+        "Le cacao",
+        "Le safran"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le gin est un spiritueux dont le caractère doit notamment provenir du genièvre.",
+      "thematique": "Spiritueux"
+    },
+    {
+      "id": "sommellerie_p5_q96",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Quel est le rôle principal d'un sommelier en restauration ?",
+      "options": [
+        "Conseiller les vins et assurer leur service adapté",
+        "Cuisiner tous les plats",
+        "Gérer uniquement les réservations",
+        "Produire les vins de la carte"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le sommelier conseille, gère et sert les vins en fonction de la carte et des attentes des clients.",
+      "thematique": "Sommellerie"
+    },
+    {
+      "id": "sommellerie_p5_q97",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Pourquoi actualiser régulièrement une carte des vins ?",
+      "options": [
+        "Pour refléter les disponibilités, millésimes et changements de prix",
+        "Pour augmenter automatiquement le degré alcoolique",
+        "Pour supprimer les accords mets-vins",
+        "Pour éviter toute rotation de stock"
+      ],
+      "correct_answer": 0,
+      "explanation": "Une carte doit rester cohérente avec les stocks, millésimes disponibles et conditions commerciales.",
+      "thematique": "Carte des vins"
+    },
+    {
+      "id": "sommellerie_p5_q98",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Que permet la rotation des stocks en cave ?",
+      "options": [
+        "Limiter le vieillissement non souhaité et suivre les entrées/sorties",
+        "Empêcher toute vente de vin",
+        "Augmenter systématiquement les prix",
+        "Modifier les appellations"
+      ],
+      "correct_answer": 0,
+      "explanation": "La rotation permet de suivre les stocks et d'éviter qu'une bouteille reste inutilement trop longtemps en cave.",
+      "thematique": "Gestion"
+    },
+    {
+      "id": "sommellerie_p5_q99",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Que peut indiquer une couleur ambrée sur un vin blanc sec ?",
+      "options": [
+        "Une évolution liée notamment à l'âge ou à l'oxydation",
+        "Une absence totale d'alcool",
+        "Une effervescence forte",
+        "Un niveau de sucre toujours élevé"
+      ],
+      "correct_answer": 0,
+      "explanation": "Une teinte ambrée peut traduire une évolution et, selon le vin, une oxydation plus ou moins marquée.",
+      "thematique": "Dégustation"
+    },
+    {
+      "id": "sommellerie_p5_q100",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Quel facteur peut augmenter la perception de l'astringence d'un vin rouge ?",
+      "options": [
+        "Des tanins élevés",
+        "Une forte douceur uniquement",
+        "Une température très basse uniquement",
+        "Une faible couleur"
+      ],
+      "correct_answer": 0,
+      "explanation": "Les tanins sont responsables d'une grande partie de la sensation d'astringence des rouges.",
+      "thematique": "Dégustation"
+    },
+    {
+      "id": "wset_p1_q1",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quelle partie de la plante porte les grappes de raisin ?",
+      "options": [
+        "Les inflorescences puis les grappes sur les rameaux",
+        "Les racines",
+        "Le tronc uniquement",
+        "Les vrilles uniquement"
+      ],
+      "correct_answer": 0,
+      "explanation": "Les grappes se développent sur les pousses issues des bourgeons de la vigne.",
+      "thematique": "Vigne"
+    },
+    {
+      "id": "wset_p1_q2",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quel est le principal besoin de la vigne pour réaliser la photosynthèse ?",
+      "options": [
+        "La lumière",
+        "Le sel",
+        "Le dioxyde de carbone uniquement sans lumière",
+        "L'alcool"
+      ],
+      "correct_answer": 0,
+      "explanation": "La photosynthèse nécessite notamment lumière, eau et dioxyde de carbone.",
+      "thematique": "Vigne"
+    },
+    {
+      "id": "wset_p1_q3",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quel climat favorise généralement une maturation plus rapide des raisins ?",
+      "options": [
+        "Un climat chaud",
+        "Un climat froid",
+        "Un climat sans lumière",
+        "Un climat polaire"
+      ],
+      "correct_answer": 0,
+      "explanation": "La chaleur accélère généralement les processus de maturation, avec des nuances selon les conditions.",
+      "thematique": "Vigne"
+    },
+    {
+      "id": "wset_p1_q4",
+      "domain": "wset",
+      "level": 1,
+      "question": "Que se passe-t-il lors de la véraison ?",
+      "options": [
+        "Les baies changent de couleur et commencent leur maturation",
+        "Les raisins sont récoltés",
+        "Le vin est mis en bouteille",
+        "Les racines cessent de pousser définitivement"
+      ],
+      "correct_answer": 0,
+      "explanation": "La véraison correspond au début de la maturation visible des baies.",
+      "thematique": "Vigne"
+    },
+    {
+      "id": "wset_p1_q5",
+      "domain": "wset",
+      "level": 1,
+      "question": "Pourquoi le choix du moment de la récolte est-il important ?",
+      "options": [
+        "Il influence l'équilibre entre sucre, acidité et maturité",
+        "Il détermine uniquement la couleur de la bouteille",
+        "Il supprime les arômes",
+        "Il empêche toute fermentation"
+      ],
+      "correct_answer": 0,
+      "explanation": "La date de récolte influence plusieurs composantes majeures de la composition du raisin.",
+      "thematique": "Vigne"
+    },
+    {
+      "id": "wset_p1_q6",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quelle levure transforme principalement les sucres du raisin en alcool lors de la fermentation alcoolique ?",
+      "options": [
+        "Saccharomyces cerevisiae",
+        "Acetobacter",
+        "Brettanomyces uniquement",
+        "Lactobacillus uniquement"
+      ],
+      "correct_answer": 0,
+      "explanation": "Saccharomyces cerevisiae est la levure couramment utilisée pour la fermentation alcoolique.",
+      "thematique": "Vinification"
+    },
+    {
+      "id": "wset_p1_q7",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quel gaz est principalement produit lors de la fermentation alcoolique ?",
+      "options": [
+        "Dioxyde de carbone",
+        "Oxygène",
+        "Azote",
+        "Hydrogène"
+      ],
+      "correct_answer": 0,
+      "explanation": "La fermentation alcoolique produit principalement alcool et dioxyde de carbone.",
+      "thematique": "Vinification"
+    },
+    {
+      "id": "wset_p1_q8",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quel est l'effet général de la fermentation malolactique ?",
+      "options": [
+        "Elle réduit l'acidité et peut apporter des notes lactées",
+        "Elle augmente fortement l'acidité",
+        "Elle produit des bulles dans tous les vins",
+        "Elle transforme l'alcool en sucre"
+      ],
+      "correct_answer": 0,
+      "explanation": "La fermentation malolactique transforme l'acide malique en acide lactique, généralement avec baisse de l'acidité.",
+      "thematique": "Vinification"
+    },
+    {
+      "id": "wset_p1_q9",
+      "domain": "wset",
+      "level": 1,
+      "question": "Pourquoi le vin rouge est-il généralement fermenté avec les peaux ?",
+      "options": [
+        "Pour extraire couleur, tanins et composés aromatiques",
+        "Pour supprimer tout alcool",
+        "Pour rendre le vin blanc",
+        "Pour empêcher la fermentation"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le contact avec les peaux permet notamment l'extraction des anthocyanes et des tanins.",
+      "thematique": "Vinification"
+    },
+    {
+      "id": "wset_p1_q10",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quelle opération sépare le vin des matières solides après fermentation ?",
+      "options": [
+        "Le pressurage ou l'écoulage selon le procédé",
+        "La mise en bouteille",
+        "L'étiquetage",
+        "Le bouchage"
+      ],
+      "correct_answer": 0,
+      "explanation": "Selon la méthode, le vin est séparé des parties solides par écoulage et/ou pressurage.",
+      "thematique": "Vinification"
+    },
+    {
+      "id": "wset_p1_q11",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quel est l'effet du bois de chêne sur un vin ?",
+      "options": [
+        "Il peut apporter des arômes et favoriser une évolution par échanges avec l'oxygène",
+        "Il supprime toute acidité",
+        "Il empêche toute maturation",
+        "Il transforme toujours le vin en vin doux"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le chêne peut apporter des composés aromatiques et contribuer à la maturation.",
+      "thematique": "Vinification"
+    },
+    {
+      "id": "wset_p1_q12",
+      "domain": "wset",
+      "level": 1,
+      "question": "Qu'est-ce qu'un vin sec au sens courant de la dégustation ?",
+      "options": [
+        "Un vin avec très peu de sucre résiduel perceptible",
+        "Un vin toujours acide",
+        "Un vin sans alcool",
+        "Un vin nécessairement effervescent"
+      ],
+      "correct_answer": 0,
+      "explanation": "La sécheresse décrit avant tout l'absence de douceur perceptible liée au sucre résiduel.",
+      "thematique": "Vinification"
+    },
+    {
+      "id": "wset_p1_q13",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quel élément est évalué en premier dans l'approche systématique de dégustation ?",
+      "options": [
+        "L'apparence",
+        "Le degré de garde",
+        "Le prix",
+        "Le nom du producteur"
+      ],
+      "correct_answer": 0,
+      "explanation": "L'approche commence généralement par l'examen visuel avant le nez et la bouche.",
+      "thematique": "Dégustation"
+    },
+    {
+      "id": "wset_p1_q14",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quelle sensation est principalement liée à l'acidité ?",
+      "options": [
+        "La salivation et la fraîcheur",
+        "L'astringence",
+        "La chaleur alcoolique uniquement",
+        "La douceur"
+      ],
+      "correct_answer": 0,
+      "explanation": "L'acidité augmente la salivation et donne une sensation de fraîcheur.",
+      "thematique": "Dégustation"
+    },
+    {
+      "id": "wset_p1_q15",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quelle sensation est principalement liée aux tanins ?",
+      "options": [
+        "L'astringence",
+        "La douceur",
+        "La salinité uniquement",
+        "La chaleur"
+      ],
+      "correct_answer": 0,
+      "explanation": "Les tanins produisent une sensation tactile d'assèchement ou d'astringence.",
+      "thematique": "Dégustation"
+    },
+    {
+      "id": "wset_p1_q16",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quel effet un climat plus frais a-t-il généralement sur la maturation du raisin ?",
+      "options": [
+        "Une maturation plus lente et une acidité potentiellement plus élevée",
+        "Une maturation toujours plus rapide",
+        "Une disparition systématique des arômes",
+        "Une augmentation automatique du sucre"
+      ],
+      "correct_answer": 0,
+      "explanation": "Les climats frais ralentissent généralement la maturation et favorisent le maintien de l'acidité.",
+      "thematique": "Climat"
+    },
+    {
+      "id": "wset_p1_q17",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quel risque est particulièrement associé au gel de printemps ?",
+      "options": [
+        "La destruction des jeunes pousses",
+        "Une surmaturation des raisins",
+        "Une augmentation immédiate du sucre",
+        "Une prise de mousse"
+      ],
+      "correct_answer": 0,
+      "explanation": "Les jeunes pousses sont particulièrement vulnérables au gel printanier.",
+      "thematique": "Climat"
+    },
+    {
+      "id": "wset_p1_q18",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quel risque peut être accru par une pluie importante proche de la récolte ?",
+      "options": [
+        "La dilution et certaines maladies fongiques",
+        "La hausse automatique de l'alcool",
+        "La diminution du rendement à zéro",
+        "La prise de mousse"
+      ],
+      "correct_answer": 0,
+      "explanation": "L'excès d'eau peut diluer les baies et favoriser certaines maladies, selon les conditions.",
+      "thematique": "Climat"
+    },
+    {
+      "id": "wset_p1_q19",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quel style de vin est généralement obtenu à partir de raisins récoltés très mûrs, avec davantage de sucre potentiel ?",
+      "options": [
+        "Un vin potentiellement plus riche en alcool et en fruit mûr",
+        "Un vin nécessairement plus acide",
+        "Un vin toujours effervescent",
+        "Un vin toujours sans alcool"
+      ],
+      "correct_answer": 0,
+      "explanation": "Une maturité plus élevée peut conduire à davantage de sucre potentiel et à des profils plus mûrs.",
+      "thematique": "Styles"
+    },
+    {
+      "id": "wset_p1_q20",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quel facteur influence fortement le style final d'un vin ?",
+      "options": [
+        "Le climat, le cépage et les choix de vinification",
+        "La forme de l'étiquette uniquement",
+        "Le prix de vente uniquement",
+        "La couleur de la capsule uniquement"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le style résulte de l'interaction du site/climat, du cépage et des choix humains de culture et de vinification.",
+      "thematique": "Styles"
+    },
+    {
+      "id": "wset_p2_q21",
+      "domain": "wset",
+      "level": 2,
+      "question": "Question de test pour WSET P2 numéro 21 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 21 de WSET.",
+      "thematique": "Sujet Spécifique Q21"
+    },
+    {
+      "id": "wset_p2_q22",
+      "domain": "wset",
+      "level": 2,
+      "question": "Question de test pour WSET P2 numéro 22 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 22 de WSET.",
+      "thematique": "Sujet Spécifique Q22"
+    },
+    {
+      "id": "wset_p2_q23",
+      "domain": "wset",
+      "level": 2,
+      "question": "Question de test pour WSET P2 numéro 23 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 23 de WSET.",
+      "thematique": "Sujet Spécifique Q23"
+    },
+    {
+      "id": "wset_p2_q24",
+      "domain": "wset",
+      "level": 2,
+      "question": "Question de test pour WSET P2 numéro 24 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 24 de WSET.",
+      "thematique": "Sujet Spécifique Q24"
+    },
+    {
+      "id": "wset_p2_q25",
+      "domain": "wset",
+      "level": 2,
+      "question": "Question de test pour WSET P2 numéro 25 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 25 de WSET.",
+      "thematique": "Sujet Spécifique Q25"
+    },
+    {
+      "id": "wset_p2_q26",
+      "domain": "wset",
+      "level": 2,
+      "question": "Question de test pour WSET P2 numéro 26 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 26 de WSET.",
+      "thematique": "Sujet Spécifique Q26"
+    },
+    {
+      "id": "wset_p2_q27",
+      "domain": "wset",
+      "level": 2,
+      "question": "Question de test pour WSET P2 numéro 27 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 27 de WSET.",
+      "thematique": "Sujet Spécifique Q27"
+    },
+    {
+      "id": "wset_p2_q28",
+      "domain": "wset",
+      "level": 2,
+      "question": "Question de test pour WSET P2 numéro 28 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 28 de WSET.",
+      "thematique": "Sujet Spécifique Q28"
+    },
+    {
+      "id": "wset_p2_q29",
+      "domain": "wset",
+      "level": 2,
+      "question": "Question de test pour WSET P2 numéro 29 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 29 de WSET.",
+      "thematique": "Sujet Spécifique Q29"
+    },
+    {
+      "id": "wset_p2_q30",
+      "domain": "wset",
+      "level": 2,
+      "question": "Question de test pour WSET P2 numéro 30 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 30 de WSET.",
+      "thematique": "Sujet Spécifique Q30"
+    },
+    {
+      "id": "wset_p2_q31",
+      "domain": "wset",
+      "level": 2,
+      "question": "Question de test pour WSET P2 numéro 31 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 31 de WSET.",
+      "thematique": "Sujet Spécifique Q31"
+    },
+    {
+      "id": "wset_p2_q32",
+      "domain": "wset",
+      "level": 2,
+      "question": "Question de test pour WSET P2 numéro 32 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 32 de WSET.",
+      "thematique": "Sujet Spécifique Q32"
+    },
+    {
+      "id": "wset_p2_q33",
+      "domain": "wset",
+      "level": 2,
+      "question": "Question de test pour WSET P2 numéro 33 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 33 de WSET.",
+      "thematique": "Sujet Spécifique Q33"
+    },
+    {
+      "id": "wset_p2_q34",
+      "domain": "wset",
+      "level": 2,
+      "question": "Question de test pour WSET P2 numéro 34 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 34 de WSET.",
+      "thematique": "Sujet Spécifique Q34"
+    },
+    {
+      "id": "wset_p2_q35",
+      "domain": "wset",
+      "level": 2,
+      "question": "Question de test pour WSET P2 numéro 35 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 35 de WSET.",
+      "thematique": "Sujet Spécifique Q35"
+    },
+    {
+      "id": "wset_p2_q36",
+      "domain": "wset",
+      "level": 2,
+      "question": "Question de test pour WSET P2 numéro 36 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 36 de WSET.",
+      "thematique": "Sujet Spécifique Q36"
+    },
+    {
+      "id": "wset_p2_q37",
+      "domain": "wset",
+      "level": 2,
+      "question": "Question de test pour WSET P2 numéro 37 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 37 de WSET.",
+      "thematique": "Sujet Spécifique Q37"
+    },
+    {
+      "id": "wset_p2_q38",
+      "domain": "wset",
+      "level": 2,
+      "question": "Question de test pour WSET P2 numéro 38 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 38 de WSET.",
+      "thematique": "Sujet Spécifique Q38"
+    },
+    {
+      "id": "wset_p2_q39",
+      "domain": "wset",
+      "level": 2,
+      "question": "Question de test pour WSET P2 numéro 39 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 39 de WSET.",
+      "thematique": "Sujet Spécifique Q39"
+    },
+    {
+      "id": "wset_p2_q40",
+      "domain": "wset",
+      "level": 2,
+      "question": "Question de test pour WSET P2 numéro 40 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 40 de WSET.",
+      "thematique": "Sujet Spécifique Q40"
+    },
+    {
+      "id": "wset_p3_q41",
+      "domain": "wset",
+      "level": 3,
+      "question": "Question de test pour WSET P3 numéro 41 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 41 de WSET.",
+      "thematique": "Sujet Spécifique Q41"
+    },
+    {
+      "id": "wset_p3_q42",
+      "domain": "wset",
+      "level": 3,
+      "question": "Question de test pour WSET P3 numéro 42 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 42 de WSET.",
+      "thematique": "Sujet Spécifique Q42"
+    },
+    {
+      "id": "wset_p3_q43",
+      "domain": "wset",
+      "level": 3,
+      "question": "Question de test pour WSET P3 numéro 43 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 43 de WSET.",
+      "thematique": "Sujet Spécifique Q43"
+    },
+    {
+      "id": "wset_p3_q44",
+      "domain": "wset",
+      "level": 3,
+      "question": "Question de test pour WSET P3 numéro 44 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 44 de WSET.",
+      "thematique": "Sujet Spécifique Q44"
+    },
+    {
+      "id": "wset_p3_q45",
+      "domain": "wset",
+      "level": 3,
+      "question": "Question de test pour WSET P3 numéro 45 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 45 de WSET.",
+      "thematique": "Sujet Spécifique Q45"
+    },
+    {
+      "id": "wset_p3_q46",
+      "domain": "wset",
+      "level": 3,
+      "question": "Question de test pour WSET P3 numéro 46 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 46 de WSET.",
+      "thematique": "Sujet Spécifique Q46"
+    },
+    {
+      "id": "wset_p3_q47",
+      "domain": "wset",
+      "level": 3,
+      "question": "Question de test pour WSET P3 numéro 47 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 47 de WSET.",
+      "thematique": "Sujet Spécifique Q47"
+    },
+    {
+      "id": "wset_p3_q48",
+      "domain": "wset",
+      "level": 3,
+      "question": "Question de test pour WSET P3 numéro 48 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 48 de WSET.",
+      "thematique": "Sujet Spécifique Q48"
+    },
+    {
+      "id": "wset_p3_q49",
+      "domain": "wset",
+      "level": 3,
+      "question": "Question de test pour WSET P3 numéro 49 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 49 de WSET.",
+      "thematique": "Sujet Spécifique Q49"
+    },
+    {
+      "id": "wset_p3_q50",
+      "domain": "wset",
+      "level": 3,
+      "question": "Question de test pour WSET P3 numéro 50 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 50 de WSET.",
+      "thematique": "Sujet Spécifique Q50"
+    },
+    {
+      "id": "wset_p3_q51",
+      "domain": "wset",
+      "level": 3,
+      "question": "Question de test pour WSET P3 numéro 51 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 51 de WSET.",
+      "thematique": "Sujet Spécifique Q51"
+    },
+    {
+      "id": "wset_p3_q52",
+      "domain": "wset",
+      "level": 3,
+      "question": "Question de test pour WSET P3 numéro 52 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 52 de WSET.",
+      "thematique": "Sujet Spécifique Q52"
+    },
+    {
+      "id": "wset_p3_q53",
+      "domain": "wset",
+      "level": 3,
+      "question": "Question de test pour WSET P3 numéro 53 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 53 de WSET.",
+      "thematique": "Sujet Spécifique Q53"
+    },
+    {
+      "id": "wset_p3_q54",
+      "domain": "wset",
+      "level": 3,
+      "question": "Question de test pour WSET P3 numéro 54 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 54 de WSET.",
+      "thematique": "Sujet Spécifique Q54"
+    },
+    {
+      "id": "wset_p3_q55",
+      "domain": "wset",
+      "level": 3,
+      "question": "Question de test pour WSET P3 numéro 55 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 55 de WSET.",
+      "thematique": "Sujet Spécifique Q55"
+    },
+    {
+      "id": "wset_p3_q56",
+      "domain": "wset",
+      "level": 3,
+      "question": "Question de test pour WSET P3 numéro 56 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 56 de WSET.",
+      "thematique": "Sujet Spécifique Q56"
+    },
+    {
+      "id": "wset_p3_q57",
+      "domain": "wset",
+      "level": 3,
+      "question": "Question de test pour WSET P3 numéro 57 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 57 de WSET.",
+      "thematique": "Sujet Spécifique Q57"
+    },
+    {
+      "id": "wset_p3_q58",
+      "domain": "wset",
+      "level": 3,
+      "question": "Question de test pour WSET P3 numéro 58 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 58 de WSET.",
+      "thematique": "Sujet Spécifique Q58"
+    },
+    {
+      "id": "wset_p3_q59",
+      "domain": "wset",
+      "level": 3,
+      "question": "Question de test pour WSET P3 numéro 59 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 59 de WSET.",
+      "thematique": "Sujet Spécifique Q59"
+    },
+    {
+      "id": "wset_p3_q60",
+      "domain": "wset",
+      "level": 3,
+      "question": "Question de test pour WSET P3 numéro 60 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 60 de WSET.",
+      "thematique": "Sujet Spécifique Q60"
+    },
+    {
+      "id": "wset_p4_q61",
+      "domain": "wset",
+      "level": 4,
+      "question": "Question de test pour WSET P4 numéro 61 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 61 de WSET.",
+      "thematique": "Sujet Spécifique Q61"
+    },
+    {
+      "id": "wset_p4_q62",
+      "domain": "wset",
+      "level": 4,
+      "question": "Question de test pour WSET P4 numéro 62 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 62 de WSET.",
+      "thematique": "Sujet Spécifique Q62"
+    },
+    {
+      "id": "wset_p4_q63",
+      "domain": "wset",
+      "level": 4,
+      "question": "Question de test pour WSET P4 numéro 63 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 63 de WSET.",
+      "thematique": "Sujet Spécifique Q63"
+    },
+    {
+      "id": "wset_p4_q64",
+      "domain": "wset",
+      "level": 4,
+      "question": "Question de test pour WSET P4 numéro 64 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 64 de WSET.",
+      "thematique": "Sujet Spécifique Q64"
+    },
+    {
+      "id": "wset_p4_q65",
+      "domain": "wset",
+      "level": 4,
+      "question": "Question de test pour WSET P4 numéro 65 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 65 de WSET.",
+      "thematique": "Sujet Spécifique Q65"
+    },
+    {
+      "id": "wset_p4_q66",
+      "domain": "wset",
+      "level": 4,
+      "question": "Question de test pour WSET P4 numéro 66 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 66 de WSET.",
+      "thematique": "Sujet Spécifique Q66"
+    },
+    {
+      "id": "wset_p4_q67",
+      "domain": "wset",
+      "level": 4,
+      "question": "Question de test pour WSET P4 numéro 67 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 67 de WSET.",
+      "thematique": "Sujet Spécifique Q67"
+    },
+    {
+      "id": "wset_p4_q68",
+      "domain": "wset",
+      "level": 4,
+      "question": "Question de test pour WSET P4 numéro 68 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 68 de WSET.",
+      "thematique": "Sujet Spécifique Q68"
+    },
+    {
+      "id": "wset_p4_q69",
+      "domain": "wset",
+      "level": 4,
+      "question": "Question de test pour WSET P4 numéro 69 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 69 de WSET.",
+      "thematique": "Sujet Spécifique Q69"
+    },
+    {
+      "id": "wset_p4_q70",
+      "domain": "wset",
+      "level": 4,
+      "question": "Question de test pour WSET P4 numéro 70 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 70 de WSET.",
+      "thematique": "Sujet Spécifique Q70"
+    },
+    {
+      "id": "wset_p4_q71",
+      "domain": "wset",
+      "level": 4,
+      "question": "Question de test pour WSET P4 numéro 71 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 71 de WSET.",
+      "thematique": "Sujet Spécifique Q71"
+    },
+    {
+      "id": "wset_p4_q72",
+      "domain": "wset",
+      "level": 4,
+      "question": "Question de test pour WSET P4 numéro 72 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 72 de WSET.",
+      "thematique": "Sujet Spécifique Q72"
+    },
+    {
+      "id": "wset_p4_q73",
+      "domain": "wset",
+      "level": 4,
+      "question": "Question de test pour WSET P4 numéro 73 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 73 de WSET.",
+      "thematique": "Sujet Spécifique Q73"
+    },
+    {
+      "id": "wset_p4_q74",
+      "domain": "wset",
+      "level": 4,
+      "question": "Question de test pour WSET P4 numéro 74 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 74 de WSET.",
+      "thematique": "Sujet Spécifique Q74"
+    },
+    {
+      "id": "wset_p4_q75",
+      "domain": "wset",
+      "level": 4,
+      "question": "Question de test pour WSET P4 numéro 75 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 75 de WSET.",
+      "thematique": "Sujet Spécifique Q75"
+    },
+    {
+      "id": "wset_p4_q76",
+      "domain": "wset",
+      "level": 4,
+      "question": "Question de test pour WSET P4 numéro 76 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 76 de WSET.",
+      "thematique": "Sujet Spécifique Q76"
+    },
+    {
+      "id": "wset_p4_q77",
+      "domain": "wset",
+      "level": 4,
+      "question": "Question de test pour WSET P4 numéro 77 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 77 de WSET.",
+      "thematique": "Sujet Spécifique Q77"
+    },
+    {
+      "id": "wset_p4_q78",
+      "domain": "wset",
+      "level": 4,
+      "question": "Question de test pour WSET P4 numéro 78 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 78 de WSET.",
+      "thematique": "Sujet Spécifique Q78"
+    },
+    {
+      "id": "wset_p4_q79",
+      "domain": "wset",
+      "level": 4,
+      "question": "Question de test pour WSET P4 numéro 79 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 79 de WSET.",
+      "thematique": "Sujet Spécifique Q79"
+    },
+    {
+      "id": "wset_p4_q80",
+      "domain": "wset",
+      "level": 4,
+      "question": "Question de test pour WSET P4 numéro 80 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 80 de WSET.",
+      "thematique": "Sujet Spécifique Q80"
+    },
+    {
+      "id": "wset_p5_q81",
+      "domain": "wset",
+      "level": 5,
+      "question": "Question de test pour WSET P5 numéro 81 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 81 de WSET.",
+      "thematique": "Sujet Spécifique Q81"
+    },
+    {
+      "id": "wset_p5_q82",
+      "domain": "wset",
+      "level": 5,
+      "question": "Question de test pour WSET P5 numéro 82 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 82 de WSET.",
+      "thematique": "Sujet Spécifique Q82"
+    },
+    {
+      "id": "wset_p5_q83",
+      "domain": "wset",
+      "level": 5,
+      "question": "Question de test pour WSET P5 numéro 83 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 83 de WSET.",
+      "thematique": "Sujet Spécifique Q83"
+    },
+    {
+      "id": "wset_p5_q84",
+      "domain": "wset",
+      "level": 5,
+      "question": "Question de test pour WSET P5 numéro 84 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 84 de WSET.",
+      "thematique": "Sujet Spécifique Q84"
+    },
+    {
+      "id": "wset_p5_q85",
+      "domain": "wset",
+      "level": 5,
+      "question": "Question de test pour WSET P5 numéro 85 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 85 de WSET.",
+      "thematique": "Sujet Spécifique Q85"
+    },
+    {
+      "id": "wset_p5_q86",
+      "domain": "wset",
+      "level": 5,
+      "question": "Question de test pour WSET P5 numéro 86 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 86 de WSET.",
+      "thematique": "Sujet Spécifique Q86"
+    },
+    {
+      "id": "wset_p5_q87",
+      "domain": "wset",
+      "level": 5,
+      "question": "Question de test pour WSET P5 numéro 87 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 87 de WSET.",
+      "thematique": "Sujet Spécifique Q87"
+    },
+    {
+      "id": "wset_p5_q88",
+      "domain": "wset",
+      "level": 5,
+      "question": "Question de test pour WSET P5 numéro 88 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 88 de WSET.",
+      "thematique": "Sujet Spécifique Q88"
+    },
+    {
+      "id": "wset_p5_q89",
+      "domain": "wset",
+      "level": 5,
+      "question": "Question de test pour WSET P5 numéro 89 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 89 de WSET.",
+      "thematique": "Sujet Spécifique Q89"
+    },
+    {
+      "id": "wset_p5_q90",
+      "domain": "wset",
+      "level": 5,
+      "question": "Question de test pour WSET P5 numéro 90 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 90 de WSET.",
+      "thematique": "Sujet Spécifique Q90"
+    },
+    {
+      "id": "wset_p5_q91",
+      "domain": "wset",
+      "level": 5,
+      "question": "Question de test pour WSET P5 numéro 91 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 91 de WSET.",
+      "thematique": "Sujet Spécifique Q91"
+    },
+    {
+      "id": "wset_p5_q92",
+      "domain": "wset",
+      "level": 5,
+      "question": "Question de test pour WSET P5 numéro 92 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 92 de WSET.",
+      "thematique": "Sujet Spécifique Q92"
+    },
+    {
+      "id": "wset_p5_q93",
+      "domain": "wset",
+      "level": 5,
+      "question": "Question de test pour WSET P5 numéro 93 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 93 de WSET.",
+      "thematique": "Sujet Spécifique Q93"
+    },
+    {
+      "id": "wset_p5_q94",
+      "domain": "wset",
+      "level": 5,
+      "question": "Question de test pour WSET P5 numéro 94 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 94 de WSET.",
+      "thematique": "Sujet Spécifique Q94"
+    },
+    {
+      "id": "wset_p5_q95",
+      "domain": "wset",
+      "level": 5,
+      "question": "Question de test pour WSET P5 numéro 95 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 95 de WSET.",
+      "thematique": "Sujet Spécifique Q95"
+    },
+    {
+      "id": "wset_p5_q96",
+      "domain": "wset",
+      "level": 5,
+      "question": "Question de test pour WSET P5 numéro 96 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 96 de WSET.",
+      "thematique": "Sujet Spécifique Q96"
+    },
+    {
+      "id": "wset_p5_q97",
+      "domain": "wset",
+      "level": 5,
+      "question": "Question de test pour WSET P5 numéro 97 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 97 de WSET.",
+      "thematique": "Sujet Spécifique Q97"
+    },
+    {
+      "id": "wset_p5_q98",
+      "domain": "wset",
+      "level": 5,
+      "question": "Question de test pour WSET P5 numéro 98 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 98 de WSET.",
+      "thematique": "Sujet Spécifique Q98"
+    },
+    {
+      "id": "wset_p5_q99",
+      "domain": "wset",
+      "level": 5,
+      "question": "Question de test pour WSET P5 numéro 99 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 99 de WSET.",
+      "thematique": "Sujet Spécifique Q99"
+    },
+    {
+      "id": "wset_p5_q100",
+      "domain": "wset",
+      "level": 5,
+      "question": "Question de test pour WSET P5 numéro 100 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 100 de WSET.",
+      "thematique": "Sujet Spécifique Q100"
+    },
+    {
+      "id": "oenologie_p1_q1",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Quel est le principal acide organique présent dans le raisin mûr ?",
+      "options": [
+        "L'acide tartrique",
+        "L'acide chlorhydrique",
+        "L'acide acétique uniquement",
+        "L'acide carbonique"
+      ],
+      "correct_answer": 0,
+      "explanation": "L'acide tartrique est un acide majeur du raisin et du vin.",
+      "thematique": "Chimie du vin"
+    },
+    {
+      "id": "oenologie_p1_q2",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Quel acide diminue lors de la fermentation malolactique ?",
+      "options": [
+        "L'acide malique",
+        "L'acide tartrique",
+        "L'acide sulfurique",
+        "L'acide citrique uniquement"
+      ],
+      "correct_answer": 0,
+      "explanation": "La fermentation malolactique transforme l'acide malique en acide lactique.",
+      "thematique": "Chimie du vin"
+    },
+    {
+      "id": "oenologie_p1_q3",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Quel composé est principalement responsable de la couleur rouge du vin ?",
+      "options": [
+        "Les anthocyanes",
+        "Les protéines",
+        "Les sucres",
+        "Les sels minéraux"
+      ],
+      "correct_answer": 0,
+      "explanation": "Les anthocyanes sont les principaux pigments des pellicules de raisins rouges.",
+      "thematique": "Chimie du vin"
+    },
+    {
+      "id": "oenologie_p1_q4",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Quel composé est principalement responsable de l'astringence ?",
+      "options": [
+        "Les tanins",
+        "Les sucres",
+        "L'eau",
+        "Le dioxyde de carbone uniquement"
+      ],
+      "correct_answer": 0,
+      "explanation": "Les tanins interagissent avec les protéines salivaires et contribuent à l'astringence.",
+      "thematique": "Chimie du vin"
+    },
+    {
+      "id": "oenologie_p1_q5",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Quel micro-organisme réalise principalement la fermentation alcoolique ?",
+      "options": [
+        "Une levure",
+        "Une bactérie acétique",
+        "Un virus",
+        "Un champignon filamenteux uniquement"
+      ],
+      "correct_answer": 0,
+      "explanation": "La fermentation alcoolique est réalisée principalement par des levures.",
+      "thematique": "Microbiologie"
+    },
+    {
+      "id": "oenologie_p1_q6",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Quelle bactérie intervient dans la fermentation malolactique ?",
+      "options": [
+        "Des bactéries lactiques",
+        "Des bactéries sulfureuses",
+        "Des virus",
+        "Des levures uniquement"
+      ],
+      "correct_answer": 0,
+      "explanation": "Les bactéries lactiques, notamment Oenococcus oeni, peuvent réaliser la fermentation malolactique.",
+      "thematique": "Microbiologie"
+    },
+    {
+      "id": "oenologie_p1_q7",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Que produit principalement la fermentation alcoolique ?",
+      "options": [
+        "Éthanol et dioxyde de carbone",
+        "Acide tartrique et oxygène",
+        "Sucre et eau uniquement",
+        "Tanins et anthocyanes"
+      ],
+      "correct_answer": 0,
+      "explanation": "Les levures convertissent les sucres en éthanol et dioxyde de carbone.",
+      "thematique": "Microbiologie"
+    },
+    {
+      "id": "oenologie_p1_q8",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Pourquoi sulfite-t-on le moût ou le vin ?",
+      "options": [
+        "Pour limiter l'oxydation et certaines activités microbiennes",
+        "Pour augmenter systématiquement le sucre",
+        "Pour créer des tanins",
+        "Pour augmenter la couleur bleue"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le dioxyde de soufre possède notamment des propriétés antioxydantes et antimicrobiennes.",
+      "thematique": "Vinification"
+    },
+    {
+      "id": "oenologie_p1_q9",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Quel est le rôle du pressurage en vinification en blanc ?",
+      "options": [
+        "Extraire le jus des raisins",
+        "Créer les tanins par fermentation",
+        "Augmenter le degré alcoolique",
+        "Transformer le sucre en acide"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le pressurage permet d'extraire le jus, avec une maîtrise de l'extraction des composés des parties solides.",
+      "thematique": "Vinification"
+    },
+    {
+      "id": "oenologie_p1_q10",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Quel phénomène peut provoquer l'oxygène en excès dans un vin ?",
+      "options": [
+        "Une oxydation",
+        "Une fermentation alcoolique automatique",
+        "Une augmentation du sucre",
+        "Une diminution systématique du pH"
+      ],
+      "correct_answer": 0,
+      "explanation": "L'oxygène peut entraîner des réactions d'oxydation altérant couleur et arômes.",
+      "thematique": "Vinification"
+    },
+    {
+      "id": "oenologie_p1_q11",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Quel gaz dissous est responsable de la sensation de picotement des vins effervescents ?",
+      "options": [
+        "Le dioxyde de carbone",
+        "L'azote",
+        "L'oxygène",
+        "L'hydrogène"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le CO₂ dissous forme les bulles et participe à la sensation d'effervescence.",
+      "thematique": "Vinification"
+    },
+    {
+      "id": "oenologie_p1_q12",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Que mesure principalement le pH d'un vin ?",
+      "options": [
+        "Son acidité active",
+        "Sa teneur en sucre",
+        "Son degré alcoolique",
+        "Sa teneur en tanins"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le pH mesure l'activité des ions hydrogène et renseigne sur l'acidité active.",
+      "thematique": "Analyse"
+    },
+    {
+      "id": "oenologie_p1_q13",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Quel paramètre est généralement exprimé en degrés alcooliques volumique ?",
+      "options": [
+        "La teneur en éthanol",
+        "La teneur en sucre",
+        "La teneur en acide tartrique",
+        "La teneur en tanins"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le titre alcoométrique volumique indique le pourcentage d'éthanol en volume.",
+      "thematique": "Analyse"
+    },
+    {
+      "id": "oenologie_p1_q14",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Pourquoi réalise-t-on parfois une stabilisation tartrique ?",
+      "options": [
+        "Pour limiter la formation de cristaux de tartrate en bouteille",
+        "Pour augmenter l'alcool",
+        "Pour créer des bulles",
+        "Pour supprimer tous les arômes"
+      ],
+      "correct_answer": 0,
+      "explanation": "La stabilisation tartrique vise à éviter des précipitations de sels tartriques après mise en bouteille.",
+      "thematique": "Stabilisation"
+    },
+    {
+      "id": "oenologie_p1_q15",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Que sont les cristaux parfois observés au fond d'une bouteille de vin ?",
+      "options": [
+        "Des précipités tartriques possibles",
+        "Du sucre ajouté après mise",
+        "Des levures toujours vivantes",
+        "Des tanins solides uniquement"
+      ],
+      "correct_answer": 0,
+      "explanation": "Il peut s'agir de cristaux de tartrate, phénomène généralement sans danger pour la qualité du vin.",
+      "thematique": "Stabilisation"
+    },
+    {
+      "id": "oenologie_p1_q16",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Quel composé est classiquement associé au goût de bouchon ?",
+      "options": [
+        "Le TCA",
+        "L'éthanol",
+        "L'acide tartrique",
+        "Le glycérol"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le 2,4,6-trichloroanisole, ou TCA, est un composé fréquemment associé au défaut de bouchon.",
+      "thematique": "Défauts"
+    },
+    {
+      "id": "oenologie_p1_q17",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Quelle odeur peut être associée à la réduction ?",
+      "options": [
+        "Œuf pourri ou notes soufrées",
+        "Citron frais",
+        "Vanille douce",
+        "Fraise"
+      ],
+      "correct_answer": 0,
+      "explanation": "Certains composés soufrés issus de conditions réductrices peuvent donner des odeurs rappelant l'œuf pourri.",
+      "thematique": "Défauts"
+    },
+    {
+      "id": "oenologie_p1_q18",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Quel rôle le dioxyde de carbone dissous peut-il jouer dans un vin tranquille ?",
+      "options": [
+        "Il peut apporter une légère sensation de fraîcheur et de picotement",
+        "Il supprime totalement l'acidité",
+        "Il augmente le sucre",
+        "Il transforme le vin en spiritueux"
+      ],
+      "correct_answer": 0,
+      "explanation": "Une faible quantité de CO₂ dissous peut renforcer la fraîcheur perçue de certains vins.",
+      "thematique": "Chimie du vin"
+    },
+    {
+      "id": "oenologie_p1_q19",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Quel est l'effet général d'une micro-oxygénation maîtrisée ?",
+      "options": [
+        "Apporter de petites quantités d'oxygène pour influencer l'évolution du vin",
+        "Supprimer tous les tanins immédiatement",
+        "Augmenter le sucre",
+        "Créer une fermentation alcoolique"
+      ],
+      "correct_answer": 0,
+      "explanation": "La micro-oxygénation consiste à apporter de très faibles quantités d'oxygène dans un but œnologique contrôlé.",
+      "thematique": "Maturation"
+    },
+    {
+      "id": "oenologie_p1_q20",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Question 20 de correction : Quel composé est principalement responsable de la fermentation malolactique ?",
+      "options": [
+        "L'acide lactique transformé à partir de l'acide malique",
+        "L'acide tartrique",
+        "L'acide citrique",
+        "L'acide acétique"
+      ],
+      "correct_answer": 0,
+      "explanation": "Les bactéries lactiques convertissent l'acide malique en acide lactique.",
+      "thematique": "Correction/Complétion"
+    },
+    {
+      "id": "oenologie_p2_q21",
+      "domain": "oenologie",
+      "level": 2,
+      "question": "Question de test pour Œnologie P2 numéro 21 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 21 de Œnologie.",
+      "thematique": "Sujet Spécifique Q21"
+    },
+    {
+      "id": "oenologie_p2_q22",
+      "domain": "oenologie",
+      "level": 2,
+      "question": "Question de test pour Œnologie P2 numéro 22 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 22 de Œnologie.",
+      "thematique": "Sujet Spécifique Q22"
+    },
+    {
+      "id": "oenologie_p2_q23",
+      "domain": "oenologie",
+      "level": 2,
+      "question": "Question de test pour Œnologie P2 numéro 23 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 23 de Œnologie.",
+      "thematique": "Sujet Spécifique Q23"
+    },
+    {
+      "id": "oenologie_p2_q24",
+      "domain": "oenologie",
+      "level": 2,
+      "question": "Question de test pour Œnologie P2 numéro 24 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 24 de Œnologie.",
+      "thematique": "Sujet Spécifique Q24"
+    },
+    {
+      "id": "oenologie_p2_q25",
+      "domain": "oenologie",
+      "level": 2,
+      "question": "Question de test pour Œnologie P2 numéro 25 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 25 de Œnologie.",
+      "thematique": "Sujet Spécifique Q25"
+    },
+    {
+      "id": "oenologie_p2_q26",
+      "domain": "oenologie",
+      "level": 2,
+      "question": "Question de test pour Œnologie P2 numéro 26 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 26 de Œnologie.",
+      "thematique": "Sujet Spécifique Q26"
+    },
+    {
+      "id": "oenologie_p2_q27",
+      "domain": "oenologie",
+      "level": 2,
+      "question": "Question de test pour Œnologie P2 numéro 27 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 27 de Œnologie.",
+      "thematique": "Sujet Spécifique Q27"
+    },
+    {
+      "id": "oenologie_p2_q28",
+      "domain": "oenologie",
+      "level": 2,
+      "question": "Question de test pour Œnologie P2 numéro 28 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 28 de Œnologie.",
+      "thematique": "Sujet Spécifique Q28"
+    },
+    {
+      "id": "oenologie_p2_q29",
+      "domain": "oenologie",
+      "level": 2,
+      "question": "Question de test pour Œnologie P2 numéro 29 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 29 de Œnologie.",
+      "thematique": "Sujet Spécifique Q29"
+    },
+    {
+      "id": "oenologie_p2_q30",
+      "domain": "oenologie",
+      "level": 2,
+      "question": "Question de test pour Œnologie P2 numéro 30 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 30 de Œnologie.",
+      "thematique": "Sujet Spécifique Q30"
+    },
+    {
+      "id": "oenologie_p2_q31",
+      "domain": "oenologie",
+      "level": 2,
+      "question": "Question de test pour Œnologie P2 numéro 31 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 31 de Œnologie.",
+      "thematique": "Sujet Spécifique Q31"
+    },
+    {
+      "id": "oenologie_p2_q32",
+      "domain": "oenologie",
+      "level": 2,
+      "question": "Question de test pour Œnologie P2 numéro 32 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 32 de Œnologie.",
+      "thematique": "Sujet Spécifique Q32"
+    },
+    {
+      "id": "oenologie_p2_q33",
+      "domain": "oenologie",
+      "level": 2,
+      "question": "Question de test pour Œnologie P2 numéro 33 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 33 de Œnologie.",
+      "thematique": "Sujet Spécifique Q33"
+    },
+    {
+      "id": "oenologie_p2_q34",
+      "domain": "oenologie",
+      "level": 2,
+      "question": "Question de test pour Œnologie P2 numéro 34 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 34 de Œnologie.",
+      "thematique": "Sujet Spécifique Q34"
+    },
+    {
+      "id": "oenologie_p2_q35",
+      "domain": "oenologie",
+      "level": 2,
+      "question": "Question de test pour Œnologie P2 numéro 35 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 35 de Œnologie.",
+      "thematique": "Sujet Spécifique Q35"
+    },
+    {
+      "id": "oenologie_p2_q36",
+      "domain": "oenologie",
+      "level": 2,
+      "question": "Question de test pour Œnologie P2 numéro 36 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 36 de Œnologie.",
+      "thematique": "Sujet Spécifique Q36"
+    },
+    {
+      "id": "oenologie_p2_q37",
+      "domain": "oenologie",
+      "level": 2,
+      "question": "Question de test pour Œnologie P2 numéro 37 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 37 de Œnologie.",
+      "thematique": "Sujet Spécifique Q37"
+    },
+    {
+      "id": "oenologie_p2_q38",
+      "domain": "oenologie",
+      "level": 2,
+      "question": "Question de test pour Œnologie P2 numéro 38 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 38 de Œnologie.",
+      "thematique": "Sujet Spécifique Q38"
+    },
+    {
+      "id": "oenologie_p2_q39",
+      "domain": "oenologie",
+      "level": 2,
+      "question": "Question de test pour Œnologie P2 numéro 39 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 39 de Œnologie.",
+      "thematique": "Sujet Spécifique Q39"
+    },
+    {
+      "id": "oenologie_p2_q40",
+      "domain": "oenologie",
+      "level": 2,
+      "question": "Question de test pour Œnologie P2 numéro 40 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 40 de Œnologie.",
+      "thematique": "Sujet Spécifique Q40"
+    },
+    {
+      "id": "oenologie_p3_q41",
+      "domain": "oenologie",
+      "level": 3,
+      "question": "Question de test pour Œnologie P3 numéro 41 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 41 de Œnologie.",
+      "thematique": "Sujet Spécifique Q41"
+    },
+    {
+      "id": "oenologie_p3_q42",
+      "domain": "oenologie",
+      "level": 3,
+      "question": "Question de test pour Œnologie P3 numéro 42 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 42 de Œnologie.",
+      "thematique": "Sujet Spécifique Q42"
+    },
+    {
+      "id": "oenologie_p3_q43",
+      "domain": "oenologie",
+      "level": 3,
+      "question": "Question de test pour Œnologie P3 numéro 43 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 43 de Œnologie.",
+      "thematique": "Sujet Spécifique Q43"
+    },
+    {
+      "id": "oenologie_p3_q44",
+      "domain": "oenologie",
+      "level": 3,
+      "question": "Question de test pour Œnologie P3 numéro 44 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 44 de Œnologie.",
+      "thematique": "Sujet Spécifique Q44"
+    },
+    {
+      "id": "oenologie_p3_q45",
+      "domain": "oenologie",
+      "level": 3,
+      "question": "Question de test pour Œnologie P3 numéro 45 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 45 de Œnologie.",
+      "thematique": "Sujet Spécifique Q45"
+    },
+    {
+      "id": "oenologie_p3_q46",
+      "domain": "oenologie",
+      "level": 3,
+      "question": "Question de test pour Œnologie P3 numéro 46 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 46 de Œnologie.",
+      "thematique": "Sujet Spécifique Q46"
+    },
+    {
+      "id": "oenologie_p3_q47",
+      "domain": "oenologie",
+      "level": 3,
+      "question": "Question de test pour Œnologie P3 numéro 47 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 47 de Œnologie.",
+      "thematique": "Sujet Spécifique Q47"
+    },
+    {
+      "id": "oenologie_p3_q48",
+      "domain": "oenologie",
+      "level": 3,
+      "question": "Question de test pour Œnologie P3 numéro 48 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 48 de Œnologie.",
+      "thematique": "Sujet Spécifique Q48"
+    },
+    {
+      "id": "oenologie_p3_q49",
+      "domain": "oenologie",
+      "level": 3,
+      "question": "Question de test pour Œnologie P3 numéro 49 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 49 de Œnologie.",
+      "thematique": "Sujet Spécifique Q49"
+    },
+    {
+      "id": "oenologie_p3_q50",
+      "domain": "oenologie",
+      "level": 3,
+      "question": "Question de test pour Œnologie P3 numéro 50 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 50 de Œnologie.",
+      "thematique": "Sujet Spécifique Q50"
+    },
+    {
+      "id": "oenologie_p3_q51",
+      "domain": "oenologie",
+      "level": 3,
+      "question": "Question de test pour Œnologie P3 numéro 51 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 51 de Œnologie.",
+      "thematique": "Sujet Spécifique Q51"
+    },
+    {
+      "id": "oenologie_p3_q52",
+      "domain": "oenologie",
+      "level": 3,
+      "question": "Question de test pour Œnologie P3 numéro 52 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 52 de Œnologie.",
+      "thematique": "Sujet Spécifique Q52"
+    },
+    {
+      "id": "oenologie_p3_q53",
+      "domain": "oenologie",
+      "level": 3,
+      "question": "Question de test pour Œnologie P3 numéro 53 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 53 de Œnologie.",
+      "thematique": "Sujet Spécifique Q53"
+    },
+    {
+      "id": "oenologie_p3_q54",
+      "domain": "oenologie",
+      "level": 3,
+      "question": "Question de test pour Œnologie P3 numéro 54 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 54 de Œnologie.",
+      "thematique": "Sujet Spécifique Q54"
+    },
+    {
+      "id": "oenologie_p3_q55",
+      "domain": "oenologie",
+      "level": 3,
+      "question": "Question de test pour Œnologie P3 numéro 55 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 55 de Œnologie.",
+      "thematique": "Sujet Spécifique Q55"
+    },
+    {
+      "id": "oenologie_p3_q56",
+      "domain": "oenologie",
+      "level": 3,
+      "question": "Question de test pour Œnologie P3 numéro 56 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 56 de Œnologie.",
+      "thematique": "Sujet Spécifique Q56"
+    },
+    {
+      "id": "oenologie_p3_q57",
+      "domain": "oenologie",
+      "level": 3,
+      "question": "Question de test pour Œnologie P3 numéro 57 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 57 de Œnologie.",
+      "thematique": "Sujet Spécifique Q57"
+    },
+    {
+      "id": "oenologie_p3_q58",
+      "domain": "oenologie",
+      "level": 3,
+      "question": "Question de test pour Œnologie P3 numéro 58 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 58 de Œnologie.",
+      "thematique": "Sujet Spécifique Q58"
+    },
+    {
+      "id": "oenologie_p3_q59",
+      "domain": "oenologie",
+      "level": 3,
+      "question": "Question de test pour Œnologie P3 numéro 59 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 59 de Œnologie.",
+      "thematique": "Sujet Spécifique Q59"
+    },
+    {
+      "id": "oenologie_p3_q60",
+      "domain": "oenologie",
+      "level": 3,
+      "question": "Question de test pour Œnologie P3 numéro 60 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 60 de Œnologie.",
+      "thematique": "Sujet Spécifique Q60"
+    },
+    {
+      "id": "oenologie_p4_q61",
+      "domain": "oenologie",
+      "level": 4,
+      "question": "Question de test pour Œnologie P4 numéro 61 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 61 de Œnologie.",
+      "thematique": "Sujet Spécifique Q61"
+    },
+    {
+      "id": "oenologie_p4_q62",
+      "domain": "oenologie",
+      "level": 4,
+      "question": "Question de test pour Œnologie P4 numéro 62 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 62 de Œnologie.",
+      "thematique": "Sujet Spécifique Q62"
+    },
+    {
+      "id": "oenologie_p4_q63",
+      "domain": "oenologie",
+      "level": 4,
+      "question": "Question de test pour Œnologie P4 numéro 63 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 63 de Œnologie.",
+      "thematique": "Sujet Spécifique Q63"
+    },
+    {
+      "id": "oenologie_p4_q64",
+      "domain": "oenologie",
+      "level": 4,
+      "question": "Question de test pour Œnologie P4 numéro 64 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 64 de Œnologie.",
+      "thematique": "Sujet Spécifique Q64"
+    },
+    {
+      "id": "oenologie_p4_q65",
+      "domain": "oenologie",
+      "level": 4,
+      "question": "Question de test pour Œnologie P4 numéro 65 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 65 de Œnologie.",
+      "thematique": "Sujet Spécifique Q65"
+    },
+    {
+      "id": "oenologie_p4_q66",
+      "domain": "oenologie",
+      "level": 4,
+      "question": "Question de test pour Œnologie P4 numéro 66 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 66 de Œnologie.",
+      "thematique": "Sujet Spécifique Q66"
+    },
+    {
+      "id": "oenologie_p4_q67",
+      "domain": "oenologie",
+      "level": 4,
+      "question": "Question de test pour Œnologie P4 numéro 67 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 67 de Œnologie.",
+      "thematique": "Sujet Spécifique Q67"
+    },
+    {
+      "id": "oenologie_p4_q68",
+      "domain": "oenologie",
+      "level": 4,
+      "question": "Question de test pour Œnologie P4 numéro 68 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 68 de Œnologie.",
+      "thematique": "Sujet Spécifique Q68"
+    },
+    {
+      "id": "oenologie_p4_q69",
+      "domain": "oenologie",
+      "level": 4,
+      "question": "Question de test pour Œnologie P4 numéro 69 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 69 de Œnologie.",
+      "thematique": "Sujet Spécifique Q69"
+    },
+    {
+      "id": "oenologie_p4_q70",
+      "domain": "oenologie",
+      "level": 4,
+      "question": "Question de test pour Œnologie P4 numéro 70 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 70 de Œnologie.",
+      "thematique": "Sujet Spécifique Q70"
+    },
+    {
+      "id": "oenologie_p4_q71",
+      "domain": "oenologie",
+      "level": 4,
+      "question": "Question de test pour Œnologie P4 numéro 71 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 71 de Œnologie.",
+      "thematique": "Sujet Spécifique Q71"
+    },
+    {
+      "id": "oenologie_p4_q72",
+      "domain": "oenologie",
+      "level": 4,
+      "question": "Question de test pour Œnologie P4 numéro 72 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 72 de Œnologie.",
+      "thematique": "Sujet Spécifique Q72"
+    },
+    {
+      "id": "oenologie_p4_q73",
+      "domain": "oenologie",
+      "level": 4,
+      "question": "Question de test pour Œnologie P4 numéro 73 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 73 de Œnologie.",
+      "thematique": "Sujet Spécifique Q73"
+    },
+    {
+      "id": "oenologie_p4_q74",
+      "domain": "oenologie",
+      "level": 4,
+      "question": "Question de test pour Œnologie P4 numéro 74 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 74 de Œnologie.",
+      "thematique": "Sujet Spécifique Q74"
+    },
+    {
+      "id": "oenologie_p4_q75",
+      "domain": "oenologie",
+      "level": 4,
+      "question": "Question de test pour Œnologie P4 numéro 75 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 75 de Œnologie.",
+      "thematique": "Sujet Spécifique Q75"
+    },
+    {
+      "id": "oenologie_p4_q76",
+      "domain": "oenologie",
+      "level": 4,
+      "question": "Question de test pour Œnologie P4 numéro 76 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 76 de Œnologie.",
+      "thematique": "Sujet Spécifique Q76"
+    },
+    {
+      "id": "oenologie_p4_q77",
+      "domain": "oenologie",
+      "level": 4,
+      "question": "Question de test pour Œnologie P4 numéro 77 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 77 de Œnologie.",
+      "thematique": "Sujet Spécifique Q77"
+    },
+    {
+      "id": "oenologie_p4_q78",
+      "domain": "oenologie",
+      "level": 4,
+      "question": "Question de test pour Œnologie P4 numéro 78 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 78 de Œnologie.",
+      "thematique": "Sujet Spécifique Q78"
+    },
+    {
+      "id": "oenologie_p4_q79",
+      "domain": "oenologie",
+      "level": 4,
+      "question": "Question de test pour Œnologie P4 numéro 79 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 79 de Œnologie.",
+      "thematique": "Sujet Spécifique Q79"
+    },
+    {
+      "id": "oenologie_p4_q80",
+      "domain": "oenologie",
+      "level": 4,
+      "question": "Question de test pour Œnologie P4 numéro 80 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 80 de Œnologie.",
+      "thematique": "Sujet Spécifique Q80"
+    },
+    {
+      "id": "oenologie_p5_q81",
+      "domain": "oenologie",
+      "level": 5,
+      "question": "Question de test pour Œnologie P5 numéro 81 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 81 de Œnologie.",
+      "thematique": "Sujet Spécifique Q81"
+    },
+    {
+      "id": "oenologie_p5_q82",
+      "domain": "oenologie",
+      "level": 5,
+      "question": "Question de test pour Œnologie P5 numéro 82 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 82 de Œnologie.",
+      "thematique": "Sujet Spécifique Q82"
+    },
+    {
+      "id": "oenologie_p5_q83",
+      "domain": "oenologie",
+      "level": 5,
+      "question": "Question de test pour Œnologie P5 numéro 83 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 83 de Œnologie.",
+      "thematique": "Sujet Spécifique Q83"
+    },
+    {
+      "id": "oenologie_p5_q84",
+      "domain": "oenologie",
+      "level": 5,
+      "question": "Question de test pour Œnologie P5 numéro 84 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 84 de Œnologie.",
+      "thematique": "Sujet Spécifique Q84"
+    },
+    {
+      "id": "oenologie_p5_q85",
+      "domain": "oenologie",
+      "level": 5,
+      "question": "Question de test pour Œnologie P5 numéro 85 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 85 de Œnologie.",
+      "thematique": "Sujet Spécifique Q85"
+    },
+    {
+      "id": "oenologie_p5_q86",
+      "domain": "oenologie",
+      "level": 5,
+      "question": "Question de test pour Œnologie P5 numéro 86 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 86 de Œnologie.",
+      "thematique": "Sujet Spécifique Q86"
+    },
+    {
+      "id": "oenologie_p5_q87",
+      "domain": "oenologie",
+      "level": 5,
+      "question": "Question de test pour Œnologie P5 numéro 87 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 87 de Œnologie.",
+      "thematique": "Sujet Spécifique Q87"
+    },
+    {
+      "id": "oenologie_p5_q88",
+      "domain": "oenologie",
+      "level": 5,
+      "question": "Question de test pour Œnologie P5 numéro 88 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 88 de Œnologie.",
+      "thematique": "Sujet Spécifique Q88"
+    },
+    {
+      "id": "oenologie_p5_q89",
+      "domain": "oenologie",
+      "level": 5,
+      "question": "Question de test pour Œnologie P5 numéro 89 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 89 de Œnologie.",
+      "thematique": "Sujet Spécifique Q89"
+    },
+    {
+      "id": "oenologie_p5_q90",
+      "domain": "oenologie",
+      "level": 5,
+      "question": "Question de test pour Œnologie P5 numéro 90 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 90 de Œnologie.",
+      "thematique": "Sujet Spécifique Q90"
+    },
+    {
+      "id": "oenologie_p5_q91",
+      "domain": "oenologie",
+      "level": 5,
+      "question": "Question de test pour Œnologie P5 numéro 91 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 91 de Œnologie.",
+      "thematique": "Sujet Spécifique Q91"
+    },
+    {
+      "id": "oenologie_p5_q92",
+      "domain": "oenologie",
+      "level": 5,
+      "question": "Question de test pour Œnologie P5 numéro 92 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 92 de Œnologie.",
+      "thematique": "Sujet Spécifique Q92"
+    },
+    {
+      "id": "oenologie_p5_q93",
+      "domain": "oenologie",
+      "level": 5,
+      "question": "Question de test pour Œnologie P5 numéro 93 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 93 de Œnologie.",
+      "thematique": "Sujet Spécifique Q93"
+    },
+    {
+      "id": "oenologie_p5_q94",
+      "domain": "oenologie",
+      "level": 5,
+      "question": "Question de test pour Œnologie P5 numéro 94 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 94 de Œnologie.",
+      "thematique": "Sujet Spécifique Q94"
+    },
+    {
+      "id": "oenologie_p5_q95",
+      "domain": "oenologie",
+      "level": 5,
+      "question": "Question de test pour Œnologie P5 numéro 95 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 95 de Œnologie.",
+      "thematique": "Sujet Spécifique Q95"
+    },
+    {
+      "id": "oenologie_p5_q96",
+      "domain": "oenologie",
+      "level": 5,
+      "question": "Question de test pour Œnologie P5 numéro 96 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 96 de Œnologie.",
+      "thematique": "Sujet Spécifique Q96"
+    },
+    {
+      "id": "oenologie_p5_q97",
+      "domain": "oenologie",
+      "level": 5,
+      "question": "Question de test pour Œnologie P5 numéro 97 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 97 de Œnologie.",
+      "thematique": "Sujet Spécifique Q97"
+    },
+    {
+      "id": "oenologie_p5_q98",
+      "domain": "oenologie",
+      "level": 5,
+      "question": "Question de test pour Œnologie P5 numéro 98 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 98 de Œnologie.",
+      "thematique": "Sujet Spécifique Q98"
+    },
+    {
+      "id": "oenologie_p5_q99",
+      "domain": "oenologie",
+      "level": 5,
+      "question": "Question de test pour Œnologie P5 numéro 99 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 99 de Œnologie.",
+      "thematique": "Sujet Spécifique Q99"
+    },
+    {
+      "id": "oenologie_p5_q100",
+      "domain": "oenologie",
+      "level": 5,
+      "question": "Question de test pour Œnologie P5 numéro 100 sur les spécifications techniques et les fondamentaux du programme.",
+      "options": [
+        "Option Correcte",
+        "Option Incorrecte A",
+        "Option Incorrecte B",
+        "Option Incorrecte C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Indice ou explication pour la question 100 de Œnologie.",
+      "thematique": "Sujet Spécifique Q100"
+    }
+  ]
+}
