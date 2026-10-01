@@ -1,0 +1,4516 @@
+{
+  "app": "DiplomaVino",
+  "version": "1.0",
+  "questions": [
+    {
+      "id": "sommellerie_p1_q1",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Quelle est la température de service idéale recommandée pour un grand cru de Bourgogne rouge élégant et évolué ?",
+      "options": [
+        "14-16°C",
+        "8-10°C",
+        "10-12°C",
+        "18-20°C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Température de fraîcheur de cave pour respecter la délicatesse.",
+      "thematique": "Température de service"
+    },
+    {
+      "id": "sommellerie_p1_q2",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Dans quel cas précis procède-t-on à une décantation (et non un simple carafage) pour un vin rouge âgé ?",
+      "options": [
+        "Pour oxygéner brutalement un vin réduit",
+        "Pour éliminer le soufre libre",
+        "Pour éliminer les dépôts solides formés avec l'âge",
+        "Pour réchauffer un vin trop froid"
+      ],
+      "correct_answer": 2,
+      "explanation": "Il s'agit de séparer physiquement les sédiments.",
+      "thematique": "Décantation"
+    },
+    {
+      "id": "sommellerie_p1_q3",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Que traduisent des larmes (ou jambes) épaisses, lentes et nombreuses le long de la paroi d'un verre ?",
+      "options": [
+        "Un taux de tanins astringent",
+        "Une forte teneur en alcool et/ou sucres résiduels",
+        "Une acidité volatile élevée",
+        "Une carence totale en anhydride sulfureux"
+      ],
+      "correct_answer": 1,
+      "explanation": "C'est lié à l'effet Marangoni et la viscosité.",
+      "thematique": "Analyse visuelle"
+    },
+    {
+      "id": "sommellerie_p1_q4",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Quel est l'unique cépage rouge autorisé dans l'appellation Côte-Rôtie ?",
+      "options": [
+        "Le Grenache",
+        "Le Cinsault",
+        "Le Mourvèdre",
+        "La Syrah (avec jusqu'à 20% de Viognier)"
+      ],
+      "correct_answer": 3,
+      "explanation": "Un mariage septentrional avec un cépage blanc aromatique.",
+      "thematique": "Vallée du Rhône"
+    },
+    {
+      "id": "sommellerie_p1_q5",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "À quelle famille d'arômes rattache-t-on les notes de sous-bois, de cuir et de tabac blond d'un vin vieux ?",
+      "options": [
+        "Les arômes tertiaires",
+        "Les arômes empyreumatiques",
+        "Les arômes primaires",
+        "Les arômes secondaires"
+      ],
+      "correct_answer": 0,
+      "explanation": "Il s'agit du bouquet de vieillissement en bouteille.",
+      "thematique": "Analyse olfactive"
+    },
+    {
+      "id": "sommellerie_p1_q6",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Laquelle de ces affirmations concernant la hiérarchie des appellations en Bourgogne est exacte ?",
+      "options": [
+        "Les Grands Crus comportent toujours le nom du village",
+        "Les Premiers Crus représentent 50% de la production",
+        "Les climats classés en Premier Cru mentionnent le nom du climat sur l'étiquette",
+        "Il n'existe aucune distinction de rendement"
+      ],
+      "correct_answer": 2,
+      "explanation": "Le Premier Cru associe le nom du village à celui du climat.",
+      "thematique": "Bourgogne"
+    },
+    {
+      "id": "sommellerie_p1_q7",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Quel est l'objectif principal d'un carafage énergique pour un vin jeune et très tannique ?",
+      "options": [
+        "Réduire le degré alcoolique total",
+        "Assouplir les tanins et libérer les composés aromatiques",
+        "Précipiter l'acide tartrique",
+        "Éliminer les levures indigènes"
+      ],
+      "correct_answer": 1,
+      "explanation": "L'oxygène polymérise une partie des tanins astringents.",
+      "thematique": "Oxygénation"
+    },
+    {
+      "id": "sommellerie_p1_q8",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Quel cépage noble italien est à la base exclusive des grands vins de Barolo et de Barbaresco ?",
+      "options": [
+        "Le Barbera",
+        "Le Sangiovese",
+        "L'Aglianico",
+        "Le Nebbiolo"
+      ],
+      "correct_answer": 3,
+      "explanation": "Son nom provient de la brume (nebbia) automnale.",
+      "thematique": "Italie"
+    },
+    {
+      "id": "sommellerie_p1_q9",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Quel domaine de Sauternes détient la distinction suprême de Premier Cru Supérieur dans le classement de 1855 ?",
+      "options": [
+        "Le Château d'Yquem",
+        "Le Château Haut-Brion",
+        "Le Château Margaux",
+        "Le Château Cheval Blanc"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le sommet absolu de la hiérarchie des liquoreux de 1855.",
+      "thematique": "Bordeaux"
+    },
+    {
+      "id": "sommellerie_p1_q10",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Pourquoi privilégie-t-on un verre tulipe plutôt qu'une coupe plate pour le Champagne ?",
+      "options": [
+        "Pour faciliter l'empilement du matériel",
+        "Pour réchauffer rapidement le vin",
+        "Pour préserver le cordon de bulles et concentrer les arômes",
+        "Pour forcer l'évaporation du gaz"
+      ],
+      "correct_answer": 2,
+      "explanation": "La forme tulipe resserre le bouquet et guide les bulles.",
+      "thematique": "Effervescents"
+    },
+    {
+      "id": "sommellerie_p1_q11",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "L'odeur caractéristique de carton mouillé ou goût de bouchon est due à quelle molécule ?",
+      "options": [
+        "Le diacétyle",
+        "Le 2,4,6-trichloroanisole (TCA)",
+        "L'éthanoate d'éthyle",
+        "L'acide sorbique"
+      ],
+      "correct_answer": 1,
+      "explanation": "Un composé halogéné formé par le traitement du liège ou du bois.",
+      "thematique": "Défauts du vin"
+    },
+    {
+      "id": "sommellerie_p1_q12",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Quel est l'apport géologique fondamental des sols de type 'Kimméridgien' à Chablis ?",
+      "options": [
+        "Ils apportent des tanins structurels aux vins blancs",
+        "Ils stimulent une surmaturation rapide",
+        "Ils éliminent l'acidité malolactique",
+        "Ils confèrent au vin sa pureté minérale, ses notes iodées et sa vibrante acidité"
+      ],
+      "correct_answer": 3,
+      "explanation": "Un sous-sol marin fossilisé riche en petites huîtres.",
+      "thematique": "Viticulture et Terroirs"
+    },
+    {
+      "id": "sommellerie_p1_q13",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Quel est l'effet physiologique majeur du champignon Botrytis cinerea (pourriture noble) sur le raisin ?",
+      "options": [
+        "Il perfore la pellicule, permettant l'évaporation de l'eau et la concentration des sucres",
+        "Il déclenche une fermentation sur la grappe",
+        "Il pigmente le jus en rouge foncé",
+        "Il bloque la photosynthèse"
+      ],
+      "correct_answer": 0,
+      "explanation": "Un phénomène de passerillage biologique sur souche.",
+      "thematique": "Vins liquoreux"
+    },
+    {
+      "id": "sommellerie_p1_q14",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Quel cépage blanc noble est le seul composant de l'appellation Vouvray ?",
+      "options": [
+        "Le Chardonnay",
+        "Le Sauvignon blanc",
+        "Le Chenin blanc",
+        "Le Melon de Bourgogne"
+      ],
+      "correct_answer": 2,
+      "explanation": "Aussi appelé Pineau de la Loire, très polyvalent.",
+      "thematique": "Vallée de la Loire"
+    },
+    {
+      "id": "sommellerie_p1_q15",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "En France, à quoi correspond précisément la mention 'AOP' (Appellation d'Origine Protégée) ?",
+      "options": [
+        "L'interdiction absolue d'utiliser du dioxyde de sulfure",
+        "Un lien fort entre le produit, son terroir et un cahier des charges rigoureux",
+        "L'autorisation d'assembler des vins européens",
+        "Une classification marketing privée"
+      ],
+      "correct_answer": 1,
+      "explanation": "Un signe officiel de qualité géré par l'INAO.",
+      "thematique": "Législation"
+    },
+    {
+      "id": "sommellerie_p1_q16",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Qu'appelle-t-on un profil de vin ou un défaut dit de 'réduction' lors de l'élevage ?",
+      "options": [
+        "La baisse artificielle du taux d'alcool",
+        "L'évaporation de l'eau à travers les douelles",
+        "Une oxydation rapide par contact avec l'air",
+        "Un manque d'oxygène générant des notes de pierre à fusil ou de caoutchouc brûlé"
+      ],
+      "correct_answer": 3,
+      "explanation": "Se produit en milieu hermétique privé d'oxygène.",
+      "thematique": "Vinification et Cave"
+    },
+    {
+      "id": "sommellerie_p1_q17",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Quel cépage rouge est le pilier des grands vins de Rioja et de Ribera del Duero ?",
+      "options": [
+        "Le Tempranillo",
+        "Le Monastrell",
+        "L'Albariño",
+        "La Garnacha"
+      ],
+      "correct_answer": 0,
+      "explanation": "Son nom fait référence à sa maturité précoce (temprano).",
+      "thematique": "Espagne"
+    },
+    {
+      "id": "sommellerie_p1_q18",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Quel principe régit l'accord classique entre le Roquefort et un Sauternes ?",
+      "options": [
+        "Les tanins marqués se lient aux protéines du lait",
+        "Le sel du fromage annule l'alcool du vin",
+        "Le sucre résiduel et l'onctuosité enrobent la puissance saline et le piquant du fromage",
+        "L'acidité pure détruit le gras du fromage"
+      ],
+      "correct_answer": 2,
+      "explanation": "Le contraste parfait entre le salé/bleu et la douceur du vin.",
+      "thematique": "Accords mets et vins"
+    },
+    {
+      "id": "sommellerie_p1_q19",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Quel cépage alsacien noble développe des notes caractéristiques d'hydrocarbures avec l'âge ?",
+      "options": [
+        "L'Auxerrois",
+        "Le Riesling",
+        "Le Chasselas",
+        "Le Sylvaner"
+      ],
+      "correct_answer": 1,
+      "explanation": "Lié à la formation de la molécule de TDN lors du vieillissement.",
+      "thematique": "Alsace"
+    },
+    {
+      "id": "sommellerie_p1_q20",
+      "domain": "sommellerie",
+      "level": 1,
+      "question": "Que mesure-t-on précisément lorsque l'on comptabilise les 'caudalies' en dégustation ?",
+      "options": [
+        "Le taux de sucre résiduel converti en longueur",
+        "Le nombre de secondes d'aération nécessaire en carafe",
+        "Le volume restant dans le verre après une gorgée",
+        "La durée en secondes pendant laquelle les arômes persistent en bouche après déglutition"
+      ],
+      "correct_answer": 3,
+      "explanation": "Une caudalie correspond à une seconde de persistance rétro-nasale.",
+      "thematique": "Vocabulaire"
+    },
+    {
+      "id": "sommellerie_p2_q21",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "À quelle température sert-on généralement un vin rouge léger et fruité ?",
+      "options": [
+        "Environ 12 à 14 °C",
+        "Environ 20 à 22 °C",
+        "Environ 26 °C",
+        "Environ 4 à 6 °C"
+      ],
+      "correct_answer": 0,
+      "explanation": "Les rouges légers gagnent à être servis légèrement rafraîchis pour préserver leur fraîcheur.",
+      "thematique": "Service"
+    },
+    {
+      "id": "sommellerie_p2_q22",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quel est l'objectif principal de la décantation d'un vin âgé ?",
+      "options": [
+        "Le rendre pétillant",
+        "Augmenter son degré alcoolique",
+        "Séparer le vin de son dépôt",
+        "Le refroidir rapidement"
+      ],
+      "correct_answer": 2,
+      "explanation": "La décantation permet notamment de séparer le vin du dépôt formé avec l'âge.",
+      "thematique": "Service"
+    },
+    {
+      "id": "sommellerie_p2_q23",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quel verre convient le mieux au service d'un vin effervescent ?",
+      "options": [
+        "Un verre à bière",
+        "Une flûte ou un verre tulipe",
+        "Un verre à digestif très étroit",
+        "Un verre ballon très large"
+      ],
+      "correct_answer": 1,
+      "explanation": "La forme étroite aide à préserver les bulles, tandis qu'un verre tulipe favorise aussi l'expression aromatique.",
+      "thematique": "Service"
+    },
+    {
+      "id": "sommellerie_p2_q24",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quel principe d'accord fonctionne généralement avec un plat très salé ?",
+      "options": [
+        "Servir uniquement un vin rouge tannique",
+        "Augmenter fortement le degré alcoolique",
+        "Choisir systématiquement un vin plus salé",
+        "La fraîcheur du vin peut équilibrer la sensation saline"
+      ],
+      "correct_answer": 3,
+      "explanation": "L'acidité et la fraîcheur peuvent apporter un contrepoint à la salinité.",
+      "thematique": "Accords"
+    },
+    {
+      "id": "sommellerie_p2_q25",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quel type de vin accompagne classiquement un dessert très sucré ?",
+      "options": [
+        "Un vin suffisamment doux pour ne pas paraître sec",
+        "Un vin systématiquement plus sec que le dessert",
+        "Un vin très tannique et sec",
+        "Un vin sans acidité"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le vin doit conserver une douceur suffisante pour ne pas sembler maigre face au dessert.",
+      "thematique": "Accords"
+    },
+    {
+      "id": "sommellerie_p2_q26",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quel élément d'un vin peut atténuer la sensation de gras d'un plat ?",
+      "options": [
+        "La couleur",
+        "Le degré de limpidité",
+        "L'acidité",
+        "Le sucre uniquement"
+      ],
+      "correct_answer": 2,
+      "explanation": "L'acidité stimule la salivation et peut alléger la sensation de gras.",
+      "thematique": "Accords"
+    },
+    {
+      "id": "sommellerie_p2_q27",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Que désigne la robe d'un vin ?",
+      "options": [
+        "Son degré alcoolique",
+        "Son aspect visuel : couleur, intensité et limpidité",
+        "Son potentiel de garde uniquement",
+        "Son niveau d'acidité"
+      ],
+      "correct_answer": 1,
+      "explanation": "La robe décrit l'apparence visuelle du vin.",
+      "thematique": "Dégustation"
+    },
+    {
+      "id": "sommellerie_p2_q28",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quelle famille aromatique évoque le citron et le pamplemousse ?",
+      "options": [
+        "Les épices",
+        "Les notes torréfiées",
+        "Les notes animales",
+        "Les agrumes"
+      ],
+      "correct_answer": 3,
+      "explanation": "Citron et pamplemousse appartiennent à la famille des agrumes.",
+      "thematique": "Dégustation"
+    },
+    {
+      "id": "sommellerie_p2_q29",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Que signifie la longueur en bouche ?",
+      "options": [
+        "La persistance des sensations après avoir avalé ou recraché le vin",
+        "Le temps nécessaire pour ouvrir la bouteille",
+        "La longueur du bouchon",
+        "La durée de conservation de la bouteille"
+      ],
+      "correct_answer": 0,
+      "explanation": "La longueur correspond à la persistance aromatique et gustative en finale.",
+      "thematique": "Dégustation"
+    },
+    {
+      "id": "sommellerie_p2_q30",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quel terme décrit un vin qui provoque beaucoup de salivation ?",
+      "options": [
+        "Tannique",
+        "Oxydé",
+        "Frais",
+        "Moelleux"
+      ],
+      "correct_answer": 2,
+      "explanation": "La fraîcheur est principalement liée à l'acidité et stimule la salivation.",
+      "thematique": "Dégustation"
+    },
+    {
+      "id": "sommellerie_p2_q31",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quelle région est principalement associée au cépage Sauvignon blanc à Sancerre ?",
+      "options": [
+        "L'Alsace",
+        "Le Centre-Loire",
+        "La Provence",
+        "Le Beaujolais"
+      ],
+      "correct_answer": 1,
+      "explanation": "Sancerre est une appellation du Centre-Loire, fondée notamment sur le Sauvignon blanc pour les blancs.",
+      "thematique": "Vins de France"
+    },
+    {
+      "id": "sommellerie_p2_q32",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quel cépage domine les grands vins rouges de la Côte de Nuits ?",
+      "options": [
+        "Syrah",
+        "Merlot",
+        "Malbec",
+        "Pinot noir"
+      ],
+      "correct_answer": 3,
+      "explanation": "La Côte de Nuits en Bourgogne est particulièrement réputée pour ses grands Pinot noir.",
+      "thematique": "Vins de France"
+    },
+    {
+      "id": "sommellerie_p2_q33",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quel cépage est emblématique de la vallée du Rhône septentrionale en rouge ?",
+      "options": [
+        "Syrah",
+        "Pinot gris",
+        "Gamay",
+        "Cabernet franc"
+      ],
+      "correct_answer": 0,
+      "explanation": "La Syrah est le cépage rouge majeur du Rhône septentrional.",
+      "thematique": "Vins de France"
+    },
+    {
+      "id": "sommellerie_p2_q34",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quel cépage est traditionnellement associé au Muscadet ?",
+      "options": [
+        "Riesling",
+        "Chardonnay",
+        "Melon de Bourgogne",
+        "Viognier"
+      ],
+      "correct_answer": 2,
+      "explanation": "Le Muscadet est élaboré principalement à partir du Melon de Bourgogne.",
+      "thematique": "Vins de France"
+    },
+    {
+      "id": "sommellerie_p2_q35",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quel cépage est central dans les rouges du Beaujolais ?",
+      "options": [
+        "Pinotage",
+        "Gamay",
+        "Grenache blanc",
+        "Cabernet sauvignon"
+      ],
+      "correct_answer": 1,
+      "explanation": "Le Gamay est le cépage emblématique des crus et appellations du Beaujolais.",
+      "thematique": "Vins de France"
+    },
+    {
+      "id": "sommellerie_p2_q36",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quelle appellation est particulièrement connue pour les vins liquoreux issus du Botrytis cinerea ?",
+      "options": [
+        "Menetou-Salon",
+        "Chablis",
+        "Morgon",
+        "Sauternes"
+      ],
+      "correct_answer": 3,
+      "explanation": "Sauternes est réputée pour ses vins liquoreux, souvent issus de raisins atteints de pourriture noble.",
+      "thematique": "Vins de France"
+    },
+    {
+      "id": "sommellerie_p2_q37",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quelle région italienne est réputée pour le Barolo ?",
+      "options": [
+        "Piémont",
+        "Toscane",
+        "Sicile",
+        "Vénétie"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le Barolo est produit dans le Piémont à partir de Nebbiolo.",
+      "thematique": "Vins du monde"
+    },
+    {
+      "id": "sommellerie_p2_q38",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quel cépage est emblématique du Barolo ?",
+      "options": [
+        "Montepulciano",
+        "Corvina",
+        "Nebbiolo",
+        "Sangiovese"
+      ],
+      "correct_answer": 2,
+      "explanation": "Le Barolo est élaboré à partir du Nebbiolo.",
+      "thematique": "Vins du monde"
+    },
+    {
+      "id": "sommellerie_p2_q39",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quelle région espagnole est associée au Tempranillo et au Rioja ?",
+      "options": [
+        "La Castille-et-León uniquement",
+        "La Rioja",
+        "La Galice",
+        "La Catalogne"
+      ],
+      "correct_answer": 1,
+      "explanation": "La Rioja est l'une des grandes régions viticoles espagnoles et utilise largement le Tempranillo.",
+      "thematique": "Vins du monde"
+    },
+    {
+      "id": "sommellerie_p2_q40",
+      "domain": "sommellerie",
+      "level": 2,
+      "question": "Quel cépage est emblématique du Marlborough en Nouvelle-Zélande ?",
+      "options": [
+        "Gamay",
+        "Nebbiolo",
+        "Tannat",
+        "Sauvignon blanc"
+      ],
+      "correct_answer": 3,
+      "explanation": "Marlborough est mondialement connue pour ses Sauvignon blancs très aromatiques.",
+      "thematique": "Vins du monde"
+    },
+    {
+      "id": "sommellerie_p3_q41",
+      "question": "Quel est l’objectif principal de la fermentation malolactique ?",
+      "options": [
+        "Transformer l’acide malique en acide lactique et réduire l’acidité",
+        "Augmenter fortement le sucre résiduel",
+        "Produire du gaz carbonique dans le vin fini",
+        "Colorer un vin blanc en rouge"
+      ],
+      "correct_answer": 0,
+      "explanation": "La fermentation malolactique transforme l’acide malique en acide lactique, ce qui réduit l’acidité et assouplit la perception du vin.",
+      "thematique": "Élaboration & Œnologie",
+      "domain": "sommellerie",
+      "level": 3
+    },
+    {
+      "id": "sommellerie_p3_q42",
+      "question": "Quel cépage est le seul autorisé pour les vins rouges de Cornas ?",
+      "options": [
+        "Grenache",
+        "Mourvèdre",
+        "Syrah",
+        "Viognier"
+      ],
+      "correct_answer": 2,
+      "explanation": "L’appellation Cornas est dédiée aux vins rouges issus de Syrah.",
+      "thematique": "Cépages & Viticulture",
+      "domain": "sommellerie",
+      "level": 3
+    },
+    {
+      "id": "sommellerie_p3_q43",
+      "question": "À quelle température peut-on idéalement servir un Grand Cru rouge de Bourgogne d’environ 10 ans ?",
+      "options": [
+        "6–8 °C",
+        "15–16 °C",
+        "20–22 °C",
+        "25 °C"
+      ],
+      "correct_answer": 1,
+      "explanation": "Un rouge évolué et délicat gagne à être servi autour de 15–16 °C afin de préserver finesse et équilibre.",
+      "thematique": "Service du vin",
+      "domain": "sommellerie",
+      "level": 3
+    },
+    {
+      "id": "sommellerie_p3_q44",
+      "question": "Quel cépage entre exclusivement dans l’élaboration du Barolo DOCG ?",
+      "options": [
+        "Sangiovese",
+        "Barbera",
+        "Aglianico",
+        "Nebbiolo"
+      ],
+      "correct_answer": 3,
+      "explanation": "Le Barolo DOCG est élaboré à partir de Nebbiolo.",
+      "thematique": "Vignobles Internationaux",
+      "domain": "sommellerie",
+      "level": 3
+    },
+    {
+      "id": "sommellerie_p3_q45",
+      "question": "Quel accord classique convient au Roquefort ?",
+      "options": [
+        "Un vin blanc doux, comme un Sauternes",
+        "Un rouge très tannique et sec",
+        "Un vin blanc totalement neutre",
+        "Un rosé très sec uniquement"
+      ],
+      "correct_answer": 0,
+      "explanation": "La douceur et la richesse aromatique d’un vin liquoreux équilibrent la puissance saline et le caractère persillé du Roquefort.",
+      "thematique": "Accords Mets & Vins",
+      "domain": "sommellerie",
+      "level": 3
+    },
+    {
+      "id": "sommellerie_p3_q46",
+      "question": "Quelle molécule est principalement associée au goût de bouchon ?",
+      "options": [
+        "Le diacétyle",
+        "L’acide tartrique",
+        "Le TCA (2,4,6-trichloroanisole)",
+        "L’acétaldéhyde"
+      ],
+      "correct_answer": 2,
+      "explanation": "Le TCA est la molécule classiquement associée au défaut de bouchon, avec des notes de moisi ou de carton humide.",
+      "thematique": "Défauts du vin",
+      "domain": "sommellerie",
+      "level": 3
+    },
+    {
+      "id": "sommellerie_p3_q47",
+      "question": "Dans quelle sous-région de Bourgogne se situe Puligny-Montrachet ?",
+      "options": [
+        "Côte de Nuits",
+        "Côte de Beaune",
+        "Chablisien",
+        "Mâconnais"
+      ],
+      "correct_answer": 1,
+      "explanation": "Puligny-Montrachet est une appellation de la Côte de Beaune.",
+      "thematique": "Vignoble Français",
+      "domain": "sommellerie",
+      "level": 3
+    },
+    {
+      "id": "sommellerie_p3_q48",
+      "question": "Quel cépage domine généralement les vins rouges de la rive droite de Bordeaux ?",
+      "options": [
+        "Cabernet Sauvignon",
+        "Syrah",
+        "Pinot Noir",
+        "Merlot"
+      ],
+      "correct_answer": 3,
+      "explanation": "Le Merlot est le cépage dominant de nombreuses appellations de la rive droite, notamment Saint-Émilion et Pomerol.",
+      "thematique": "Vignoble Français",
+      "domain": "sommellerie",
+      "level": 3
+    },
+    {
+      "id": "sommellerie_p3_q49",
+      "question": "Quel cépage constitue l’un des piliers des grands vins rouges de Rioja ?",
+      "options": [
+        "Tempranillo",
+        "Albariño",
+        "Touriga Nacional",
+        "Nebbiolo"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le Tempranillo est le cépage emblématique et majeur des grands rouges de Rioja.",
+      "thematique": "Vignobles Internationaux",
+      "domain": "sommellerie",
+      "level": 3
+    },
+    {
+      "id": "sommellerie_p3_q50",
+      "question": "Pourquoi décante-t-on avec précaution un très vieux vin rouge ?",
+      "options": [
+        "Pour augmenter son degré alcoolique",
+        "Pour le rendre effervescent",
+        "Pour séparer le vin du dépôt",
+        "Pour augmenter son sucre"
+      ],
+      "correct_answer": 2,
+      "explanation": "La décantation d’un vin âgé vise principalement à séparer le liquide du dépôt qui s’est formé avec le temps.",
+      "thematique": "Service & Décantation",
+      "domain": "sommellerie",
+      "level": 3
+    },
+    {
+      "id": "sommellerie_p3_q51",
+      "question": "Que signifie « Blanc de Blancs » en Champagne ?",
+      "options": [
+        "Un vin sans dosage",
+        "Un vin élaboré uniquement à partir de raisins blancs",
+        "Un vin élaboré uniquement à partir de raisins rouges",
+        "Un vin sans prise de mousse"
+      ],
+      "correct_answer": 1,
+      "explanation": "Dans l’usage champenois, Blanc de Blancs désigne un Champagne élaboré uniquement avec des cépages blancs, le plus souvent le Chardonnay.",
+      "thematique": "Vignoble Français",
+      "domain": "sommellerie",
+      "level": 3
+    },
+    {
+      "id": "sommellerie_p3_q52",
+      "question": "Quel cépage est utilisé pour les Sancerre rouges et rosés ?",
+      "options": [
+        "Cabernet Franc",
+        "Gamay",
+        "Merlot",
+        "Pinot Noir"
+      ],
+      "correct_answer": 3,
+      "explanation": "Les Sancerre rouges et rosés sont élaborés à partir de Pinot Noir.",
+      "thematique": "Vignoble Français",
+      "domain": "sommellerie",
+      "level": 3
+    },
+    {
+      "id": "sommellerie_p3_q53",
+      "question": "Que désigne le Kimméridgien à Chablis ?",
+      "options": [
+        "Une marne calcaire riche en petits fossiles d’huîtres",
+        "Un granite très acide",
+        "Un sable volcanique",
+        "Une argile rouge riche en fer"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le Kimméridgien est une formation marno-calcaire contenant notamment de petits fossiles d’huîtres, souvent associée au terroir historique de Chablis.",
+      "thematique": "Géologie & Terroirs",
+      "domain": "sommellerie",
+      "level": 3
+    },
+    {
+      "id": "sommellerie_p3_q54",
+      "question": "Quel accord classique convient à un Muscadet Sèvre-et-Maine sur lie ?",
+      "options": [
+        "Un dessert chocolaté",
+        "Un gibier en sauce très puissant",
+        "Des huîtres et fruits de mer",
+        "Un fromage persillé très sucré"
+      ],
+      "correct_answer": 2,
+      "explanation": "La fraîcheur et la tension du Muscadet accompagnent traditionnellement les huîtres et autres produits de la mer.",
+      "thematique": "Accords Mets & Vins",
+      "domain": "sommellerie",
+      "level": 3
+    },
+    {
+      "id": "sommellerie_p3_q55",
+      "question": "Que signifie « Trocken » sur un vin allemand ?",
+      "options": [
+        "Doux",
+        "Sec",
+        "Effervescent",
+        "Fortifié"
+      ],
+      "correct_answer": 1,
+      "explanation": "Trocken indique un vin sec selon la réglementation allemande.",
+      "thematique": "Vignobles Internationaux",
+      "domain": "sommellerie",
+      "level": 3
+    },
+    {
+      "id": "sommellerie_p3_q56",
+      "question": "Quelle technique est utilisée pour élaborer un Vin Doux Naturel comme le Muscat de Rivesaltes ?",
+      "options": [
+        "La gazéification",
+        "La cryoextraction uniquement",
+        "L’ajout de sucre après mise",
+        "Le mutage par ajout d’alcool pendant la fermentation"
+      ],
+      "correct_answer": 3,
+      "explanation": "Le mutage consiste à ajouter de l’alcool neutre pendant la fermentation afin d’en arrêter le déroulement et de conserver une partie des sucres.",
+      "thematique": "Vins Doux Naturels",
+      "domain": "sommellerie",
+      "level": 3
+    },
+    {
+      "id": "sommellerie_p3_q57",
+      "question": "Quel cépage est emblématique des grands Portos rouges ?",
+      "options": [
+        "Touriga Nacional",
+        "Pinot Gris",
+        "Chenin Blanc",
+        "Sauvignon Blanc"
+      ],
+      "correct_answer": 0,
+      "explanation": "Touriga Nacional est l’un des cépages les plus réputés pour la structure et la qualité des grands Portos rouges.",
+      "thematique": "Cépages & Vignobles",
+      "domain": "sommellerie",
+      "level": 3
+    },
+    {
+      "id": "sommellerie_p3_q58",
+      "question": "Quels effets l’élevage en fût de chêne neuf peut-il apporter à un vin blanc sec ?",
+      "options": [
+        "Uniquement des notes de fruits rouges frais",
+        "Une suppression totale de l’acidité",
+        "Vanille, toast, brioche et une évolution liée à la micro-oxygénation",
+        "Une effervescence naturelle"
+      ],
+      "correct_answer": 2,
+      "explanation": "Le chêne neuf peut apporter des notes de vanille et de toast et favoriser une évolution aromatique et texturale par micro-oxygénation.",
+      "thematique": "Élevage en fût",
+      "domain": "sommellerie",
+      "level": 3
+    },
+    {
+      "id": "sommellerie_p3_q59",
+      "question": "Pourquoi un verre tulipe possède-t-il une ouverture plus étroite que son milieu ?",
+      "options": [
+        "Pour empêcher toute évaporation de l’alcool",
+        "Pour concentrer et diriger les arômes vers le nez",
+        "Pour refroidir instantanément le vin",
+        "Pour rendre le vin plus sucré"
+      ],
+      "correct_answer": 1,
+      "explanation": "La forme resserrée favorise la concentration des composés volatils au-dessus du vin et leur perception olfactive.",
+      "thematique": "Verrerie & Service",
+      "domain": "sommellerie",
+      "level": 3
+    },
+    {
+      "id": "sommellerie_p3_q60",
+      "question": "Quel style de vin accompagne classiquement un gibier à plumes évolué ?",
+      "options": [
+        "Un vin blanc doux très sucré uniquement",
+        "Un rosé très léger",
+        "Un vin effervescent très dosé",
+        "Un rouge évolué, riche en notes tertiaires"
+      ],
+      "correct_answer": 3,
+      "explanation": "Un gibier à plumes évolué peut s’accorder avec un rouge mature et complexe, dont les arômes tertiaires répondent à la chair et aux saveurs du plat.",
+      "thematique": "Accords Mets & Vins",
+      "domain": "sommellerie",
+      "level": 3
+    },
+    {
+      "id": "sommellerie_p4_q61",
+      "question": "Quelle appellation de la Loire est particulièrement associée au Cabernet Franc rouge ?",
+      "options": [
+        "Chinon",
+        "Sancerre",
+        "Muscadet Sèvre-et-Maine",
+        "Vouvray"
+      ],
+      "correct_answer": 0,
+      "explanation": "Chinon est une appellation majeure de Cabernet Franc en Touraine.",
+      "thematique": "Vignoble Français",
+      "domain": "sommellerie",
+      "level": 4
+    },
+    {
+      "id": "sommellerie_p4_q62",
+      "question": "Quel cépage blanc est emblématique de Sancerre blanc ?",
+      "options": [
+        "Chenin Blanc",
+        "Chardonnay",
+        "Sauvignon Blanc",
+        "Riesling"
+      ],
+      "correct_answer": 2,
+      "explanation": "Sancerre blanc est principalement issu de Sauvignon Blanc.",
+      "thematique": "Vignoble Français",
+      "domain": "sommellerie",
+      "level": 4
+    },
+    {
+      "id": "sommellerie_p4_q63",
+      "question": "Quelle appellation bordelaise est située sur la rive gauche de la Gironde ?",
+      "options": [
+        "Pomerol",
+        "Pauillac",
+        "Saint-Émilion",
+        "Lalande-de-Pomerol"
+      ],
+      "correct_answer": 1,
+      "explanation": "Pauillac se situe dans le Médoc, sur la rive gauche.",
+      "thematique": "Bordeaux",
+      "domain": "sommellerie",
+      "level": 4
+    },
+    {
+      "id": "sommellerie_p4_q64",
+      "question": "Quel cépage domine dans les rouges de Pauillac ?",
+      "options": [
+        "Gamay",
+        "Pinot Noir",
+        "Nebbiolo",
+        "Cabernet Sauvignon"
+      ],
+      "correct_answer": 3,
+      "explanation": "Le Cabernet Sauvignon constitue la colonne vertébrale des grands rouges du Médoc, dont Pauillac.",
+      "thematique": "Bordeaux",
+      "domain": "sommellerie",
+      "level": 4
+    },
+    {
+      "id": "sommellerie_p4_q65",
+      "question": "Quel cépage est emblématique de la Côte de Nuits en Bourgogne rouge ?",
+      "options": [
+        "Pinot Noir",
+        "Syrah",
+        "Merlot",
+        "Cabernet Franc"
+      ],
+      "correct_answer": 0,
+      "explanation": "Les grands rouges de la Côte de Nuits sont issus du Pinot Noir.",
+      "thematique": "Bourgogne",
+      "domain": "sommellerie",
+      "level": 4
+    },
+    {
+      "id": "sommellerie_p4_q66",
+      "question": "Quel cépage est emblématique des grands blancs de Meursault ?",
+      "options": [
+        "Riesling",
+        "Sauvignon Blanc",
+        "Chardonnay",
+        "Viognier"
+      ],
+      "correct_answer": 2,
+      "explanation": "Meursault produit principalement des vins blancs de Chardonnay.",
+      "thematique": "Bourgogne",
+      "domain": "sommellerie",
+      "level": 4
+    },
+    {
+      "id": "sommellerie_p4_q67",
+      "question": "Que signifie « sur lie » pour un Muscadet ?",
+      "options": [
+        "Un vieillissement obligatoire en barrique neuve",
+        "Un élevage sur lies fines avant mise en bouteille",
+        "Une vinification sans fermentation",
+        "Un ajout de sucre après fermentation"
+      ],
+      "correct_answer": 1,
+      "explanation": "Le vin reste en contact avec ses lies, ce qui peut renforcer texture et complexité.",
+      "thematique": "Vinification",
+      "domain": "sommellerie",
+      "level": 4
+    },
+    {
+      "id": "sommellerie_p4_q68",
+      "question": "Quelle est la fonction principale du soufre en vinification ?",
+      "options": [
+        "Augmenter le degré alcoolique",
+        "Colorer le vin",
+        "Créer les tanins",
+        "Protéger le vin contre l’oxydation et certains micro-organismes"
+      ],
+      "correct_answer": 3,
+      "explanation": "Le dioxyde de soufre est utilisé notamment pour ses propriétés antioxydantes et antimicrobiennes.",
+      "thematique": "Vinification",
+      "domain": "sommellerie",
+      "level": 4
+    },
+    {
+      "id": "sommellerie_p4_q69",
+      "question": "Quel défaut est typiquement associé à l’odeur de vinaigre ?",
+      "options": [
+        "Une acidité volatile élevée",
+        "Le TCA",
+        "La réduction",
+        "L’acidité tartrique"
+      ],
+      "correct_answer": 0,
+      "explanation": "L’acide acétique et certains composés associés contribuent au caractère vinaigré d’une forte acidité volatile.",
+      "thematique": "Défauts du vin",
+      "domain": "sommellerie",
+      "level": 4
+    },
+    {
+      "id": "sommellerie_p4_q70",
+      "question": "Quel composé peut donner des notes de beurre et de noisette après fermentation malolactique ?",
+      "options": [
+        "Le TCA",
+        "Le méthanol",
+        "Le diacétyle",
+        "Le chlorure de sodium"
+      ],
+      "correct_answer": 2,
+      "explanation": "Le diacétyle est associé à des notes beurrées, particulièrement perceptibles dans certains vins ayant connu la malolactique.",
+      "thematique": "Œnologie",
+      "domain": "sommellerie",
+      "level": 4
+    },
+    {
+      "id": "sommellerie_p4_q71",
+      "question": "Quel cépage est emblématique de la Vallée du Rhône septentrionale en rouge ?",
+      "options": [
+        "Grenache",
+        "Syrah",
+        "Tempranillo",
+        "Sangiovese"
+      ],
+      "correct_answer": 1,
+      "explanation": "La Syrah est le cépage rouge de référence du nord du Rhône.",
+      "thematique": "Rhône",
+      "domain": "sommellerie",
+      "level": 4
+    },
+    {
+      "id": "sommellerie_p4_q72",
+      "question": "Quel cépage est central dans les rouges de Châteauneuf-du-Pape ?",
+      "options": [
+        "Pinot Noir",
+        "Nebbiolo",
+        "Cabernet Sauvignon",
+        "Grenache"
+      ],
+      "correct_answer": 3,
+      "explanation": "Le Grenache est un cépage majeur de Châteauneuf-du-Pape et apporte notamment fruit, alcool et ampleur.",
+      "thematique": "Rhône",
+      "domain": "sommellerie",
+      "level": 4
+    },
+    {
+      "id": "sommellerie_p4_q73",
+      "question": "Quelle appellation du Rhône est réputée pour ses blancs à base de Viognier ?",
+      "options": [
+        "Condrieu",
+        "Hermitage rouge uniquement",
+        "Cornas",
+        "Gigondas"
+      ],
+      "correct_answer": 0,
+      "explanation": "Condrieu est l’appellation emblématique du Viognier dans le nord du Rhône.",
+      "thematique": "Rhône",
+      "domain": "sommellerie",
+      "level": 4
+    },
+    {
+      "id": "sommellerie_p4_q74",
+      "question": "Quel cépage blanc est emblématique de Condrieu ?",
+      "options": [
+        "Marsanne",
+        "Roussanne",
+        "Viognier",
+        "Clairette"
+      ],
+      "correct_answer": 2,
+      "explanation": "Condrieu est exclusivement associé au Viognier.",
+      "thematique": "Rhône",
+      "domain": "sommellerie",
+      "level": 4
+    },
+    {
+      "id": "sommellerie_p4_q75",
+      "question": "Quel cépage est emblématique de l’Alsace pour les vins aromatiques et épicés ?",
+      "options": [
+        "Chenin Blanc",
+        "Gewurztraminer",
+        "Aligoté",
+        "Melon de Bourgogne"
+      ],
+      "correct_answer": 1,
+      "explanation": "Le Gewurztraminer est réputé pour son expression aromatique intense et épicée.",
+      "thematique": "Alsace",
+      "domain": "sommellerie",
+      "level": 4
+    },
+    {
+      "id": "sommellerie_p4_q76",
+      "question": "Que signifie un vin « moelleux » dans la terminologie française courante ?",
+      "options": [
+        "Un vin toujours effervescent",
+        "Un vin nécessairement rouge",
+        "Un vin sans alcool",
+        "Un vin présentant une douceur perceptible due au sucre résiduel"
+      ],
+      "correct_answer": 3,
+      "explanation": "Moelleux décrit un vin doux dont le sucre résiduel reste perceptible en bouche.",
+      "thematique": "Vocabulaire",
+      "domain": "sommellerie",
+      "level": 4
+    },
+    {
+      "id": "sommellerie_p4_q77",
+      "question": "Quelle température convient généralement à un vin blanc sec aromatique ?",
+      "options": [
+        "Environ 8–12 °C selon le style",
+        "20–22 °C",
+        "25–28 °C",
+        "2–3 °C obligatoirement"
+      ],
+      "correct_answer": 0,
+      "explanation": "Les blancs secs aromatiques sont généralement servis frais, avec une température adaptée à leur richesse et à leur structure.",
+      "thematique": "Service",
+      "domain": "sommellerie",
+      "level": 4
+    },
+    {
+      "id": "sommellerie_p4_q78",
+      "question": "Pourquoi utilise-t-on parfois une carafe pour un jeune vin rouge ?",
+      "options": [
+        "Pour supprimer tout son alcool",
+        "Pour augmenter son sucre",
+        "Pour favoriser son aération et son expression aromatique",
+        "Pour le rendre effervescent"
+      ],
+      "correct_answer": 2,
+      "explanation": "L’aération peut aider certains jeunes rouges à exprimer leurs arômes et à assouplir leur perception.",
+      "thematique": "Décantation",
+      "domain": "sommellerie",
+      "level": 4
+    },
+    {
+      "id": "sommellerie_p4_q79",
+      "question": "Quel élément doit être vérifié en priorité lors de la réception d’une livraison de vin ?",
+      "options": [
+        "La couleur de toutes les capsules uniquement",
+        "La conformité des références et des quantités avec le bon de livraison",
+        "La température extérieure uniquement",
+        "La hauteur des bouteilles"
+      ],
+      "correct_answer": 1,
+      "explanation": "Le contrôle de réception porte notamment sur les références, quantités et éventuels dommages.",
+      "thematique": "Gestion de cave",
+      "domain": "sommellerie",
+      "level": 4
+    },
+    {
+      "id": "sommellerie_p4_q80",
+      "question": "Quel principe aide à limiter les pertes liées au vieillissement du stock ?",
+      "options": [
+        "Conserver tous les vins sans inventaire",
+        "Mélanger les millésimes dans une même référence",
+        "Éviter toute mise à jour de stock",
+        "Une rotation adaptée des bouteilles et un suivi des millésimes"
+      ],
+      "correct_answer": 3,
+      "explanation": "La rotation et le suivi des millésimes permettent de limiter les stocks dormants et les erreurs de gestion.",
+      "thematique": "Gestion de cave",
+      "domain": "sommellerie",
+      "level": 4
+    },
+    {
+      "id": "sommellerie_p5_q81",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Pourquoi conserver les bouteilles de vin tranquille couchées lorsqu'elles ont un bouchon de liège ?",
+      "options": [
+        "Pour maintenir le bouchon humide",
+        "Pour empêcher tout dépôt",
+        "Pour augmenter le degré alcoolique",
+        "Pour accélérer l'oxydation"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le contact avec le vin aide à éviter le dessèchement du bouchon.",
+      "thematique": "Gestion de cave"
+    },
+    {
+      "id": "sommellerie_p5_q82",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Quelle condition est particulièrement importante pour une cave de garde ?",
+      "options": [
+        "Une humidité nulle",
+        "Des variations quotidiennes importantes",
+        "Une température relativement stable",
+        "Une lumière forte"
+      ],
+      "correct_answer": 2,
+      "explanation": "La stabilité thermique est importante pour limiter les évolutions défavorables du vin.",
+      "thematique": "Gestion de cave"
+    },
+    {
+      "id": "sommellerie_p5_q83",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Pourquoi faut-il éviter la lumière directe pour les vins sensibles ?",
+      "options": [
+        "Elle empêche la fermentation",
+        "Elle peut accélérer des altérations du vin",
+        "Elle augmente toujours l'acidité",
+        "Elle supprime les tanins"
+      ],
+      "correct_answer": 1,
+      "explanation": "La lumière peut favoriser des réactions d'altération, notamment sur certains vins blancs et effervescents.",
+      "thematique": "Gestion de cave"
+    },
+    {
+      "id": "sommellerie_p5_q84",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "À quoi sert principalement un seau à glace lors du service d'un vin blanc ?",
+      "options": [
+        "À augmenter son acidité",
+        "À éliminer le dépôt",
+        "À filtrer le vin",
+        "À maintenir sa température de service"
+      ],
+      "correct_answer": 3,
+      "explanation": "Le seau permet de maintenir le vin à une température fraîche pendant le service.",
+      "thematique": "Service"
+    },
+    {
+      "id": "sommellerie_p5_q85",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Lors d'un service à table, qui goûte généralement le vin présenté pour validation ?",
+      "options": [
+        "La personne qui a commandé le vin",
+        "Le serveur uniquement",
+        "Le sommelier uniquement",
+        "Tous les convives simultanément"
+      ],
+      "correct_answer": 0,
+      "explanation": "La personne qui a choisi le vin valide généralement son état avant le service aux autres convives.",
+      "thematique": "Service"
+    },
+    {
+      "id": "sommellerie_p5_q86",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Quel défaut est souvent associé à une odeur de carton mouillé ?",
+      "options": [
+        "La réduction",
+        "L'acidité volatile",
+        "Le goût de bouchon",
+        "L'oxydation"
+      ],
+      "correct_answer": 2,
+      "explanation": "Le TCA, responsable du goût de bouchon, peut donner des notes de carton mouillé ou de moisi.",
+      "thematique": "Service"
+    },
+    {
+      "id": "sommellerie_p5_q87",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Quel ordre est généralement logique pour servir plusieurs vins au cours d'un repas ?",
+      "options": [
+        "Selon la couleur de l'étiquette",
+        "Du plus léger au plus puissant",
+        "Du plus doux au plus acide uniquement",
+        "Du plus puissant au plus léger systématiquement"
+      ],
+      "correct_answer": 1,
+      "explanation": "L'ordre cherche généralement à préserver la perception des vins, en progressant vers davantage d'intensité.",
+      "thematique": "Service"
+    },
+    {
+      "id": "sommellerie_p5_q88",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Quel élément peut renforcer la perception de chaleur alcoolique dans un vin ?",
+      "options": [
+        "Un plat très acide uniquement",
+        "Un plat froid sans épices",
+        "Un plat peu assaisonné",
+        "Un plat très épicé"
+      ],
+      "correct_answer": 3,
+      "explanation": "Les plats épicés peuvent accentuer la sensation de chaleur liée à l'alcool.",
+      "thematique": "Accords"
+    },
+    {
+      "id": "sommellerie_p5_q89",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Quel type de vin peut accompagner harmonieusement un fromage persillé puissant ?",
+      "options": [
+        "Un vin doux et aromatique",
+        "Un vin totalement neutre",
+        "Un vin rouge très tannique et sec uniquement",
+        "Un vin sans acidité"
+      ],
+      "correct_answer": 0,
+      "explanation": "La douceur et l'aromatique peuvent équilibrer la puissance et le sel des fromages persillés.",
+      "thematique": "Accords"
+    },
+    {
+      "id": "sommellerie_p5_q90",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Quel cépage est l'un des trois cépages majeurs autorisés pour le Champagne ?",
+      "options": [
+        "Tannat",
+        "Syrah",
+        "Pinot meunier",
+        "Gamay"
+      ],
+      "correct_answer": 2,
+      "explanation": "Les trois cépages majeurs sont Chardonnay, Pinot noir et Pinot meunier.",
+      "thematique": "Champagne"
+    },
+    {
+      "id": "sommellerie_p5_q91",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Que signifie 'Brut' sur une bouteille de Champagne ?",
+      "options": [
+        "Un vin sans prise de mousse",
+        "Une catégorie de dosage relativement peu sucrée",
+        "Un vin sans fermentation",
+        "Un vin rouge"
+      ],
+      "correct_answer": 1,
+      "explanation": "Brut désigne une catégorie de dosage avec une faible quantité de sucre résiduel ajoutée à l'expédition.",
+      "thematique": "Champagne"
+    },
+    {
+      "id": "sommellerie_p5_q92",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Quelle méthode est utilisée pour l'élaboration traditionnelle du Champagne ?",
+      "options": [
+        "La fermentation uniquement en cuve close",
+        "La gazéification directe uniquement",
+        "La concentration par congélation",
+        "La seconde fermentation en bouteille"
+      ],
+      "correct_answer": 3,
+      "explanation": "La méthode champenoise/traditionnelle comprend une seconde fermentation en bouteille.",
+      "thematique": "Effervescents"
+    },
+    {
+      "id": "sommellerie_p5_q93",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Quel spiritueux est élaboré à partir de vin distillé ?",
+      "options": [
+        "Le cognac",
+        "Le gin",
+        "La tequila",
+        "Le rhum"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le Cognac est un spiritueux de vin produit par distillation puis vieillissement selon les règles de l'appellation.",
+      "thematique": "Spiritueux"
+    },
+    {
+      "id": "sommellerie_p5_q94",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Quelle matière première est principalement utilisée pour le rhum ?",
+      "options": [
+        "L'orge maltée uniquement",
+        "Le raisin frais",
+        "La canne à sucre",
+        "La pomme"
+      ],
+      "correct_answer": 2,
+      "explanation": "Le rhum est produit à partir de produits de la canne à sucre, notamment mélasse ou jus selon les styles.",
+      "thematique": "Spiritueux"
+    },
+    {
+      "id": "sommellerie_p5_q95",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Quel botanique est indispensable à la définition du gin ?",
+      "options": [
+        "Le cacao",
+        "Le genièvre",
+        "Le safran",
+        "La vanille"
+      ],
+      "correct_answer": 1,
+      "explanation": "Le gin est un spiritueux dont le caractère doit notamment provenir du genièvre.",
+      "thematique": "Spiritueux"
+    },
+    {
+      "id": "sommellerie_p5_q96",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Quel est le rôle principal d'un sommelier en restauration ?",
+      "options": [
+        "Produire les vins de la carte",
+        "Gérer uniquement les réservations",
+        "Cuisiner tous les plats",
+        "Conseiller les vins et assurer leur service adapté"
+      ],
+      "correct_answer": 3,
+      "explanation": "Le sommelier conseille, gère et sert les vins en fonction de la carte et des attentes des clients.",
+      "thematique": "Sommellerie"
+    },
+    {
+      "id": "sommellerie_p5_q97",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Pourquoi actualiser régulièrement une carte des vins ?",
+      "options": [
+        "Pour refléter les disponibilités, millésimes et changements de prix",
+        "Pour augmenter automatiquement le degré alcoolique",
+        "Pour éviter toute rotation de stock",
+        "Pour supprimer les accords mets-vins"
+      ],
+      "correct_answer": 0,
+      "explanation": "Une carte doit rester cohérente avec les stocks, millésimes disponibles et conditions commerciales.",
+      "thematique": "Carte des vins"
+    },
+    {
+      "id": "sommellerie_p5_q98",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Que permet la rotation des stocks en cave ?",
+      "options": [
+        "Modifier les appellations",
+        "Empêcher toute vente de vin",
+        "Limiter le vieillissement non souhaité et suivre les entrées/sorties",
+        "Augmenter systématiquement les prix"
+      ],
+      "correct_answer": 2,
+      "explanation": "La rotation permet de suivre les stocks et d'éviter qu'une bouteille reste inutilement trop longtemps en cave.",
+      "thematique": "Gestion"
+    },
+    {
+      "id": "sommellerie_p5_q99",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Que peut indiquer une couleur ambrée sur un vin blanc sec ?",
+      "options": [
+        "Une effervescence forte",
+        "Une évolution liée notamment à l'âge ou à l'oxydation",
+        "Un niveau de sucre toujours élevé",
+        "Une absence totale d'alcool"
+      ],
+      "correct_answer": 1,
+      "explanation": "Une teinte ambrée peut traduire une évolution et, selon le vin, une oxydation plus ou moins marquée.",
+      "thematique": "Dégustation"
+    },
+    {
+      "id": "sommellerie_p5_q100",
+      "domain": "sommellerie",
+      "level": 5,
+      "question": "Quel facteur peut augmenter la perception de l'astringence d'un vin rouge ?",
+      "options": [
+        "Une forte douceur uniquement",
+        "Une température très basse uniquement",
+        "Une faible couleur",
+        "Des tanins élevés"
+      ],
+      "correct_answer": 3,
+      "explanation": "Les tanins sont responsables d'une grande partie de la sensation d'astringence des rouges.",
+      "thematique": "Dégustation"
+    },
+    {
+      "id": "wset_p1_q1",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quelle partie de la plante porte les grappes de raisin ?",
+      "options": [
+        "Les inflorescences puis les grappes sur les rameaux",
+        "Les racines",
+        "Le tronc uniquement",
+        "Les vrilles uniquement"
+      ],
+      "correct_answer": 0,
+      "explanation": "Les grappes se développent sur les pousses issues des bourgeons de la vigne.",
+      "thematique": "Vigne"
+    },
+    {
+      "id": "wset_p1_q2",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quel est le principal besoin de la vigne pour réaliser la photosynthèse ?",
+      "options": [
+        "Le dioxyde de carbone uniquement sans lumière",
+        "L'alcool",
+        "La lumière",
+        "Le sel"
+      ],
+      "correct_answer": 2,
+      "explanation": "La photosynthèse nécessite notamment lumière, eau et dioxyde de carbone.",
+      "thematique": "Vigne"
+    },
+    {
+      "id": "wset_p1_q3",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quel climat favorise généralement une maturation plus rapide des raisins ?",
+      "options": [
+        "Un climat polaire",
+        "Un climat chaud",
+        "Un climat sans lumière",
+        "Un climat froid"
+      ],
+      "correct_answer": 1,
+      "explanation": "La chaleur accélère généralement les processus de maturation, avec des nuances selon les conditions.",
+      "thematique": "Vigne"
+    },
+    {
+      "id": "wset_p1_q4",
+      "domain": "wset",
+      "level": 1,
+      "question": "Que se passe-t-il lors de la véraison ?",
+      "options": [
+        "Le vin est mis en bouteille",
+        "Les raisins sont récoltés",
+        "Les racines cessent de pousser définitivement",
+        "Les baies changent de couleur et commencent leur maturation"
+      ],
+      "correct_answer": 3,
+      "explanation": "La véraison correspond au début de la maturation visible des baies.",
+      "thematique": "Vigne"
+    },
+    {
+      "id": "wset_p1_q5",
+      "domain": "wset",
+      "level": 1,
+      "question": "Pourquoi le choix du moment de la récolte est-il important ?",
+      "options": [
+        "Il influence l'équilibre entre sucre, acidité et maturité",
+        "Il supprime les arômes",
+        "Il empêche toute fermentation",
+        "Il détermine uniquement la couleur de la bouteille"
+      ],
+      "correct_answer": 0,
+      "explanation": "La date de récolte influence plusieurs composantes majeures de la composition du raisin.",
+      "thematique": "Vigne"
+    },
+    {
+      "id": "wset_p1_q6",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quelle levure transforme principalement les sucres du raisin en alcool lors de la fermentation alcoolique ?",
+      "options": [
+        "Acetobacter",
+        "Brettanomyces uniquement",
+        "Saccharomyces cerevisiae",
+        "Lactobacillus uniquement"
+      ],
+      "correct_answer": 2,
+      "explanation": "Saccharomyces cerevisiae est la levure couramment utilisée pour la fermentation alcoolique.",
+      "thematique": "Vinification"
+    },
+    {
+      "id": "wset_p1_q7",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quel gaz est principalement produit lors de la fermentation alcoolique ?",
+      "options": [
+        "Oxygène",
+        "Dioxyde de carbone",
+        "Hydrogène",
+        "Azote"
+      ],
+      "correct_answer": 1,
+      "explanation": "La fermentation alcoolique produit principalement alcool et dioxyde de carbone.",
+      "thematique": "Vinification"
+    },
+    {
+      "id": "wset_p1_q8",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quel est l'effet général de la fermentation malolactique ?",
+      "options": [
+        "Elle transforme l'alcool en sucre",
+        "Elle augmente fortement l'acidité",
+        "Elle produit des bulles dans tous les vins",
+        "Elle réduit l'acidité et peut apporter des notes lactées"
+      ],
+      "correct_answer": 3,
+      "explanation": "La fermentation malolactique transforme l'acide malique en acide lactique, généralement avec baisse de l'acidité.",
+      "thematique": "Vinification"
+    },
+    {
+      "id": "wset_p1_q9",
+      "domain": "wset",
+      "level": 1,
+      "question": "Pourquoi le vin rouge est-il généralement fermenté avec les peaux ?",
+      "options": [
+        "Pour extraire couleur, tanins et composés aromatiques",
+        "Pour empêcher la fermentation",
+        "Pour supprimer tout alcool",
+        "Pour rendre le vin blanc"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le contact avec les peaux permet notamment l'extraction des anthocyanes et des tanins.",
+      "thematique": "Vinification"
+    },
+    {
+      "id": "wset_p1_q10",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quelle opération sépare le vin des matières solides après fermentation ?",
+      "options": [
+        "La mise en bouteille",
+        "Le bouchage",
+        "Le pressurage ou l'écoulage selon le procédé",
+        "L'étiquetage"
+      ],
+      "correct_answer": 2,
+      "explanation": "Selon la méthode, le vin est séparé des parties solides par écoulage et/ou pressurage.",
+      "thematique": "Vinification"
+    },
+    {
+      "id": "wset_p1_q11",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quel est l'effet du bois de chêne sur un vin ?",
+      "options": [
+        "Il empêche toute maturation",
+        "Il peut apporter des arômes et favoriser une évolution par échanges avec l'oxygène",
+        "Il supprime toute acidité",
+        "Il transforme toujours le vin en vin doux"
+      ],
+      "correct_answer": 1,
+      "explanation": "Le chêne peut apporter des composés aromatiques et contribuer à la maturation.",
+      "thematique": "Vinification"
+    },
+    {
+      "id": "wset_p1_q12",
+      "domain": "wset",
+      "level": 1,
+      "question": "Qu'est-ce qu'un vin sec au sens courant de la dégustation ?",
+      "options": [
+        "Un vin sans alcool",
+        "Un vin toujours acide",
+        "Un vin nécessairement effervescent",
+        "Un vin avec très peu de sucre résiduel perceptible"
+      ],
+      "correct_answer": 3,
+      "explanation": "La sécheresse décrit avant tout l'absence de douceur perceptible liée au sucre résiduel.",
+      "thematique": "Vinification"
+    },
+    {
+      "id": "wset_p1_q13",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quel élément est évalué en premier dans l'approche systématique de dégustation ?",
+      "options": [
+        "L'apparence",
+        "Le nom du producteur",
+        "Le prix",
+        "Le degré de garde"
+      ],
+      "correct_answer": 0,
+      "explanation": "L'approche commence généralement par l'examen visuel avant le nez et la bouche.",
+      "thematique": "Dégustation"
+    },
+    {
+      "id": "wset_p1_q14",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quelle sensation est principalement liée à l'acidité ?",
+      "options": [
+        "L'astringence",
+        "La douceur",
+        "La salivation et la fraîcheur",
+        "La chaleur alcoolique uniquement"
+      ],
+      "correct_answer": 2,
+      "explanation": "L'acidité augmente la salivation et donne une sensation de fraîcheur.",
+      "thematique": "Dégustation"
+    },
+    {
+      "id": "wset_p1_q15",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quelle sensation est principalement liée aux tanins ?",
+      "options": [
+        "La douceur",
+        "L'astringence",
+        "La salinité uniquement",
+        "La chaleur"
+      ],
+      "correct_answer": 1,
+      "explanation": "Les tanins produisent une sensation tactile d'assèchement ou d'astringence.",
+      "thematique": "Dégustation"
+    },
+    {
+      "id": "wset_p1_q16",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quel effet un climat plus frais a-t-il généralement sur la maturation du raisin ?",
+      "options": [
+        "Une maturation toujours plus rapide",
+        "Une disparition systématique des arômes",
+        "Une augmentation automatique du sucre",
+        "Une maturation plus lente et une acidité potentiellement plus élevée"
+      ],
+      "correct_answer": 3,
+      "explanation": "Les climats frais ralentissent généralement la maturation et favorisent le maintien de l'acidité.",
+      "thematique": "Climat"
+    },
+    {
+      "id": "wset_p1_q17",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quel risque est particulièrement associé au gel de printemps ?",
+      "options": [
+        "La destruction des jeunes pousses",
+        "Une augmentation immédiate du sucre",
+        "Une prise de mousse",
+        "Une surmaturation des raisins"
+      ],
+      "correct_answer": 0,
+      "explanation": "Les jeunes pousses sont particulièrement vulnérables au gel printanier.",
+      "thematique": "Climat"
+    },
+    {
+      "id": "wset_p1_q18",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quel risque peut être accru par une pluie importante proche de la récolte ?",
+      "options": [
+        "La diminution du rendement à zéro",
+        "La hausse automatique de l'alcool",
+        "La dilution et certaines maladies fongiques",
+        "La prise de mousse"
+      ],
+      "correct_answer": 2,
+      "explanation": "L'excès d'eau peut diluer les baies et favoriser certaines maladies, selon les conditions.",
+      "thematique": "Climat"
+    },
+    {
+      "id": "wset_p1_q19",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quel style de vin est généralement obtenu à partir de raisins récoltés très mûrs, avec davantage de sucre potentiel ?",
+      "options": [
+        "Un vin toujours sans alcool",
+        "Un vin potentiellement plus riche en alcool et en fruit mûr",
+        "Un vin toujours effervescent",
+        "Un vin nécessairement plus acide"
+      ],
+      "correct_answer": 1,
+      "explanation": "Une maturité plus élevée peut conduire à davantage de sucre potentiel et à des profils plus mûrs.",
+      "thematique": "Styles"
+    },
+    {
+      "id": "wset_p1_q20",
+      "domain": "wset",
+      "level": 1,
+      "question": "Quel facteur influence fortement le style final d'un vin ?",
+      "options": [
+        "Le prix de vente uniquement",
+        "La forme de l'étiquette uniquement",
+        "La couleur de la capsule uniquement",
+        "Le climat, le cépage et les choix de vinification"
+      ],
+      "correct_answer": 3,
+      "explanation": "Le style résulte de l'interaction du site/climat, du cépage et des choix humains de culture et de vinification.",
+      "thematique": "Styles"
+    },
+    {
+      "id": "wset_p2_q21",
+      "question": "Quel facteur favorise généralement une maturation plus rapide des raisins ?",
+      "options": [
+        "Un climat plus chaud",
+        "Une température toujours proche de 0 °C",
+        "Une absence totale de lumière",
+        "Une humidité du sol nulle"
+      ],
+      "correct_answer": 0,
+      "explanation": "Une température plus élevée accélère généralement le cycle de maturation de la vigne.",
+      "thematique": "Principes",
+      "domain": "wset",
+      "level": 2
+    },
+    {
+      "id": "wset_p2_q22",
+      "question": "Quel est le rôle principal des feuilles de vigne ?",
+      "options": [
+        "Produire directement l’alcool",
+        "Créer les tanins du vin fini",
+        "Réaliser la photosynthèse",
+        "Remplacer les racines"
+      ],
+      "correct_answer": 2,
+      "explanation": "Les feuilles captent l’énergie lumineuse et réalisent la photosynthèse.",
+      "thematique": "Viticulture",
+      "domain": "wset",
+      "level": 2
+    },
+    {
+      "id": "wset_p2_q23",
+      "question": "Pourquoi la gestion de la canopée est-elle importante ?",
+      "options": [
+        "Elle augmente toujours le rendement",
+        "Elle influence l’exposition des grappes et l’équilibre sanitaire",
+        "Elle supprime l’acidité",
+        "Elle transforme le cépage"
+      ],
+      "correct_answer": 1,
+      "explanation": "La gestion du feuillage agit sur la lumière, l’aération et donc la maturation et l’état sanitaire.",
+      "thematique": "Viticulture",
+      "domain": "wset",
+      "level": 2
+    },
+    {
+      "id": "wset_p2_q24",
+      "question": "Quel climat tend à favoriser une acidité naturelle plus élevée dans les raisins ?",
+      "options": [
+        "Un climat très chaud",
+        "Un climat désertique sans nuits fraîches",
+        "Un climat constamment tropical",
+        "Un climat frais"
+      ],
+      "correct_answer": 3,
+      "explanation": "Dans les climats plus frais, la maturation est souvent plus lente et l’acidité mieux préservée.",
+      "thematique": "Climat",
+      "domain": "wset",
+      "level": 2
+    },
+    {
+      "id": "wset_p2_q25",
+      "question": "Quelle transformation produit principalement l’alcool pendant la fermentation ?",
+      "options": [
+        "Les levures transforment les sucres en alcool et CO₂",
+        "Les bactéries transforment les tanins en sucre",
+        "L’oxygène transforme l’eau en alcool",
+        "Le bois produit l’alcool"
+      ],
+      "correct_answer": 0,
+      "explanation": "Les levures fermentent les sucres et produisent principalement de l’éthanol et du dioxyde de carbone.",
+      "thematique": "Vinification",
+      "domain": "wset",
+      "level": 2
+    },
+    {
+      "id": "wset_p2_q26",
+      "question": "Quel choix peut contribuer à préserver les arômes fruités d’un vin blanc ?",
+      "options": [
+        "Une oxydation maximale",
+        "Une cuisson du moût",
+        "Une fermentation à température relativement fraîche",
+        "Un élevage obligatoire en fût neuf"
+      ],
+      "correct_answer": 2,
+      "explanation": "Des températures de fermentation maîtrisées peuvent aider à préserver les arômes primaires et fermentaires.",
+      "thematique": "Vinification",
+      "domain": "wset",
+      "level": 2
+    },
+    {
+      "id": "wset_p2_q27",
+      "question": "Quel est l’effet général d’une fermentation malolactique ?",
+      "options": [
+        "Augmenter fortement l’acidité",
+        "Réduire l’acidité et augmenter la souplesse",
+        "Créer du sucre résiduel",
+        "Transformer le vin en spiritueux"
+      ],
+      "correct_answer": 1,
+      "explanation": "La conversion de l’acide malique en acide lactique adoucit généralement la perception de l’acidité.",
+      "thematique": "Vinification",
+      "domain": "wset",
+      "level": 2
+    },
+    {
+      "id": "wset_p2_q28",
+      "question": "Quel apport peut donner l’élevage en chêne ?",
+      "options": [
+        "Uniquement une couleur bleue",
+        "Une effervescence obligatoire",
+        "Une baisse automatique de l’alcool",
+        "Des notes de vanille, toast ou épices et une évolution texturale"
+      ],
+      "correct_answer": 3,
+      "explanation": "Le bois peut apporter des composés aromatiques et permettre une micro-oxygénation.",
+      "thematique": "Élevage",
+      "domain": "wset",
+      "level": 2
+    },
+    {
+      "id": "wset_p2_q29",
+      "question": "Quel est le principal objectif d’un pressurage doux des raisins blancs ?",
+      "options": [
+        "Extraire le jus en limitant l’extraction de composés indésirables",
+        "Créer davantage de tanins",
+        "Augmenter le sucre par évaporation",
+        "Supprimer toute acidité"
+      ],
+      "correct_answer": 0,
+      "explanation": "Un pressurage maîtrisé limite notamment l’extraction excessive de composés phénoliques ou végétaux.",
+      "thematique": "Vinification",
+      "domain": "wset",
+      "level": 2
+    },
+    {
+      "id": "wset_p2_q30",
+      "question": "Que signifie un vin présentant une acidité élevée en dégustation ?",
+      "options": [
+        "Une absence totale de fruit",
+        "Un degré alcoolique nécessairement élevé",
+        "Une sensation de fraîcheur et de salivation marquée",
+        "Une douceur obligatoire"
+      ],
+      "correct_answer": 2,
+      "explanation": "L’acidité contribue à la fraîcheur, à la salivation et à l’équilibre du vin.",
+      "thematique": "Analyse sensorielle",
+      "domain": "wset",
+      "level": 2
+    },
+    {
+      "id": "wset_p2_q31",
+      "question": "Quel élément contribue principalement à l’astringence des vins rouges ?",
+      "options": [
+        "Les sucres",
+        "Les tanins",
+        "Le CO₂ uniquement",
+        "Les protéines du raisin blanc"
+      ],
+      "correct_answer": 1,
+      "explanation": "Les tanins réagissent notamment avec les protéines salivaires et donnent une sensation d’assèchement.",
+      "thematique": "Analyse sensorielle",
+      "domain": "wset",
+      "level": 2
+    },
+    {
+      "id": "wset_p2_q32",
+      "question": "Quel terme décrit un vin dont le sucre est clairement perceptible ?",
+      "options": [
+        "Sec",
+        "Tannique",
+        "Neutre",
+        "Doux"
+      ],
+      "correct_answer": 3,
+      "explanation": "La douceur correspond à une perception sucrée, généralement liée au sucre résiduel.",
+      "thematique": "Analyse sensorielle",
+      "domain": "wset",
+      "level": 2
+    },
+    {
+      "id": "wset_p2_q33",
+      "question": "Quel ordre est généralement recommandé pour plusieurs vins au cours d’un repas ?",
+      "options": [
+        "Du plus léger au plus puissant",
+        "Du plus puissant au plus léger",
+        "Du plus vieux au plus jeune obligatoirement",
+        "Selon la couleur de l’étiquette"
+      ],
+      "correct_answer": 0,
+      "explanation": "La progression du léger vers le plus puissant limite le risque que les vins intenses dominent les suivants.",
+      "thematique": "Service",
+      "domain": "wset",
+      "level": 2
+    },
+    {
+      "id": "wset_p2_q34",
+      "question": "Pourquoi le vin rouge peut-il être légèrement rafraîchi ?",
+      "options": [
+        "Pour supprimer ses arômes",
+        "Pour augmenter son sucre",
+        "Pour préserver fraîcheur et équilibre selon son style",
+        "Pour créer des bulles"
+      ],
+      "correct_answer": 2,
+      "explanation": "Certains rouges légers bénéficient d’une température modérée afin de conserver leur fraîcheur.",
+      "thematique": "Service",
+      "domain": "wset",
+      "level": 2
+    },
+    {
+      "id": "wset_p2_q35",
+      "question": "Quel élément d’un plat peut rendre un vin sec plus amer ou dur ?",
+      "options": [
+        "Une faible salinité",
+        "Une forte amertume ou des tanins alimentaires",
+        "Une température basse uniquement",
+        "Un dessert peu sucré"
+      ],
+      "correct_answer": 1,
+      "explanation": "L’amertume du plat peut accentuer l’amertume et la dureté perçues dans le vin.",
+      "thematique": "Accords",
+      "domain": "wset",
+      "level": 2
+    },
+    {
+      "id": "wset_p2_q36",
+      "question": "Pourquoi l’acidité d’un vin peut-elle fonctionner avec un plat gras ?",
+      "options": [
+        "Elle augmente le gras",
+        "Elle supprime les arômes",
+        "Elle transforme les protéines",
+        "Elle stimule la salivation et apporte de la fraîcheur"
+      ],
+      "correct_answer": 3,
+      "explanation": "L’acidité apporte un contraste rafraîchissant et aide à équilibrer la richesse du plat.",
+      "thematique": "Accords",
+      "domain": "wset",
+      "level": 2
+    },
+    {
+      "id": "wset_p2_q37",
+      "question": "Quel cépage est emblématique des vins rouges de Bourgogne ?",
+      "options": [
+        "Pinot Noir",
+        "Merlot",
+        "Syrah",
+        "Cabernet Sauvignon"
+      ],
+      "correct_answer": 0,
+      "explanation": "Les grands rouges de Bourgogne sont traditionnellement fondés sur le Pinot Noir.",
+      "thematique": "France",
+      "domain": "wset",
+      "level": 2
+    },
+    {
+      "id": "wset_p2_q38",
+      "question": "Quel cépage est emblématique des blancs de Bourgogne ?",
+      "options": [
+        "Cabernet Franc",
+        "Grenache",
+        "Chardonnay",
+        "Gamay"
+      ],
+      "correct_answer": 2,
+      "explanation": "Le Chardonnay est le cépage majeur des grands blancs de Bourgogne.",
+      "thematique": "France",
+      "domain": "wset",
+      "level": 2
+    },
+    {
+      "id": "wset_p2_q39",
+      "question": "Quelle région est particulièrement associée au Cabernet Sauvignon ?",
+      "options": [
+        "Alsace",
+        "Médoc à Bordeaux",
+        "Muscadet",
+        "Beaujolais"
+      ],
+      "correct_answer": 1,
+      "explanation": "Le Cabernet Sauvignon joue un rôle majeur dans les assemblages du Médoc.",
+      "thematique": "France",
+      "domain": "wset",
+      "level": 2
+    },
+    {
+      "id": "wset_p2_q40",
+      "question": "Quel cépage est emblématique du Beaujolais ?",
+      "options": [
+        "Pinot Gris",
+        "Nebbiolo",
+        "Sauvignon Blanc",
+        "Gamay"
+      ],
+      "correct_answer": 3,
+      "explanation": "Le Beaujolais est principalement associé au Gamay.",
+      "thematique": "France",
+      "domain": "wset",
+      "level": 2
+    },
+    {
+      "id": "wset_p3_q41",
+      "question": "Quel cépage est emblématique de nombreux grands vins blancs de Moselle allemande ?",
+      "options": [
+        "Riesling",
+        "Merlot",
+        "Sangiovese",
+        "Tannat"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le Riesling est un cépage majeur des régions viticoles allemandes, notamment la Moselle.",
+      "thematique": "Allemagne",
+      "domain": "wset",
+      "level": 3
+    },
+    {
+      "id": "wset_p3_q42",
+      "question": "Quel cépage est emblématique de la Wachau ?",
+      "options": [
+        "Tempranillo",
+        "Grenache",
+        "Grüner Veltliner",
+        "Chenin Blanc"
+      ],
+      "correct_answer": 2,
+      "explanation": "Le Grüner Veltliner est un cépage phare de l’Autriche.",
+      "thematique": "Autriche",
+      "domain": "wset",
+      "level": 3
+    },
+    {
+      "id": "wset_p3_q43",
+      "question": "Quel cépage est associé au Barolo et au Barbaresco ?",
+      "options": [
+        "Sangiovese",
+        "Nebbiolo",
+        "Montepulciano",
+        "Corvina"
+      ],
+      "correct_answer": 1,
+      "explanation": "Barolo et Barbaresco sont élaborés à partir de Nebbiolo.",
+      "thematique": "Italie",
+      "domain": "wset",
+      "level": 3
+    },
+    {
+      "id": "wset_p3_q44",
+      "question": "Quelle région italienne est associée au Chianti ?",
+      "options": [
+        "Piémont",
+        "Vénétie",
+        "Sicile",
+        "Toscane"
+      ],
+      "correct_answer": 3,
+      "explanation": "Le Chianti est une appellation de Toscane.",
+      "thematique": "Italie",
+      "domain": "wset",
+      "level": 3
+    },
+    {
+      "id": "wset_p3_q45",
+      "question": "Quel cépage est majeur dans le Priorat ?",
+      "options": [
+        "Garnacha",
+        "Riesling",
+        "Pinot Noir",
+        "Chenin Blanc"
+      ],
+      "correct_answer": 0,
+      "explanation": "La Garnacha est un cépage important du Priorat, souvent associé à la Carignan.",
+      "thematique": "Espagne",
+      "domain": "wset",
+      "level": 3
+    },
+    {
+      "id": "wset_p3_q46",
+      "question": "Quelle région espagnole est particulièrement connue pour le Cava ?",
+      "options": [
+        "Galice uniquement",
+        "Asturies uniquement",
+        "Catalogne",
+        "Andalousie uniquement"
+      ],
+      "correct_answer": 2,
+      "explanation": "La Catalogne, notamment autour de Penedès, est historiquement importante pour le Cava.",
+      "thematique": "Espagne",
+      "domain": "wset",
+      "level": 3
+    },
+    {
+      "id": "wset_p3_q47",
+      "question": "Quel cépage est emblématique du Vinho Verde blanc ?",
+      "options": [
+        "Cabernet Sauvignon",
+        "Alvarinho",
+        "Syrah",
+        "Nebbiolo"
+      ],
+      "correct_answer": 1,
+      "explanation": "L’Alvarinho est un cépage majeur du nord-ouest du Portugal et notamment du Vinho Verde.",
+      "thematique": "Portugal",
+      "domain": "wset",
+      "level": 3
+    },
+    {
+      "id": "wset_p3_q48",
+      "question": "Quelle région est à l’origine du Porto ?",
+      "options": [
+        "Alentejo",
+        "Dão uniquement",
+        "Vinho Verde uniquement",
+        "Douro"
+      ],
+      "correct_answer": 3,
+      "explanation": "Le Porto est produit dans la région du Douro, au nord du Portugal.",
+      "thematique": "Portugal",
+      "domain": "wset",
+      "level": 3
+    },
+    {
+      "id": "wset_p3_q49",
+      "question": "Quelle région californienne est célèbre pour le Cabernet Sauvignon ?",
+      "options": [
+        "Napa Valley",
+        "Finger Lakes",
+        "Willamette Valley",
+        "Long Island"
+      ],
+      "correct_answer": 0,
+      "explanation": "Napa Valley est particulièrement réputée pour ses Cabernet Sauvignon.",
+      "thematique": "États-Unis",
+      "domain": "wset",
+      "level": 3
+    },
+    {
+      "id": "wset_p3_q50",
+      "question": "Quel cépage est emblématique de la Russian River Valley ?",
+      "options": [
+        "Nebbiolo",
+        "Touriga Nacional",
+        "Pinot Noir",
+        "Garganega"
+      ],
+      "correct_answer": 2,
+      "explanation": "La Russian River Valley est réputée pour son Pinot Noir et ses Chardonnay.",
+      "thematique": "États-Unis",
+      "domain": "wset",
+      "level": 3
+    },
+    {
+      "id": "wset_p3_q51",
+      "question": "Quelle région australienne est célèbre pour le Shiraz ?",
+      "options": [
+        "Marlborough",
+        "Barossa Valley",
+        "Mosel",
+        "Rioja"
+      ],
+      "correct_answer": 1,
+      "explanation": "La Barossa Valley est l’une des régions emblématiques du Shiraz australien.",
+      "thematique": "Australie",
+      "domain": "wset",
+      "level": 3
+    },
+    {
+      "id": "wset_p3_q52",
+      "question": "Quelle région est mondialement connue pour son Sauvignon Blanc ?",
+      "options": [
+        "Barossa",
+        "Pauillac",
+        "Pfalz",
+        "Marlborough"
+      ],
+      "correct_answer": 3,
+      "explanation": "Marlborough est particulièrement connue pour ses Sauvignon Blanc très aromatiques.",
+      "thematique": "Nouvelle-Zélande",
+      "domain": "wset",
+      "level": 3
+    },
+    {
+      "id": "wset_p3_q53",
+      "question": "Quelle vallée chilienne est particulièrement connue pour le Cabernet Sauvignon ?",
+      "options": [
+        "Maipo Valley",
+        "Mosel",
+        "Marlborough",
+        "Douro"
+      ],
+      "correct_answer": 0,
+      "explanation": "La Maipo Valley est réputée pour ses Cabernet Sauvignon.",
+      "thematique": "Chili",
+      "domain": "wset",
+      "level": 3
+    },
+    {
+      "id": "wset_p3_q54",
+      "question": "Quel cépage est emblématique de Mendoza ?",
+      "options": [
+        "Pinot Noir",
+        "Riesling",
+        "Malbec",
+        "Gamay"
+      ],
+      "correct_answer": 2,
+      "explanation": "Mendoza est mondialement associée au Malbec.",
+      "thematique": "Argentine",
+      "domain": "wset",
+      "level": 3
+    },
+    {
+      "id": "wset_p3_q55",
+      "question": "Quel cépage blanc est historiquement important dans le Chenin Blanc sud-africain ?",
+      "options": [
+        "Riesling",
+        "Chenin Blanc",
+        "Albariño",
+        "Viognier uniquement"
+      ],
+      "correct_answer": 1,
+      "explanation": "Le Chenin Blanc est l’un des cépages blancs les plus importants d’Afrique du Sud.",
+      "thematique": "Afrique du Sud",
+      "domain": "wset",
+      "level": 3
+    },
+    {
+      "id": "wset_p3_q56",
+      "question": "Quelle technique est particulièrement associée aux vins de glace canadiens ?",
+      "options": [
+        "Ajouter de la glace au vin fini",
+        "Congeler le vin après fermentation",
+        "Ajouter du sucre de canne",
+        "Récolter des raisins gelés naturellement sur la vigne"
+      ],
+      "correct_answer": 3,
+      "explanation": "L’Icewine est produit à partir de raisins naturellement gelés sur la vigne au moment de la récolte.",
+      "thematique": "Canada",
+      "domain": "wset",
+      "level": 3
+    },
+    {
+      "id": "wset_p3_q57",
+      "question": "Quel principe est important lorsqu’on associe un vin à un dessert très sucré ?",
+      "options": [
+        "Le vin doit avoir une douceur suffisante",
+        "Le vin doit être nécessairement sec",
+        "Le vin doit être très tannique",
+        "Le vin doit être sans acidité"
+      ],
+      "correct_answer": 0,
+      "explanation": "Un vin trop sec peut paraître maigre ou acide face à un dessert très sucré.",
+      "thematique": "Desserts",
+      "domain": "wset",
+      "level": 3
+    },
+    {
+      "id": "wset_p3_q58",
+      "question": "Quel type de vin peut bien fonctionner avec un fromage à pâte persillée ?",
+      "options": [
+        "Un vin rouge très tannique uniquement",
+        "Un vin sans acidité ni sucre",
+        "Un vin doux et riche",
+        "Un vin neutre"
+      ],
+      "correct_answer": 2,
+      "explanation": "La douceur peut équilibrer le sel et l’intensité des fromages persillés.",
+      "thematique": "Fromages",
+      "domain": "wset",
+      "level": 3
+    },
+    {
+      "id": "wset_p3_q59",
+      "question": "Quel verre favorise généralement la concentration des arômes d’un vin tranquille ?",
+      "options": [
+        "Une coupe très plate",
+        "Un verre resserré vers le bord",
+        "Un verre sans pied uniquement",
+        "Un gobelet large et ouvert"
+      ],
+      "correct_answer": 1,
+      "explanation": "Un verre resserré concentre les composés aromatiques dans l’espace situé au-dessus du vin.",
+      "thematique": "Service",
+      "domain": "wset",
+      "level": 3
+    },
+    {
+      "id": "wset_p3_q60",
+      "question": "Pourquoi faut-il suivre les millésimes dans une cave professionnelle ?",
+      "options": [
+        "Parce que le millésime ne change jamais rien",
+        "Pour augmenter artificiellement le prix",
+        "Pour supprimer l’inventaire",
+        "Parce qu’un même vin peut évoluer et changer de disponibilité selon le millésime"
+      ],
+      "correct_answer": 3,
+      "explanation": "Le suivi des millésimes permet une gestion précise des stocks et de leur évolution.",
+      "thematique": "Gestion",
+      "domain": "wset",
+      "level": 3
+    },
+    {
+      "id": "wset_p4_q61",
+      "question": "Quel facteur contribue le plus directement à la perception de douceur d’un vin ?",
+      "options": [
+        "Le sucre résiduel",
+        "La couleur",
+        "Le verre",
+        "Le bouchon"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le sucre résiduel est le principal facteur de perception sucrée, même si l’acidité et l’alcool modulent l’équilibre.",
+      "thematique": "Styles",
+      "domain": "wset",
+      "level": 4
+    },
+    {
+      "id": "wset_p4_q62",
+      "question": "Quel effet une acidité élevée peut-elle avoir sur la perception d’un vin ?",
+      "options": [
+        "Elle supprime les arômes",
+        "Elle crée des tanins",
+        "Elle accentue la fraîcheur et peut faire paraître le vin moins doux",
+        "Elle augmente automatiquement l’alcool"
+      ],
+      "correct_answer": 2,
+      "explanation": "L’acidité apporte de la fraîcheur et peut réduire la perception relative de douceur.",
+      "thematique": "Styles",
+      "domain": "wset",
+      "level": 4
+    },
+    {
+      "id": "wset_p4_q63",
+      "question": "Quel effet l’alcool peut-il avoir en dégustation ?",
+      "options": [
+        "Il apporte toujours de l’acidité",
+        "Il peut apporter chaleur et volume en bouche",
+        "Il crée les anthocyanes",
+        "Il élimine les tanins"
+      ],
+      "correct_answer": 1,
+      "explanation": "L’alcool contribue notamment à la sensation de chaleur et au volume du vin.",
+      "thematique": "Styles",
+      "domain": "wset",
+      "level": 4
+    },
+    {
+      "id": "wset_p4_q64",
+      "question": "Quel est le but principal d’un débourbage des moûts blancs ?",
+      "options": [
+        "Augmenter le sucre",
+        "Créer des tanins",
+        "Ajouter du CO₂",
+        "Clarifier le moût avant fermentation"
+      ],
+      "correct_answer": 3,
+      "explanation": "Le débourbage élimine une partie des matières solides avant la fermentation des blancs.",
+      "thematique": "Vinification",
+      "domain": "wset",
+      "level": 4
+    },
+    {
+      "id": "wset_p4_q65",
+      "question": "Quel est le rôle du remontage lors d’une vinification rouge ?",
+      "options": [
+        "Remettre le jus en contact avec le marc et favoriser extraction et homogénéisation",
+        "Refroidir le vin à 0 °C",
+        "Supprimer toute couleur",
+        "Ajouter du sucre"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le remontage remet le jus en circulation sur le marc et contribue notamment à l’extraction.",
+      "thematique": "Vinification",
+      "domain": "wset",
+      "level": 4
+    },
+    {
+      "id": "wset_p4_q66",
+      "question": "Quelle opération permet de séparer le vin du marc après fermentation alcoolique ?",
+      "options": [
+        "Capsulage",
+        "Dosage",
+        "Écoulage",
+        "Filtration stérile uniquement"
+      ],
+      "correct_answer": 2,
+      "explanation": "L’écoulage sépare le vin de goutte du marc après la cuvaison.",
+      "thematique": "Vinification",
+      "domain": "wset",
+      "level": 4
+    },
+    {
+      "id": "wset_p4_q67",
+      "question": "Pourquoi bâtonner certaines lies fines ?",
+      "options": [
+        "Pour augmenter le degré alcoolique",
+        "Pour remettre les lies en suspension et enrichir la texture",
+        "Pour supprimer l’acidité",
+        "Pour produire des bulles"
+      ],
+      "correct_answer": 1,
+      "explanation": "Le bâtonnage remet les lies en suspension et peut accroître volume et complexité texturale.",
+      "thematique": "Élevage",
+      "domain": "wset",
+      "level": 4
+    },
+    {
+      "id": "wset_p4_q68",
+      "question": "Quel risque est associé à une oxydation excessive du vin ?",
+      "options": [
+        "Augmentation des arômes primaires",
+        "Création de tanins rouges",
+        "Augmentation du sucre",
+        "Perte de fraîcheur et évolution prématurée des arômes"
+      ],
+      "correct_answer": 3,
+      "explanation": "Une oxydation excessive peut brunir la couleur et faire évoluer les arômes vers des notes oxydatives.",
+      "thematique": "Élevage",
+      "domain": "wset",
+      "level": 4
+    },
+    {
+      "id": "wset_p4_q69",
+      "question": "Quelle est la seconde fermentation dans la méthode traditionnelle ?",
+      "options": [
+        "Une fermentation en bouteille qui produit le CO₂",
+        "Une fermentation du raisin sur pied",
+        "Une fermentation uniquement dans le verre",
+        "Une fermentation après distillation"
+      ],
+      "correct_answer": 0,
+      "explanation": "La seconde fermentation en bouteille produit l’alcool supplémentaire et le CO₂ responsables de la prise de mousse.",
+      "thematique": "Effervescents",
+      "domain": "wset",
+      "level": 4
+    },
+    {
+      "id": "wset_p4_q70",
+      "question": "Quel est le rôle du remuage en Champagne traditionnel ?",
+      "options": [
+        "Augmenter le sucre",
+        "Supprimer le CO₂",
+        "Rassembler le dépôt vers le col de la bouteille",
+        "Colorer le vin"
+      ],
+      "correct_answer": 2,
+      "explanation": "Le remuage déplace progressivement le dépôt vers le col avant dégorgement.",
+      "thematique": "Effervescents",
+      "domain": "wset",
+      "level": 4
+    },
+    {
+      "id": "wset_p4_q71",
+      "question": "Quel est le rôle du dégorgement ?",
+      "options": [
+        "Ajouter du gaz",
+        "Éliminer le dépôt accumulé dans le col",
+        "Créer l’alcool",
+        "Faire fermenter le raisin"
+      ],
+      "correct_answer": 1,
+      "explanation": "Le dégorgement permet de retirer le dépôt après remuage.",
+      "thematique": "Effervescents",
+      "domain": "wset",
+      "level": 4
+    },
+    {
+      "id": "wset_p4_q72",
+      "question": "Quel spiritueux est distillé à partir de vin ?",
+      "options": [
+        "Rhum",
+        "Whisky",
+        "Tequila",
+        "Cognac"
+      ],
+      "correct_answer": 3,
+      "explanation": "Le Cognac est élaboré à partir de vin distillé puis vieilli selon les règles de l’appellation.",
+      "thematique": "Spiritueux",
+      "domain": "wset",
+      "level": 4
+    },
+    {
+      "id": "wset_p4_q73",
+      "question": "Quelle matière première est à la base du rhum ?",
+      "options": [
+        "La canne à sucre",
+        "Le raisin",
+        "L’orge uniquement",
+        "La pomme"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le rhum est élaboré à partir de produits de la canne à sucre, notamment mélasse ou jus selon les styles.",
+      "thematique": "Spiritueux",
+      "domain": "wset",
+      "level": 4
+    },
+    {
+      "id": "wset_p4_q74",
+      "question": "Quel botanique est indispensable à la définition du gin ?",
+      "options": [
+        "Le cacao",
+        "La vanille",
+        "Le genièvre",
+        "Le café"
+      ],
+      "correct_answer": 2,
+      "explanation": "Le genièvre doit constituer le caractère botanique principal du gin.",
+      "thematique": "Spiritueux",
+      "domain": "wset",
+      "level": 4
+    },
+    {
+      "id": "wset_p4_q75",
+      "question": "Que signifie AOP dans le cadre européen ?",
+      "options": [
+        "Alcool Officiel Produit",
+        "Appellation d’Origine Protégée",
+        "Appellation Œnologique Privée",
+        "Association des Œnologues Professionnels"
+      ],
+      "correct_answer": 1,
+      "explanation": "AOP est le signe européen de protection d’une dénomination liée à une origine et à un cahier des charges.",
+      "thematique": "Législation",
+      "domain": "wset",
+      "level": 4
+    },
+    {
+      "id": "wset_p4_q76",
+      "question": "Pourquoi présente-t-on l’étiquette avant l’ouverture d’une bouteille ?",
+      "options": [
+        "Pour augmenter la température",
+        "Pour aérer le vin",
+        "Pour mesurer l’alcool",
+        "Pour permettre au client de vérifier la référence et le millésime"
+      ],
+      "correct_answer": 3,
+      "explanation": "La présentation permet de confirmer la bouteille commandée avant son ouverture.",
+      "thematique": "Service",
+      "domain": "wset",
+      "level": 4
+    },
+    {
+      "id": "wset_p4_q77",
+      "question": "Que doit faire le sommelier après avoir débouché une bouteille présentant un doute olfactif ?",
+      "options": [
+        "Contrôler le vin et informer le client si un défaut est confirmé",
+        "Ajouter immédiatement du sucre",
+        "Décanter systématiquement sans contrôle",
+        "Servir quand même"
+      ],
+      "correct_answer": 0,
+      "explanation": "Un doute sur l’état du vin doit être vérifié avant le service aux convives.",
+      "thematique": "Service",
+      "domain": "wset",
+      "level": 4
+    },
+    {
+      "id": "wset_p4_q78",
+      "question": "Quel élément d’un plat accentue souvent la sensation de chaleur de l’alcool ?",
+      "options": [
+        "La pomme de terre seule",
+        "L’eau",
+        "Le piment",
+        "Le pain blanc seul"
+      ],
+      "correct_answer": 2,
+      "explanation": "La capsaïcine des plats pimentés peut renforcer la sensation de chaleur liée à l’alcool.",
+      "thematique": "Accords",
+      "domain": "wset",
+      "level": 4
+    },
+    {
+      "id": "wset_p4_q79",
+      "question": "Pourquoi une carte des vins doit-elle être régulièrement actualisée ?",
+      "options": [
+        "Pour supprimer les accords",
+        "Pour correspondre aux stocks, millésimes et prix réellement disponibles",
+        "Pour éviter toute rotation",
+        "Pour augmenter automatiquement les ventes"
+      ],
+      "correct_answer": 1,
+      "explanation": "Une carte fiable doit rester cohérente avec les disponibilités et les conditions commerciales.",
+      "thematique": "Carte des vins",
+      "domain": "wset",
+      "level": 4
+    },
+    {
+      "id": "wset_p4_q80",
+      "question": "Quel terme décrit un vin présentant une forte persistance aromatique en bouche ?",
+      "options": [
+        "Court",
+        "Plat",
+        "Muet",
+        "Long"
+      ],
+      "correct_answer": 3,
+      "explanation": "La longueur correspond à la persistance des sensations et arômes après dégustation.",
+      "thematique": "Analyse",
+      "domain": "wset",
+      "level": 4
+    },
+    {
+      "id": "wset_p5_q81",
+      "question": "Que mesure une caudalie ?",
+      "options": [
+        "Une seconde de persistance aromatique en bouche",
+        "Le taux d’alcool",
+        "Le sucre résiduel",
+        "Le pH"
+      ],
+      "correct_answer": 0,
+      "explanation": "Une caudalie correspond traditionnellement à une seconde de persistance en bouche.",
+      "thematique": "Analyse",
+      "domain": "wset",
+      "level": 5
+    },
+    {
+      "id": "wset_p5_q82",
+      "question": "Quel descripteur est typiquement associé à un Sauvignon Blanc très aromatique ?",
+      "options": [
+        "Banane mûre uniquement",
+        "Café torréfié uniquement",
+        "Agrumes ou buis selon le style",
+        "Caramel brûlé obligatoire"
+      ],
+      "correct_answer": 2,
+      "explanation": "Le Sauvignon Blanc peut exprimer des notes d’agrumes, herbacées ou de buis selon l’origine et le style.",
+      "thematique": "Analyse",
+      "domain": "wset",
+      "level": 5
+    },
+    {
+      "id": "wset_p5_q83",
+      "question": "Quelle famille aromatique correspond au vieillissement tertiaire de nombreux vins rouges ?",
+      "options": [
+        "Raisin frais uniquement",
+        "Sous-bois, cuir ou tabac",
+        "Banane uniquement",
+        "Menthe uniquement"
+      ],
+      "correct_answer": 1,
+      "explanation": "Avec l’évolution, certains rouges développent des arômes tertiaires comme le sous-bois, le cuir ou le tabac.",
+      "thematique": "Analyse",
+      "domain": "wset",
+      "level": 5
+    },
+    {
+      "id": "wset_p5_q84",
+      "question": "Quel défaut est associé à une odeur de chou ou d’œuf dans certains vins ?",
+      "options": [
+        "Le TCA",
+        "L’oxydation",
+        "L’acidité tartrique",
+        "La réduction"
+      ],
+      "correct_answer": 3,
+      "explanation": "Certains composés soufrés issus de conditions réductrices peuvent donner des odeurs rappelant l’œuf ou le chou.",
+      "thematique": "Défauts",
+      "domain": "wset",
+      "level": 5
+    },
+    {
+      "id": "wset_p5_q85",
+      "question": "Quelle perception caractérise souvent une forte acidité volatile ?",
+      "options": [
+        "Une sensation vinaigrée ou de solvant selon les composés",
+        "Une douceur intense",
+        "Une astringence de thé",
+        "Une absence d’arômes"
+      ],
+      "correct_answer": 0,
+      "explanation": "L’acide acétique et l’acétate d’éthyle peuvent contribuer à des notes vinaigrées ou de solvant.",
+      "thematique": "Défauts",
+      "domain": "wset",
+      "level": 5
+    },
+    {
+      "id": "wset_p5_q86",
+      "question": "Quel défaut peut donner des notes de pomme blette ou de noix dans un vin blanc ?",
+      "options": [
+        "Une réduction",
+        "Le TCA",
+        "Une oxydation excessive",
+        "Un excès de CO₂"
+      ],
+      "correct_answer": 2,
+      "explanation": "L’oxydation peut conduire à des notes de pomme blette, noix ou fruits secs selon le vin.",
+      "thematique": "Défauts",
+      "domain": "wset",
+      "level": 5
+    },
+    {
+      "id": "wset_p5_q87",
+      "question": "Pourquoi une température stable est-elle importante pour une cave ?",
+      "options": [
+        "Elle augmente automatiquement le sucre",
+        "Elle limite les évolutions et dilatations répétées du vin",
+        "Elle empêche toute maturation",
+        "Elle remplace l’humidité"
+      ],
+      "correct_answer": 1,
+      "explanation": "La stabilité thermique limite les variations physiques et les évolutions défavorables.",
+      "thematique": "Conservation",
+      "domain": "wset",
+      "level": 5
+    },
+    {
+      "id": "wset_p5_q88",
+      "question": "Pourquoi évite-t-on la lumière forte pour certains vins ?",
+      "options": [
+        "Elle augmente l’acidité",
+        "Elle crée des tanins",
+        "Elle augmente le CO₂",
+        "Elle peut favoriser des réactions d’altération"
+      ],
+      "correct_answer": 3,
+      "explanation": "La lumière peut favoriser des altérations, particulièrement dans certains vins blancs et effervescents.",
+      "thematique": "Conservation",
+      "domain": "wset",
+      "level": 5
+    },
+    {
+      "id": "wset_p5_q89",
+      "question": "Pourquoi stocke-t-on traditionnellement une bouteille bouchée au liège couchée ?",
+      "options": [
+        "Pour maintenir le bouchon en contact avec le vin",
+        "Pour augmenter la pression",
+        "Pour supprimer les dépôts",
+        "Pour réchauffer le vin"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le contact avec le vin aide à limiter le dessèchement du bouchon de liège.",
+      "thematique": "Conservation",
+      "domain": "wset",
+      "level": 5
+    },
+    {
+      "id": "wset_p5_q90",
+      "question": "Quel document permet de vérifier les quantités livrées par rapport à la commande ?",
+      "options": [
+        "La carte des vins",
+        "La fiche de dégustation",
+        "Le bon de livraison",
+        "Le menu du jour"
+      ],
+      "correct_answer": 2,
+      "explanation": "Le bon de livraison sert notamment à contrôler la conformité quantitative et les références reçues.",
+      "thematique": "Gestion",
+      "domain": "wset",
+      "level": 5
+    },
+    {
+      "id": "wset_p5_q91",
+      "question": "Pourquoi appliquer une rotation des stocks ?",
+      "options": [
+        "Pour supprimer les millésimes",
+        "Pour vendre les références selon leur âge et éviter les stocks dormants",
+        "Pour augmenter le degré alcoolique",
+        "Pour éviter l’inventaire"
+      ],
+      "correct_answer": 1,
+      "explanation": "La rotation permet de mieux gérer l’âge des stocks et les disponibilités.",
+      "thematique": "Gestion",
+      "domain": "wset",
+      "level": 5
+    },
+    {
+      "id": "wset_p5_q92",
+      "question": "Quel indicateur est directement utile pour suivre une cave ?",
+      "options": [
+        "La couleur des étiquettes",
+        "La forme des bouteilles uniquement",
+        "Le nombre de verres disponibles",
+        "Le stock réel par référence et millésime"
+      ],
+      "correct_answer": 3,
+      "explanation": "Le suivi du stock par référence et millésime est essentiel à la gestion d’une cave.",
+      "thematique": "Gestion",
+      "domain": "wset",
+      "level": 5
+    },
+    {
+      "id": "wset_p5_q93",
+      "question": "Quel vin est classiquement associé aux huîtres dans la tradition française ?",
+      "options": [
+        "Muscadet",
+        "Sauternes uniquement",
+        "Barolo",
+        "Porto rouge"
+      ],
+      "correct_answer": 0,
+      "explanation": "La fraîcheur et la salinité perçue du Muscadet en font un accord classique avec les huîtres.",
+      "thematique": "Accords",
+      "domain": "wset",
+      "level": 5
+    },
+    {
+      "id": "wset_p5_q94",
+      "question": "Quel style peut accompagner un dessert au chocolat noir puissant ?",
+      "options": [
+        "Un vin blanc sec très léger uniquement",
+        "Un vin très acide sans sucre",
+        "Un vin doux ou fortifié suffisamment riche",
+        "Un rosé très pâle uniquement"
+      ],
+      "correct_answer": 2,
+      "explanation": "La richesse du chocolat demande souvent un vin suffisamment intense et doux pour conserver son équilibre.",
+      "thematique": "Accords",
+      "domain": "wset",
+      "level": 5
+    },
+    {
+      "id": "wset_p5_q95",
+      "question": "Quel principe peut aider à équilibrer un plat très salé ?",
+      "options": [
+        "Un vin plus salé obligatoirement",
+        "Une fraîcheur et/ou une douceur adaptées",
+        "Une absence totale d’acidité",
+        "Un rouge très tannique systématiquement"
+      ],
+      "correct_answer": 1,
+      "explanation": "La fraîcheur ou une douceur adaptée peut contrebalancer la sensation saline.",
+      "thematique": "Accords",
+      "domain": "wset",
+      "level": 5
+    },
+    {
+      "id": "wset_p5_q96",
+      "question": "Quel cépage est emblématique de la Rioja rouge ?",
+      "options": [
+        "Nebbiolo",
+        "Pinot Noir",
+        "Cabernet Franc",
+        "Tempranillo"
+      ],
+      "correct_answer": 3,
+      "explanation": "Le Tempranillo est le cépage emblématique des grands rouges de Rioja.",
+      "thematique": "Régions",
+      "domain": "wset",
+      "level": 5
+    },
+    {
+      "id": "wset_p5_q97",
+      "question": "Quel cépage est emblématique du Chianti Classico ?",
+      "options": [
+        "Sangiovese",
+        "Merlot uniquement",
+        "Syrah",
+        "Riesling"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le Sangiovese constitue la base historique et principale du Chianti Classico.",
+      "thematique": "Régions",
+      "domain": "wset",
+      "level": 5
+    },
+    {
+      "id": "wset_p5_q98",
+      "question": "Quel cépage est emblématique des grands vins rouges de la vallée du Douro destinés au Porto ?",
+      "options": [
+        "Chardonnay",
+        "Pinot Gris",
+        "Touriga Nacional",
+        "Sauvignon Blanc"
+      ],
+      "correct_answer": 2,
+      "explanation": "Touriga Nacional est un cépage majeur des assemblages de Porto rouge.",
+      "thematique": "Régions",
+      "domain": "wset",
+      "level": 5
+    },
+    {
+      "id": "wset_p5_q99",
+      "question": "Pourquoi utilise-t-on parfois une carafe pour un vin âgé avec dépôt ?",
+      "options": [
+        "Pour augmenter son degré alcoolique",
+        "Pour séparer délicatement le vin du dépôt",
+        "Pour supprimer les arômes tertiaires",
+        "Pour créer du sucre"
+      ],
+      "correct_answer": 1,
+      "explanation": "La décantation permet de servir le vin sans transférer le dépôt accumulé au fond de la bouteille.",
+      "thematique": "Service",
+      "domain": "wset",
+      "level": 5
+    },
+    {
+      "id": "wset_p5_q100",
+      "question": "Pourquoi faut-il rapprocher régulièrement le stock physique de la cave avec le stock théorique ?",
+      "options": [
+        "Pour augmenter automatiquement le prix des vins",
+        "Pour modifier les cépages",
+        "Pour supprimer les millésimes",
+        "Pour détecter les écarts, erreurs ou pertes"
+      ],
+      "correct_answer": 3,
+      "explanation": "Le rapprochement permet d’identifier les écarts entre les quantités réellement présentes et les données de gestion.",
+      "thematique": "Gestion",
+      "domain": "wset",
+      "level": 5
+    },
+    {
+      "id": "oenologie_p1_q1",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Quel est le principal acide organique présent dans le raisin mûr ?",
+      "options": [
+        "L'acide tartrique",
+        "L'acide carbonique",
+        "L'acide acétique uniquement",
+        "L'acide chlorhydrique"
+      ],
+      "correct_answer": 0,
+      "explanation": "L'acide tartrique est un acide majeur du raisin et du vin.",
+      "thematique": "Chimie du vin"
+    },
+    {
+      "id": "oenologie_p1_q2",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Quel acide diminue lors de la fermentation malolactique ?",
+      "options": [
+        "L'acide tartrique",
+        "L'acide citrique uniquement",
+        "L'acide malique",
+        "L'acide sulfurique"
+      ],
+      "correct_answer": 2,
+      "explanation": "La fermentation malolactique transforme l'acide malique en acide lactique.",
+      "thematique": "Chimie du vin"
+    },
+    {
+      "id": "oenologie_p1_q3",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Quel composé est principalement responsable de la couleur rouge du vin ?",
+      "options": [
+        "Les sucres",
+        "Les anthocyanes",
+        "Les protéines",
+        "Les sels minéraux"
+      ],
+      "correct_answer": 1,
+      "explanation": "Les anthocyanes sont les principaux pigments des pellicules de raisins rouges.",
+      "thematique": "Chimie du vin"
+    },
+    {
+      "id": "oenologie_p1_q4",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Quel composé est principalement responsable de l'astringence ?",
+      "options": [
+        "Les sucres",
+        "L'eau",
+        "Le dioxyde de carbone uniquement",
+        "Les tanins"
+      ],
+      "correct_answer": 3,
+      "explanation": "Les tanins interagissent avec les protéines salivaires et contribuent à l'astringence.",
+      "thematique": "Chimie du vin"
+    },
+    {
+      "id": "oenologie_p1_q5",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Quel micro-organisme réalise principalement la fermentation alcoolique ?",
+      "options": [
+        "Une levure",
+        "Un champignon filamenteux uniquement",
+        "Un virus",
+        "Une bactérie acétique"
+      ],
+      "correct_answer": 0,
+      "explanation": "La fermentation alcoolique est réalisée principalement par des levures.",
+      "thematique": "Microbiologie"
+    },
+    {
+      "id": "oenologie_p1_q6",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Quelle bactérie intervient dans la fermentation malolactique ?",
+      "options": [
+        "Des levures uniquement",
+        "Des virus",
+        "Des bactéries lactiques",
+        "Des bactéries sulfureuses"
+      ],
+      "correct_answer": 2,
+      "explanation": "Les bactéries lactiques, notamment Oenococcus oeni, peuvent réaliser la fermentation malolactique.",
+      "thematique": "Microbiologie"
+    },
+    {
+      "id": "oenologie_p1_q7",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Que produit principalement la fermentation alcoolique ?",
+      "options": [
+        "Tanins et anthocyanes",
+        "Éthanol et dioxyde de carbone",
+        "Sucre et eau uniquement",
+        "Acide tartrique et oxygène"
+      ],
+      "correct_answer": 1,
+      "explanation": "Les levures convertissent les sucres en éthanol et dioxyde de carbone.",
+      "thematique": "Microbiologie"
+    },
+    {
+      "id": "oenologie_p1_q8",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Pourquoi sulfite-t-on le moût ou le vin ?",
+      "options": [
+        "Pour créer des tanins",
+        "Pour augmenter la couleur bleue",
+        "Pour augmenter systématiquement le sucre",
+        "Pour limiter l'oxydation et certaines activités microbiennes"
+      ],
+      "correct_answer": 3,
+      "explanation": "Le dioxyde de soufre possède notamment des propriétés antioxydantes et antimicrobiennes.",
+      "thematique": "Vinification"
+    },
+    {
+      "id": "oenologie_p1_q9",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Quel est le rôle du pressurage en vinification en blanc ?",
+      "options": [
+        "Extraire le jus des raisins",
+        "Transformer le sucre en acide",
+        "Créer les tanins par fermentation",
+        "Augmenter le degré alcoolique"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le pressurage permet d'extraire le jus, avec une maîtrise de l'extraction des composés des parties solides.",
+      "thematique": "Vinification"
+    },
+    {
+      "id": "oenologie_p1_q10",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Quel phénomène peut provoquer l'oxygène en excès dans un vin ?",
+      "options": [
+        "Une diminution systématique du pH",
+        "Une augmentation du sucre",
+        "Une oxydation",
+        "Une fermentation alcoolique automatique"
+      ],
+      "correct_answer": 2,
+      "explanation": "L'oxygène peut entraîner des réactions d'oxydation altérant couleur et arômes.",
+      "thematique": "Vinification"
+    },
+    {
+      "id": "oenologie_p1_q11",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Quel gaz dissous est responsable de la sensation de picotement des vins effervescents ?",
+      "options": [
+        "L'oxygène",
+        "Le dioxyde de carbone",
+        "L'hydrogène",
+        "L'azote"
+      ],
+      "correct_answer": 1,
+      "explanation": "Le CO₂ dissous forme les bulles et participe à la sensation d'effervescence.",
+      "thematique": "Vinification"
+    },
+    {
+      "id": "oenologie_p1_q12",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Que mesure principalement le pH d'un vin ?",
+      "options": [
+        "Son degré alcoolique",
+        "Sa teneur en tanins",
+        "Sa teneur en sucre",
+        "Son acidité active"
+      ],
+      "correct_answer": 3,
+      "explanation": "Le pH mesure l'activité des ions hydrogène et renseigne sur l'acidité active.",
+      "thematique": "Analyse"
+    },
+    {
+      "id": "oenologie_p1_q13",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Quel paramètre est généralement exprimé en degrés alcooliques volumique ?",
+      "options": [
+        "La teneur en éthanol",
+        "La teneur en sucre",
+        "La teneur en tanins",
+        "La teneur en acide tartrique"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le titre alcoométrique volumique indique le pourcentage d'éthanol en volume.",
+      "thematique": "Analyse"
+    },
+    {
+      "id": "oenologie_p1_q14",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Pourquoi réalise-t-on parfois une stabilisation tartrique ?",
+      "options": [
+        "Pour supprimer tous les arômes",
+        "Pour créer des bulles",
+        "Pour limiter la formation de cristaux de tartrate en bouteille",
+        "Pour augmenter l'alcool"
+      ],
+      "correct_answer": 2,
+      "explanation": "La stabilisation tartrique vise à éviter des précipitations de sels tartriques après mise en bouteille.",
+      "thematique": "Stabilisation"
+    },
+    {
+      "id": "oenologie_p1_q15",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Que sont les cristaux parfois observés au fond d'une bouteille de vin ?",
+      "options": [
+        "Des tanins solides uniquement",
+        "Des précipités tartriques possibles",
+        "Du sucre ajouté après mise",
+        "Des levures toujours vivantes"
+      ],
+      "correct_answer": 1,
+      "explanation": "Il peut s'agir de cristaux de tartrate, phénomène généralement sans danger pour la qualité du vin.",
+      "thematique": "Stabilisation"
+    },
+    {
+      "id": "oenologie_p1_q16",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Quel composé est classiquement associé au goût de bouchon ?",
+      "options": [
+        "Le glycérol",
+        "L'éthanol",
+        "L'acide tartrique",
+        "Le TCA"
+      ],
+      "correct_answer": 3,
+      "explanation": "Le 2,4,6-trichloroanisole, ou TCA, est un composé fréquemment associé au défaut de bouchon.",
+      "thematique": "Défauts"
+    },
+    {
+      "id": "oenologie_p1_q17",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Quelle odeur peut être associée à la réduction ?",
+      "options": [
+        "Œuf pourri ou notes soufrées",
+        "Citron frais",
+        "Fraise",
+        "Vanille douce"
+      ],
+      "correct_answer": 0,
+      "explanation": "Certains composés soufrés issus de conditions réductrices peuvent donner des odeurs rappelant l'œuf pourri.",
+      "thematique": "Défauts"
+    },
+    {
+      "id": "oenologie_p1_q18",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Quel rôle le dioxyde de carbone dissous peut-il jouer dans un vin tranquille ?",
+      "options": [
+        "Il transforme le vin en spiritueux",
+        "Il augmente le sucre",
+        "Il peut apporter une légère sensation de fraîcheur et de picotement",
+        "Il supprime totalement l'acidité"
+      ],
+      "correct_answer": 2,
+      "explanation": "Une faible quantité de CO₂ dissous peut renforcer la fraîcheur perçue de certains vins.",
+      "thematique": "Chimie du vin"
+    },
+    {
+      "id": "oenologie_p1_q19",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Quel est l'effet général d'une micro-oxygénation maîtrisée ?",
+      "options": [
+        "Augmenter le sucre",
+        "Apporter de petites quantités d'oxygène pour influencer l'évolution du vin",
+        "Supprimer tous les tanins immédiatement",
+        "Créer une fermentation alcoolique"
+      ],
+      "correct_answer": 1,
+      "explanation": "La micro-oxygénation consiste à apporter de très faibles quantités d'oxygène dans un but œnologique contrôlé.",
+      "thematique": "Maturation"
+    },
+    {
+      "id": "oenologie_p1_q20",
+      "domain": "oenologie",
+      "level": 1,
+      "question": "Question 20 de correction : Quel composé est principalement responsable de la fermentation malolactique ?",
+      "options": [
+        "L'acide citrique",
+        "L'acide acétique",
+        "L'acide tartrique",
+        "L'acide lactique transformé à partir de l'acide malique"
+      ],
+      "correct_answer": 3,
+      "explanation": "Les bactéries lactiques convertissent l'acide malique en acide lactique.",
+      "thematique": "Correction/Complétion"
+    },
+    {
+      "id": "oenologie_p2_q21",
+      "question": "Quel composé donne au raisin sa principale acidité fixe ?",
+      "options": [
+        "L’acide tartrique",
+        "L’éthanol",
+        "Le glycérol",
+        "Le TCA"
+      ],
+      "correct_answer": 0,
+      "explanation": "L’acide tartrique est l’un des principaux acides du raisin et du vin.",
+      "thematique": "Chimie",
+      "domain": "oenologie",
+      "level": 2
+    },
+    {
+      "id": "oenologie_p2_q22",
+      "question": "Quel autre acide organique est important dans le raisin ?",
+      "options": [
+        "L’acide chlorhydrique",
+        "L’acide sulfurique",
+        "L’acide malique",
+        "L’acide borique"
+      ],
+      "correct_answer": 2,
+      "explanation": "L’acide malique contribue fortement à l’acidité du raisin, surtout avant maturation complète.",
+      "thematique": "Chimie",
+      "domain": "oenologie",
+      "level": 2
+    },
+    {
+      "id": "oenologie_p2_q23",
+      "question": "Que signifie un pH faible dans un vin ?",
+      "options": [
+        "Une teneur en sucre plus élevée",
+        "Une acidité plus forte au sens du pH",
+        "Un alcool plus élevé",
+        "Une couleur plus foncée obligatoirement"
+      ],
+      "correct_answer": 1,
+      "explanation": "Plus le pH est faible, plus l’activité des ions hydrogène est élevée et le milieu est acide.",
+      "thematique": "Chimie",
+      "domain": "oenologie",
+      "level": 2
+    },
+    {
+      "id": "oenologie_p2_q24",
+      "question": "Quel élément minéral peut favoriser la formation de tartrates ?",
+      "options": [
+        "Le fer uniquement",
+        "Le sodium uniquement",
+        "Le cuivre uniquement",
+        "Le potassium"
+      ],
+      "correct_answer": 3,
+      "explanation": "Le potassium peut s’associer à l’acide tartrique et participer à la formation de bitartrate de potassium.",
+      "thematique": "Chimie",
+      "domain": "oenologie",
+      "level": 2
+    },
+    {
+      "id": "oenologie_p2_q25",
+      "question": "Quel organisme transforme principalement les sucres en alcool ?",
+      "options": [
+        "La levure",
+        "La bactérie acétique",
+        "Le virus",
+        "La moisissure"
+      ],
+      "correct_answer": 0,
+      "explanation": "Les levures réalisent principalement la fermentation alcoolique.",
+      "thematique": "Microbiologie",
+      "domain": "oenologie",
+      "level": 2
+    },
+    {
+      "id": "oenologie_p2_q26",
+      "question": "Quel micro-organisme est associé à la fermentation malolactique ?",
+      "options": [
+        "Saccharomyces uniquement",
+        "Acetobacter uniquement",
+        "Oenococcus oeni",
+        "Botrytis cinerea"
+      ],
+      "correct_answer": 2,
+      "explanation": "Oenococcus oeni est une bactérie lactique fréquemment impliquée dans la fermentation malolactique.",
+      "thematique": "Microbiologie",
+      "domain": "oenologie",
+      "level": 2
+    },
+    {
+      "id": "oenologie_p2_q27",
+      "question": "Que produit la fermentation alcoolique en plus de l’éthanol ?",
+      "options": [
+        "De l’oxygène",
+        "Du dioxyde de carbone",
+        "Du chlore",
+        "Du méthane"
+      ],
+      "correct_answer": 1,
+      "explanation": "Le CO₂ est un produit majeur de la transformation des sucres par les levures.",
+      "thematique": "Microbiologie",
+      "domain": "oenologie",
+      "level": 2
+    },
+    {
+      "id": "oenologie_p2_q28",
+      "question": "Quel facteur peut ralentir fortement une fermentation ?",
+      "options": [
+        "La couleur du verre",
+        "La forme de la bouteille",
+        "Le diamètre de l’étiquette",
+        "Une température inadaptée"
+      ],
+      "correct_answer": 3,
+      "explanation": "Une température trop basse ou trop élevée peut perturber l’activité des levures.",
+      "thematique": "Microbiologie",
+      "domain": "oenologie",
+      "level": 2
+    },
+    {
+      "id": "oenologie_p2_q29",
+      "question": "Quel est l’objectif du foulage ?",
+      "options": [
+        "Libérer le jus des baies avec une extraction adaptée",
+        "Ajouter du sucre",
+        "Créer de l’alcool",
+        "Éliminer toute acidité"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le foulage ouvre les baies et facilite la mise en contact du jus avec les parties solides.",
+      "thematique": "Vinification",
+      "domain": "oenologie",
+      "level": 2
+    },
+    {
+      "id": "oenologie_p2_q30",
+      "question": "Quel est l’objectif de l’égrappage ?",
+      "options": [
+        "Séparer l’alcool de l’eau",
+        "Créer des bulles",
+        "Séparer les baies des rafles",
+        "Augmenter le sucre"
+      ],
+      "correct_answer": 2,
+      "explanation": "L’égrappage retire les rafles selon le style de vin recherché.",
+      "thematique": "Vinification",
+      "domain": "oenologie",
+      "level": 2
+    },
+    {
+      "id": "oenologie_p2_q31",
+      "question": "Quel est le rôle des remontages en rouge ?",
+      "options": [
+        "Refroidir obligatoirement la cuve à 0 °C",
+        "Faire circuler le jus sur le marc",
+        "Supprimer la couleur",
+        "Ajouter de l’acidité"
+      ],
+      "correct_answer": 1,
+      "explanation": "Les remontages favorisent le contact du jus avec le marc et participent à l’extraction et à l’homogénéisation.",
+      "thematique": "Vinification",
+      "domain": "oenologie",
+      "level": 2
+    },
+    {
+      "id": "oenologie_p2_q32",
+      "question": "Quel est le rôle du pigeage ?",
+      "options": [
+        "Ajouter du sucre",
+        "Filtrer le vin",
+        "Éliminer l’alcool",
+        "Enfoncer le chapeau de marc dans le moût"
+      ],
+      "correct_answer": 3,
+      "explanation": "Le pigeage remet le marc en contact avec le jus et favorise notamment l’extraction.",
+      "thematique": "Vinification",
+      "domain": "oenologie",
+      "level": 2
+    },
+    {
+      "id": "oenologie_p2_q33",
+      "question": "Quel est l’intérêt d’une fermentation blanche à température maîtrisée ?",
+      "options": [
+        "Préserver et développer un profil aromatique adapté",
+        "Créer davantage de tanins",
+        "Augmenter le sucre",
+        "Supprimer les levures"
+      ],
+      "correct_answer": 0,
+      "explanation": "La température influence la cinétique fermentaire et l’expression des arômes.",
+      "thematique": "Vinification",
+      "domain": "oenologie",
+      "level": 2
+    },
+    {
+      "id": "oenologie_p2_q34",
+      "question": "Quel est le rôle du débourbage d’un moût blanc ?",
+      "options": [
+        "Créer les anthocyanes",
+        "Ajouter du CO₂",
+        "Éliminer une partie des matières solides avant fermentation",
+        "Augmenter le degré alcoolique"
+      ],
+      "correct_answer": 2,
+      "explanation": "Le débourbage clarifie le moût avant la fermentation.",
+      "thematique": "Vinification",
+      "domain": "oenologie",
+      "level": 2
+    },
+    {
+      "id": "oenologie_p2_q35",
+      "question": "Que sont les lies fines ?",
+      "options": [
+        "Des cristaux de sucre",
+        "Des particules issues notamment des levures après fermentation",
+        "Des tanins purs",
+        "Des fragments de raisin frais uniquement"
+      ],
+      "correct_answer": 1,
+      "explanation": "Les lies contiennent notamment des levures et particules qui se déposent après fermentation.",
+      "thematique": "Élevage",
+      "domain": "oenologie",
+      "level": 2
+    },
+    {
+      "id": "oenologie_p2_q36",
+      "question": "Quel est l’objectif du bâtonnage ?",
+      "options": [
+        "Augmenter l’alcool",
+        "Créer des bulles",
+        "Supprimer l’acidité",
+        "Remettre les lies en suspension"
+      ],
+      "correct_answer": 3,
+      "explanation": "Le bâtonnage remet les lies en suspension et peut enrichir la texture du vin.",
+      "thematique": "Élevage",
+      "domain": "oenologie",
+      "level": 2
+    },
+    {
+      "id": "oenologie_p2_q37",
+      "question": "Quel risque augmente avec une exposition excessive à l’oxygène ?",
+      "options": [
+        "L’oxydation",
+        "La réduction",
+        "La fermentation alcoolique",
+        "La stabilité tartrique"
+      ],
+      "correct_answer": 0,
+      "explanation": "Un apport excessif d’oxygène peut accélérer l’évolution oxydative du vin.",
+      "thematique": "Élevage",
+      "domain": "oenologie",
+      "level": 2
+    },
+    {
+      "id": "oenologie_p2_q38",
+      "question": "Pourquoi cherche-t-on à stabiliser les tartrates ?",
+      "options": [
+        "Pour augmenter les tanins",
+        "Pour créer du sucre",
+        "Pour limiter la formation de cristaux en bouteille",
+        "Pour augmenter le CO₂"
+      ],
+      "correct_answer": 2,
+      "explanation": "La stabilisation tartrique vise à limiter les précipitations visibles de sels tartriques après mise.",
+      "thematique": "Stabilité",
+      "domain": "oenologie",
+      "level": 2
+    },
+    {
+      "id": "oenologie_p2_q39",
+      "question": "Pourquoi clarifie-t-on un vin ?",
+      "options": [
+        "Pour augmenter son degré alcoolique",
+        "Pour éliminer des matières en suspension",
+        "Pour modifier son cépage",
+        "Pour créer des arômes de bois"
+      ],
+      "correct_answer": 1,
+      "explanation": "La clarification réduit les particules en suspension et améliore la limpidité.",
+      "thematique": "Stabilité",
+      "domain": "oenologie",
+      "level": 2
+    },
+    {
+      "id": "oenologie_p2_q40",
+      "question": "Quel est l’intérêt d’une filtration adaptée avant mise ?",
+      "options": [
+        "Augmenter les sucres",
+        "Créer des tanins",
+        "Augmenter l’acidité",
+        "Réduire les particules et, selon le procédé, la charge microbienne"
+      ],
+      "correct_answer": 3,
+      "explanation": "La filtration peut contribuer à la limpidité et à la stabilité microbiologique du vin.",
+      "thematique": "Stabilité",
+      "domain": "oenologie",
+      "level": 2
+    },
+    {
+      "id": "oenologie_p3_q41",
+      "question": "Quelle sensation l’acidité provoque-t-elle principalement ?",
+      "options": [
+        "Fraîcheur et salivation",
+        "Chaleur",
+        "Astringence",
+        "Douceur"
+      ],
+      "correct_answer": 0,
+      "explanation": "L’acidité stimule la salivation et donne une sensation de fraîcheur.",
+      "thematique": "Analyse",
+      "domain": "oenologie",
+      "level": 3
+    },
+    {
+      "id": "oenologie_p3_q42",
+      "question": "Quelle sensation les tanins provoquent-ils ?",
+      "options": [
+        "Douceur",
+        "Chaleur",
+        "Astringence",
+        "Effervescence"
+      ],
+      "correct_answer": 2,
+      "explanation": "Les tanins interagissent avec les protéines salivaires et donnent une sensation d’assèchement.",
+      "thematique": "Analyse",
+      "domain": "oenologie",
+      "level": 3
+    },
+    {
+      "id": "oenologie_p3_q43",
+      "question": "Quel composé contribue à la sensation de chaleur ?",
+      "options": [
+        "L’acide tartrique",
+        "L’éthanol",
+        "Les anthocyanes",
+        "Le TCA"
+      ],
+      "correct_answer": 1,
+      "explanation": "L’éthanol contribue à la sensation de chaleur en bouche.",
+      "thematique": "Analyse",
+      "domain": "oenologie",
+      "level": 3
+    },
+    {
+      "id": "oenologie_p3_q44",
+      "question": "Que signifie « sec » pour un vin ?",
+      "options": [
+        "Un vin très tannique",
+        "Un vin très acide obligatoirement",
+        "Un vin sans alcool",
+        "Une faible douceur due au sucre résiduel"
+      ],
+      "correct_answer": 3,
+      "explanation": "Sec décrit avant tout la faible perception de douceur liée au sucre résiduel.",
+      "thematique": "Analyse",
+      "domain": "oenologie",
+      "level": 3
+    },
+    {
+      "id": "oenologie_p3_q45",
+      "question": "Que signifie la longueur d’un vin ?",
+      "options": [
+        "La durée de persistance des sensations en bouche",
+        "Le volume de la bouteille",
+        "La quantité de sucre",
+        "Le degré alcoolique"
+      ],
+      "correct_answer": 0,
+      "explanation": "La longueur correspond à la persistance des sensations et arômes après la dégustation.",
+      "thematique": "Analyse",
+      "domain": "oenologie",
+      "level": 3
+    },
+    {
+      "id": "oenologie_p3_q46",
+      "question": "Quelle famille aromatique regroupe cassis et mûre ?",
+      "options": [
+        "Fruits blancs",
+        "Fleurs blanches uniquement",
+        "Fruits noirs",
+        "Épices douces uniquement"
+      ],
+      "correct_answer": 2,
+      "explanation": "Cassis et mûre appartiennent aux arômes de fruits noirs.",
+      "thematique": "Arômes",
+      "domain": "oenologie",
+      "level": 3
+    },
+    {
+      "id": "oenologie_p3_q47",
+      "question": "Quelle famille peut évoquer citron et pamplemousse ?",
+      "options": [
+        "Bois",
+        "Agrumes",
+        "Animale",
+        "Empyreumatique"
+      ],
+      "correct_answer": 1,
+      "explanation": "Citron et pamplemousse sont des arômes de la famille des agrumes.",
+      "thematique": "Arômes",
+      "domain": "oenologie",
+      "level": 3
+    },
+    {
+      "id": "oenologie_p3_q48",
+      "question": "Quel arôme tertiaire peut apparaître dans un vin rouge âgé ?",
+      "options": [
+        "Raisin frais uniquement",
+        "Banane fraîche",
+        "Citron vert",
+        "Sous-bois"
+      ],
+      "correct_answer": 3,
+      "explanation": "Le vieillissement peut faire apparaître des notes tertiaires comme le sous-bois.",
+      "thematique": "Arômes",
+      "domain": "oenologie",
+      "level": 3
+    },
+    {
+      "id": "oenologie_p3_q49",
+      "question": "Quelle molécule est associée au goût de bouchon ?",
+      "options": [
+        "TCA",
+        "Diacétyle",
+        "Acide malique",
+        "Glycérol"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le TCA est classiquement associé au défaut de bouchon.",
+      "thematique": "Défauts",
+      "domain": "oenologie",
+      "level": 3
+    },
+    {
+      "id": "oenologie_p3_q50",
+      "question": "Quel composé soufré peut évoquer l’œuf pourri ?",
+      "options": [
+        "TCA",
+        "Acide tartrique",
+        "Sulfure d’hydrogène",
+        "Diacétyle"
+      ],
+      "correct_answer": 2,
+      "explanation": "Le sulfure d’hydrogène peut donner une odeur d’œuf pourri.",
+      "thematique": "Défauts",
+      "domain": "oenologie",
+      "level": 3
+    },
+    {
+      "id": "oenologie_p3_q51",
+      "question": "Quel phénomène donne parfois des notes de pomme blette et noix ?",
+      "options": [
+        "Réduction",
+        "Oxydation",
+        "Goût de bouchon",
+        "Fermentation malolactique seule"
+      ],
+      "correct_answer": 1,
+      "explanation": "L’oxydation peut entraîner des notes de fruits évolués, noix et pomme blette.",
+      "thematique": "Défauts",
+      "domain": "oenologie",
+      "level": 3
+    },
+    {
+      "id": "oenologie_p3_q52",
+      "question": "Quel composé est associé à l’odeur vinaigrée ?",
+      "options": [
+        "TCA",
+        "Anthocyane",
+        "Acide tartrique",
+        "Acide acétique"
+      ],
+      "correct_answer": 3,
+      "explanation": "L’acide acétique contribue à l’acidité volatile et aux notes vinaigrées.",
+      "thematique": "Défauts",
+      "domain": "oenologie",
+      "level": 3
+    },
+    {
+      "id": "oenologie_p3_q53",
+      "question": "Pourquoi un vin rouge âgé peut-il former un dépôt ?",
+      "options": [
+        "Des composés phénoliques peuvent précipiter au cours du vieillissement",
+        "Le sucre devient du sel",
+        "L’alcool devient solide",
+        "La fermentation recommence toujours"
+      ],
+      "correct_answer": 0,
+      "explanation": "L’évolution des composés phénoliques peut conduire à la formation d’un dépôt naturel.",
+      "thematique": "Stabilité",
+      "domain": "oenologie",
+      "level": 3
+    },
+    {
+      "id": "oenologie_p3_q54",
+      "question": "Que sont les cristaux de tartrate ?",
+      "options": [
+        "Des levures mortes",
+        "Des tanins",
+        "Des sels issus notamment de l’acide tartrique",
+        "Des protéines"
+      ],
+      "correct_answer": 2,
+      "explanation": "Les cristaux peuvent être des sels de l’acide tartrique, notamment du bitartrate de potassium.",
+      "thematique": "Stabilité",
+      "domain": "oenologie",
+      "level": 3
+    },
+    {
+      "id": "oenologie_p3_q55",
+      "question": "Pourquoi l’hygiène de cave est-elle essentielle ?",
+      "options": [
+        "Pour augmenter le sucre",
+        "Pour limiter les contaminations et altérations",
+        "Pour créer des tanins",
+        "Pour modifier le cépage"
+      ],
+      "correct_answer": 1,
+      "explanation": "L’hygiène réduit les risques de contamination et de développement de micro-organismes indésirables.",
+      "thematique": "Microbiologie",
+      "domain": "oenologie",
+      "level": 3
+    },
+    {
+      "id": "oenologie_p3_q56",
+      "question": "Quelle levure est couramment associée à la fermentation alcoolique ?",
+      "options": [
+        "Oenococcus oeni",
+        "Acetobacter",
+        "Botrytis cinerea",
+        "Saccharomyces cerevisiae"
+      ],
+      "correct_answer": 3,
+      "explanation": "Saccharomyces cerevisiae est une levure couramment utilisée pour les fermentations alcooliques.",
+      "thematique": "Microbiologie",
+      "domain": "oenologie",
+      "level": 3
+    },
+    {
+      "id": "oenologie_p3_q57",
+      "question": "Quel instrument permet de suivre la densité d’un moût ?",
+      "options": [
+        "Un densimètre",
+        "Un thermomètre uniquement",
+        "Un microscope uniquement",
+        "Un tire-bouchon"
+      ],
+      "correct_answer": 0,
+      "explanation": "La densité permet notamment de suivre l’évolution de la concentration en sucres pendant la fermentation.",
+      "thematique": "Technologie",
+      "domain": "oenologie",
+      "level": 3
+    },
+    {
+      "id": "oenologie_p3_q58",
+      "question": "Pourquoi contrôle-t-on la température d’une cuve ?",
+      "options": [
+        "Pour changer le cépage",
+        "Pour augmenter automatiquement le sucre",
+        "Pour maîtriser la fermentation et le profil du vin",
+        "Pour supprimer tous les tanins"
+      ],
+      "correct_answer": 2,
+      "explanation": "La température influence l’activité fermentaire, l’extraction et l’expression aromatique.",
+      "thematique": "Technologie",
+      "domain": "oenologie",
+      "level": 3
+    },
+    {
+      "id": "oenologie_p3_q59",
+      "question": "Quel avantage offre une cuve inox thermorégulée ?",
+      "options": [
+        "Un apport automatique de vanille",
+        "Un contrôle précis de la température",
+        "Une augmentation de l’alcool",
+        "Une fermentation sans levures"
+      ],
+      "correct_answer": 1,
+      "explanation": "L’inox thermorégulé permet de piloter les températures de vinification.",
+      "thematique": "Technologie",
+      "domain": "oenologie",
+      "level": 3
+    },
+    {
+      "id": "oenologie_p3_q60",
+      "question": "Pourquoi limiter l’oxygène lors de certains transferts de blancs ?",
+      "options": [
+        "Pour augmenter les tanins",
+        "Pour créer des bulles",
+        "Pour augmenter le sucre",
+        "Pour limiter l’oxydation"
+      ],
+      "correct_answer": 3,
+      "explanation": "La limitation de l’oxygène aide à préserver les composés sensibles à l’oxydation.",
+      "thematique": "Technologie",
+      "domain": "oenologie",
+      "level": 3
+    },
+    {
+      "id": "oenologie_p4_q61",
+      "question": "Quel acide est converti en acide lactique pendant la fermentation malolactique ?",
+      "options": [
+        "Acide malique",
+        "Acide tartrique",
+        "Acide sulfurique",
+        "Acide acétique"
+      ],
+      "correct_answer": 0,
+      "explanation": "La fermentation malolactique transforme l’acide malique en acide lactique et produit du CO₂.",
+      "thematique": "Chimie",
+      "domain": "oenologie",
+      "level": 4
+    },
+    {
+      "id": "oenologie_p4_q62",
+      "question": "Quel composé contribue à la sensation de rondeur ?",
+      "options": [
+        "Le TCA",
+        "L’acide tartrique",
+        "Le glycérol",
+        "Le CO₂ uniquement"
+      ],
+      "correct_answer": 2,
+      "explanation": "Le glycérol, produit secondaire de la fermentation, peut contribuer au volume et à la rondeur.",
+      "thematique": "Chimie",
+      "domain": "oenologie",
+      "level": 4
+    },
+    {
+      "id": "oenologie_p4_q63",
+      "question": "Quelle est la différence entre pH et acidité titrable ?",
+      "options": [
+        "Ils sont strictement identiques",
+        "Ils mesurent deux aspects différents de l’acidité",
+        "Le pH mesure le sucre",
+        "L’acidité titrable mesure l’alcool"
+      ],
+      "correct_answer": 1,
+      "explanation": "Le pH reflète l’activité des ions H⁺ alors que l’acidité titrable mesure une quantité globale d’acides neutralisables.",
+      "thematique": "Chimie",
+      "domain": "oenologie",
+      "level": 4
+    },
+    {
+      "id": "oenologie_p4_q64",
+      "question": "Quel élément peut participer à la précipitation des tartrates ?",
+      "options": [
+        "Le chlorure uniquement",
+        "L’oxygène uniquement",
+        "Le sucre",
+        "Le potassium"
+      ],
+      "correct_answer": 3,
+      "explanation": "Le potassium peut former du bitartrate de potassium avec l’acide tartrique.",
+      "thematique": "Chimie",
+      "domain": "oenologie",
+      "level": 4
+    },
+    {
+      "id": "oenologie_p4_q65",
+      "question": "Pourquoi contrôler la température d’une fermentation rouge ?",
+      "options": [
+        "Pour maîtriser cinétique, extraction et expression aromatique",
+        "Pour empêcher toute fermentation",
+        "Pour augmenter le sucre",
+        "Pour supprimer la couleur"
+      ],
+      "correct_answer": 0,
+      "explanation": "La température agit sur l’activité des levures et sur l’extraction des composés du marc.",
+      "thematique": "Vinification",
+      "domain": "oenologie",
+      "level": 4
+    },
+    {
+      "id": "oenologie_p4_q66",
+      "question": "Quel est l’objectif de l’écoulage ?",
+      "options": [
+        "Créer des bulles",
+        "Ajouter du sucre",
+        "Séparer le vin du marc après cuvaison",
+        "Augmenter l’acidité"
+      ],
+      "correct_answer": 2,
+      "explanation": "L’écoulage sépare le vin de goutte du marc après la phase de macération.",
+      "thematique": "Vinification",
+      "domain": "oenologie",
+      "level": 4
+    },
+    {
+      "id": "oenologie_p4_q67",
+      "question": "Quel est le rôle du pressurage ?",
+      "options": [
+        "Créer de l’alcool",
+        "Extraire le jus restant des parties solides",
+        "Augmenter les anthocyanes obligatoirement",
+        "Supprimer toute acidité"
+      ],
+      "correct_answer": 1,
+      "explanation": "Le pressurage permet d’extraire le jus contenu dans les parties solides, avec une intensité adaptée.",
+      "thematique": "Vinification",
+      "domain": "oenologie",
+      "level": 4
+    },
+    {
+      "id": "oenologie_p4_q68",
+      "question": "Quel est l’intérêt d’une clarification maîtrisée ?",
+      "options": [
+        "Augmenter l’alcool",
+        "Créer des tanins",
+        "Changer le cépage",
+        "Obtenir un vin plus limpide et stable"
+      ],
+      "correct_answer": 3,
+      "explanation": "La clarification élimine des matières en suspension et participe à la stabilité du vin.",
+      "thematique": "Vinification",
+      "domain": "oenologie",
+      "level": 4
+    },
+    {
+      "id": "oenologie_p4_q69",
+      "question": "Quel est le but d’une filtration stérile ?",
+      "options": [
+        "Réduire fortement la charge microbienne avant mise",
+        "Augmenter le sucre",
+        "Créer du CO₂",
+        "Ajouter du bois"
+      ],
+      "correct_answer": 0,
+      "explanation": "Une filtration stérile adaptée peut réduire fortement les micro-organismes avant la mise en bouteille.",
+      "thematique": "Vinification",
+      "domain": "oenologie",
+      "level": 4
+    },
+    {
+      "id": "oenologie_p4_q70",
+      "question": "Quel composé du chêne est associé aux notes vanillées ?",
+      "options": [
+        "Acide malique",
+        "Anthocyane",
+        "Vanilline",
+        "CO₂"
+      ],
+      "correct_answer": 2,
+      "explanation": "La vanilline est un composé aromatique libéré notamment par le bois de chêne.",
+      "thematique": "Élevage",
+      "domain": "oenologie",
+      "level": 4
+    },
+    {
+      "id": "oenologie_p4_q71",
+      "question": "Que peut apporter un fût neuf ?",
+      "options": [
+        "Du sucre fermentescible",
+        "Des arômes de vanille, toast et épices ainsi que des tanins de bois",
+        "Des bulles",
+        "Une suppression de l’acidité"
+      ],
+      "correct_answer": 1,
+      "explanation": "Le bois neuf apporte davantage de composés aromatiques et phénoliques extractibles.",
+      "thematique": "Élevage",
+      "domain": "oenologie",
+      "level": 4
+    },
+    {
+      "id": "oenologie_p4_q72",
+      "question": "Pourquoi réalise-t-on un ouillage ?",
+      "options": [
+        "Pour augmenter le sucre",
+        "Pour créer du CO₂",
+        "Pour refroidir le vin",
+        "Pour maintenir la barrique pleine et limiter l’espace d’air"
+      ],
+      "correct_answer": 3,
+      "explanation": "L’ouillage compense les pertes de volume et limite l’exposition à l’oxygène.",
+      "thematique": "Élevage",
+      "domain": "oenologie",
+      "level": 4
+    },
+    {
+      "id": "oenologie_p4_q73",
+      "question": "Que désigne la part des anges ?",
+      "options": [
+        "L’évaporation d’une partie du vin pendant l’élevage en fût",
+        "Le dépôt de levures",
+        "La fermentation malolactique",
+        "Le dosage d’un effervescent"
+      ],
+      "correct_answer": 0,
+      "explanation": "La part des anges correspond aux pertes par évaporation pendant l’élevage en fût.",
+      "thematique": "Élevage",
+      "domain": "oenologie",
+      "level": 4
+    },
+    {
+      "id": "oenologie_p4_q74",
+      "question": "Quel organisme peut produire de l’acide acétique en présence d’oxygène ?",
+      "options": [
+        "Les levures uniquement",
+        "Les virus",
+        "Les bactéries acétiques",
+        "Les anthocyanes"
+      ],
+      "correct_answer": 2,
+      "explanation": "Les bactéries acétiques peuvent oxyder l’éthanol en acide acétique en présence d’oxygène.",
+      "thematique": "Microbiologie",
+      "domain": "oenologie",
+      "level": 4
+    },
+    {
+      "id": "oenologie_p4_q75",
+      "question": "Pourquoi le pH influence-t-il l’efficacité du SO₂ ?",
+      "options": [
+        "Le pH crée les tanins",
+        "La proportion de SO₂ moléculaire dépend notamment du pH",
+        "Le pH transforme le sucre en alcool",
+        "Le pH n’a aucun rapport"
+      ],
+      "correct_answer": 1,
+      "explanation": "À SO₂ total égal, la fraction moléculaire active varie avec le pH.",
+      "thematique": "Microbiologie",
+      "domain": "oenologie",
+      "level": 4
+    },
+    {
+      "id": "oenologie_p4_q76",
+      "question": "Pourquoi l’acidité peut-elle rendre un vin plus tendu ?",
+      "options": [
+        "Elle ajoute du sucre",
+        "Elle crée du bois",
+        "Elle supprime l’alcool",
+        "Elle apporte fraîcheur et vivacité"
+      ],
+      "correct_answer": 3,
+      "explanation": "L’acidité contribue à la tension, à la fraîcheur et à la salivation.",
+      "thematique": "Analyse",
+      "domain": "oenologie",
+      "level": 4
+    },
+    {
+      "id": "oenologie_p4_q77",
+      "question": "Pourquoi un alcool élevé peut-il donner une impression de chaleur ?",
+      "options": [
+        "L’éthanol stimule les récepteurs et produit une sensation thermique",
+        "L’alcool crée les anthocyanes",
+        "L’alcool augmente l’acidité",
+        "L’alcool supprime les tanins"
+      ],
+      "correct_answer": 0,
+      "explanation": "L’éthanol est responsable d’une sensation de chaleur particulièrement perceptible à degré élevé.",
+      "thematique": "Analyse",
+      "domain": "oenologie",
+      "level": 4
+    },
+    {
+      "id": "oenologie_p4_q78",
+      "question": "Quel élément constitue une part importante de la structure d’un vin rouge ?",
+      "options": [
+        "Les sucres uniquement",
+        "Le CO₂",
+        "Les tanins",
+        "Les protéines salivaires"
+      ],
+      "correct_answer": 2,
+      "explanation": "Les tanins contribuent à la structure, à l’astringence et au potentiel d’évolution des rouges.",
+      "thematique": "Analyse",
+      "domain": "oenologie",
+      "level": 4
+    },
+    {
+      "id": "oenologie_p4_q79",
+      "question": "Pourquoi réalise-t-on parfois une stabilisation protéique des blancs ?",
+      "options": [
+        "Pour augmenter les tanins",
+        "Pour limiter les troubles protéiques après mise",
+        "Pour créer du sucre",
+        "Pour augmenter l’alcool"
+      ],
+      "correct_answer": 1,
+      "explanation": "La stabilisation protéique vise à réduire le risque de précipitation de protéines en bouteille.",
+      "thematique": "Stabilité",
+      "domain": "oenologie",
+      "level": 4
+    },
+    {
+      "id": "oenologie_p4_q80",
+      "question": "Pourquoi réalise-t-on des contrôles avant la mise en bouteille ?",
+      "options": [
+        "Pour changer le cépage",
+        "Pour augmenter automatiquement le prix",
+        "Pour créer des arômes",
+        "Pour vérifier la limpidité et la stabilité physico-chimique et microbiologique"
+      ],
+      "correct_answer": 3,
+      "explanation": "Les contrôles pré-mise permettent de vérifier que le vin est suffisamment stable pour sa commercialisation.",
+      "thematique": "Stabilité",
+      "domain": "oenologie",
+      "level": 4
+    },
+    {
+      "id": "oenologie_p5_q81",
+      "question": "Quel alcool est majoritaire dans le vin ?",
+      "options": [
+        "Éthanol",
+        "Méthanol",
+        "Propanol",
+        "Butanol"
+      ],
+      "correct_answer": 0,
+      "explanation": "L’éthanol est l’alcool principal produit lors de la fermentation alcoolique.",
+      "thematique": "Chimie",
+      "domain": "oenologie",
+      "level": 5
+    },
+    {
+      "id": "oenologie_p5_q82",
+      "question": "Quel composé peut contribuer au volume en bouche ?",
+      "options": [
+        "TCA",
+        "Acide acétique uniquement",
+        "Glycérol",
+        "Chlorure de sodium"
+      ],
+      "correct_answer": 2,
+      "explanation": "Le glycérol peut contribuer à la sensation de rondeur et de volume.",
+      "thematique": "Chimie",
+      "domain": "oenologie",
+      "level": 5
+    },
+    {
+      "id": "oenologie_p5_q83",
+      "question": "Quel composé est principalement responsable de la couleur rouge du vin jeune ?",
+      "options": [
+        "Tanins seuls",
+        "Anthocyanes",
+        "Sucres",
+        "Acide tartrique"
+      ],
+      "correct_answer": 1,
+      "explanation": "Les anthocyanes sont les principaux pigments rouges des vins jeunes.",
+      "thematique": "Chimie",
+      "domain": "oenologie",
+      "level": 5
+    },
+    {
+      "id": "oenologie_p5_q84",
+      "question": "Quel composé contribue à l’acidité volatile ?",
+      "options": [
+        "Acide tartrique uniquement",
+        "Glycérol",
+        "Anthocyanes",
+        "Acide acétique"
+      ],
+      "correct_answer": 3,
+      "explanation": "L’acide acétique est le principal composé associé à l’acidité volatile.",
+      "thematique": "Chimie",
+      "domain": "oenologie",
+      "level": 5
+    },
+    {
+      "id": "oenologie_p5_q85",
+      "question": "Quel est le substrat principal des levures fermentaires ?",
+      "options": [
+        "Les sucres fermentescibles",
+        "Les tanins",
+        "Les anthocyanes",
+        "Les sels minéraux"
+      ],
+      "correct_answer": 0,
+      "explanation": "Les levures utilisent principalement les sucres, notamment glucose et fructose.",
+      "thematique": "Fermentation",
+      "domain": "oenologie",
+      "level": 5
+    },
+    {
+      "id": "oenologie_p5_q86",
+      "question": "Que peut provoquer une température de fermentation trop élevée ?",
+      "options": [
+        "Une augmentation du sucre",
+        "La suppression des levures",
+        "Une fermentation trop rapide et des pertes aromatiques possibles",
+        "La création de tartrates"
+      ],
+      "correct_answer": 2,
+      "explanation": "Une température excessive peut perturber la fermentation et réduire la préservation des arômes.",
+      "thematique": "Fermentation",
+      "domain": "oenologie",
+      "level": 5
+    },
+    {
+      "id": "oenologie_p5_q87",
+      "question": "Pourquoi réaliser une macération préfermentaire à froid ?",
+      "options": [
+        "Pour augmenter le degré alcoolique",
+        "Pour favoriser certaines extractions aromatiques et colorantes avant fermentation",
+        "Pour supprimer l’acidité",
+        "Pour créer du CO₂"
+      ],
+      "correct_answer": 1,
+      "explanation": "La macération préfermentaire à froid peut favoriser certaines extractions avant le début de la fermentation.",
+      "thematique": "Vinification",
+      "domain": "oenologie",
+      "level": 5
+    },
+    {
+      "id": "oenologie_p5_q88",
+      "question": "Quel effet les rafles peuvent-elles avoir sur un vin rouge ?",
+      "options": [
+        "Elles apportent toujours du sucre",
+        "Elles suppriment la couleur",
+        "Elles rendent le vin effervescent",
+        "Elles peuvent apporter tanins et notes végétales selon leur maturité"
+      ],
+      "correct_answer": 3,
+      "explanation": "Les rafles contiennent des composés phénoliques et peuvent influencer la structure et le profil végétal.",
+      "thematique": "Vinification",
+      "domain": "oenologie",
+      "level": 5
+    },
+    {
+      "id": "oenologie_p5_q89",
+      "question": "Quel est l’intérêt d’un pressurage doux ?",
+      "options": [
+        "Limiter l’extraction excessive de composés indésirables",
+        "Augmenter automatiquement le sucre",
+        "Créer des tanins",
+        "Supprimer l’eau"
+      ],
+      "correct_answer": 0,
+      "explanation": "Un pressurage doux peut limiter l’extraction de composés phénoliques ou végétaux indésirables.",
+      "thematique": "Vinification",
+      "domain": "oenologie",
+      "level": 5
+    },
+    {
+      "id": "oenologie_p5_q90",
+      "question": "Quel est l’objectif d’un élevage en cuve inox plutôt qu’en bois ?",
+      "options": [
+        "Ajouter de la vanille",
+        "Créer des tanins de chêne",
+        "Préserver le caractère fruité sans apport direct des composés du bois",
+        "Augmenter l’alcool"
+      ],
+      "correct_answer": 2,
+      "explanation": "L’inox n’apporte pas les composés aromatiques du bois et permet une expression plus directe du fruit.",
+      "thematique": "Vinification",
+      "domain": "oenologie",
+      "level": 5
+    },
+    {
+      "id": "oenologie_p5_q91",
+      "question": "Pourquoi les lies peuvent-elles augmenter la complexité d’un vin ?",
+      "options": [
+        "Elles augmentent toujours le sucre",
+        "L’autolyse des levures libère des composés influençant texture et arômes",
+        "Elles créent de l’alcool",
+        "Elles suppriment l’acidité"
+      ],
+      "correct_answer": 1,
+      "explanation": "L’autolyse libère notamment des composés qui peuvent enrichir texture et complexité.",
+      "thematique": "Élevage",
+      "domain": "oenologie",
+      "level": 5
+    },
+    {
+      "id": "oenologie_p5_q92",
+      "question": "Quel est l’effet recherché par une micro-oxygénation maîtrisée ?",
+      "options": [
+        "Créer des bulles",
+        "Augmenter le sucre",
+        "Supprimer les tanins",
+        "Favoriser certaines évolutions et l’assouplissement de la structure"
+      ],
+      "correct_answer": 3,
+      "explanation": "Une exposition contrôlée à l’oxygène peut favoriser l’évolution et l’assouplissement de certains vins.",
+      "thematique": "Élevage",
+      "domain": "oenologie",
+      "level": 5
+    },
+    {
+      "id": "oenologie_p5_q93",
+      "question": "Quel niveau de chauffe du fût influence fortement son profil aromatique ?",
+      "options": [
+        "La chauffe du bois avant fabrication du fût",
+        "La couleur du raisin",
+        "Le pH du vin uniquement",
+        "La quantité de sucre"
+      ],
+      "correct_answer": 0,
+      "explanation": "La chauffe du bois transforme et libère différents composés aromatiques.",
+      "thematique": "Bois",
+      "domain": "oenologie",
+      "level": 5
+    },
+    {
+      "id": "oenologie_p5_q94",
+      "question": "Pourquoi le bois apporte-t-il des tanins ?",
+      "options": [
+        "Parce que le sucre devient tanin",
+        "Parce que l’alcool se transforme en tanin",
+        "Parce que le chêne contient des composés phénoliques extractibles",
+        "Parce que le CO₂ crée des tanins"
+      ],
+      "correct_answer": 2,
+      "explanation": "Le bois de chêne contient des composés phénoliques pouvant être extraits par le vin.",
+      "thematique": "Bois",
+      "domain": "oenologie",
+      "level": 5
+    },
+    {
+      "id": "oenologie_p5_q95",
+      "question": "Pourquoi la couleur d’un rouge évolue-t-elle vers des teintes plus orangées avec l’âge ?",
+      "options": [
+        "Le vin devient automatiquement plus sucré",
+        "Les pigments et composés phénoliques évoluent et une partie précipite",
+        "Les levures produisent du colorant",
+        "Le pH devient nul"
+      ],
+      "correct_answer": 1,
+      "explanation": "Le vieillissement modifie les pigments et favorise des réactions et précipitations qui changent la couleur.",
+      "thematique": "Évolution",
+      "domain": "oenologie",
+      "level": 5
+    },
+    {
+      "id": "oenologie_p5_q96",
+      "question": "Pourquoi un blanc peut-il devenir doré avec l’âge ?",
+      "options": [
+        "Le sucre se transforme en pigment bleu",
+        "Les tanins rouges apparaissent",
+        "Le CO₂ devient jaune",
+        "Des réactions d’évolution, notamment oxydatives, modifient ses composés colorants"
+      ],
+      "correct_answer": 3,
+      "explanation": "L’évolution du vin blanc peut intensifier les teintes dorées, notamment avec l’oxydation.",
+      "thematique": "Évolution",
+      "domain": "oenologie",
+      "level": 5
+    },
+    {
+      "id": "oenologie_p5_q97",
+      "question": "Quel est l’objectif d’un nettoyage efficace du matériel de cave ?",
+      "options": [
+        "Réduire les résidus et les sources de contamination",
+        "Augmenter l’alcool",
+        "Créer des tanins",
+        "Modifier le cépage"
+      ],
+      "correct_answer": 0,
+      "explanation": "Le nettoyage réduit les résidus organiques qui pourraient favoriser des contaminations et altérations.",
+      "thematique": "Hygiène",
+      "domain": "oenologie",
+      "level": 5
+    },
+    {
+      "id": "oenologie_p5_q98",
+      "question": "Quelle espèce de levure est très courante en fermentation œnologique ?",
+      "options": [
+        "Oenococcus oeni",
+        "Acetobacter aceti",
+        "Saccharomyces cerevisiae",
+        "Botrytis cinerea"
+      ],
+      "correct_answer": 2,
+      "explanation": "Saccharomyces cerevisiae est une levure majeure de la fermentation alcoolique.",
+      "thematique": "Microbiologie",
+      "domain": "oenologie",
+      "level": 5
+    },
+    {
+      "id": "oenologie_p5_q99",
+      "question": "Quel équipement permet de contrôler précisément la température d’une cuve ?",
+      "options": [
+        "Un tire-bouchon",
+        "Une cuve thermorégulée",
+        "Une carafe",
+        "Un densimètre seul"
+      ],
+      "correct_answer": 1,
+      "explanation": "Une cuve thermorégulée dispose d’un système permettant de maîtriser la température.",
+      "thematique": "Technologie",
+      "domain": "oenologie",
+      "level": 5
+    },
+    {
+      "id": "oenologie_p5_q100",
+      "question": "Pourquoi surveille-t-on la densité pendant une fermentation ?",
+      "options": [
+        "Pour mesurer la couleur",
+        "Pour calculer le nombre de tanins",
+        "Pour contrôler le bouchon",
+        "Pour suivre la diminution des sucres fermentescibles"
+      ],
+      "correct_answer": 3,
+      "explanation": "La densité diminue généralement à mesure que les sucres sont consommés et que l’alcool se forme.",
+      "thematique": "Technologie",
+      "domain": "oenologie",
+      "level": 5
+    }
+  ],
+  "metadata": {
+    "questions": 300,
+    "indexation_correct_answer": "0=A, 1=B, 2=C, 3=D",
+    "placeholders_restants": 0,
+    "remplacements": {
+      "Sommellerie": "Q41-Q80 (40)",
+      "WSET": "Q21-Q100 (80)",
+      "Œnologie": "Q21-Q100 (80)"
+    }
+  }
+}
